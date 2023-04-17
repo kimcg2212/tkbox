@@ -1,0 +1,1313 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="title" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta name="publisher" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta name="author" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta name="robots" content="index,follow" />
+<meta name="keywords" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta name="description" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta property="og:site_name" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta property="og:author" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta property="og:type" content="" />
+<meta property="og:description" content="tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기" />
+<meta property="og:url" content="http://v78.bozayo.net/" />
+<link rel="canonical" href="http://v78.bozayo.net/" />
+<title>tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기</title>
+<link rel="stylesheet" href="http://v78.bozayo.net/css/default.css?ver=171013">
+<link rel="stylesheet" href="http://v78.bozayo.net/css/apms.css?ver=171013">
+
+<link rel="stylesheet" href="http://v78.bozayo.net/thema/Basic/assets/bs3/css/bootstrap.min.css" type="text/css" class="thema-mode">
+<link rel="stylesheet" href="http://v78.bozayo.net/thema/Basic/colorset/Basic/colorset.css" type="text/css" class="thema-colorset">
+<link rel="stylesheet" href="http://v78.bozayo.net/thema/Basic/widget/basic-keyword/widget.css?ver=171013">
+<link rel="stylesheet" href="http://v78.bozayo.net/thema/Basic/widget/basic-post-list/widget.css?ver=171013">
+<link rel="stylesheet" href="http://v78.bozayo.net/thema/Basic/widget/basic-post-list2/widget.css?ver=171013">
+<link rel="stylesheet" href="http://v78.bozayo.net/thema/Basic/widget/basic-sidebar/widget.css?ver=171013">
+<link rel="stylesheet" href="http://v78.bozayo.net/css/font-awesome/css/font-awesome.min.css?ver=171013">
+<link rel="stylesheet" href="http://v78.bozayo.net/css/level/basic.css?ver=171013">
+
+<!--[if lte IE 8]>
+<script src="http://v78.bozayo.net/js/html5.js"></script>
+<![endif]-->
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "http://v78.bozayo.net";
+var g5_bbs_url   = "http://v78.bozayo.net/bbs";
+var g5_is_member = "";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "";
+var g5_sca       = "";
+var g5_pim       = "";
+var g5_editor    = "";
+var g5_responsive    = "1";
+var g5_cookie_domain = "";
+var g5_purl = "http://v78.bozayo.net/";
+</script>
+<script src="http://v78.bozayo.net/js/jquery-1.11.3.min.js"></script>
+<script src="http://v78.bozayo.net/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="http://v78.bozayo.net/lang/korean/lang.js?ver=171013"></script>
+<script src="http://v78.bozayo.net/js/common.js?ver=171013"></script>
+<script src="http://v78.bozayo.net/js/wrest.js?ver=171013"></script>
+<script src="http://v78.bozayo.net/js/apms.js?ver=171013"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZEW1N4WH4X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZEW1N4WH4X');
+</script>
+
+
+<script src="http://v78.bozayo.net/plugin/apms/js/jquery.mobile.swipe.min.js"></script>
+</head>
+<body class="responsive is-pc">
+
+	<h1 style="display:inline-block !important;position:absolute;top:0;left:0;margin:0 !important;padding:0 !important;font-size:0;line-height:0;border:0 !important;overflow:hidden !important">
+	tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기	</h1>
+
+<!-- 팝업레이어 시작 { -->
+<div id="hd_pop">
+    <h2>팝업레이어 알림</h2>
+
+<span class="sound_only">팝업레이어 알림이 없습니다.</span></div>
+
+<script>
+$(function() {
+    $(".hd_pops_reject").click(function() {
+        var id = $(this).attr('class').split(' ');
+        var ck_name = id[1];
+        var exp_time = parseInt(id[2]);
+        $("#"+id[1]).css("display", "none");
+        set_cookie(ck_name, 1, exp_time, g5_cookie_domain);
+    });
+    $('.hd_pops_close').click(function() {
+        var idb = $(this).attr('class').split(' ');
+        $('#'+idb[1]).css('display','none');
+    });
+    $("#hd").css("z-index", 1000);
+});
+</script>
+<!-- } 팝업레이어 끝 --><style>
+		
+	body { background-color: #ffffff; background-image: url('http://bozayo.net/data/apms/background/aaabbb.jpg');  }
+		.at-container {max-width:1200px;}
+	.no-responsive .wrapper, .no-responsive .at-container-wide { min-width:1200px; }
+	.no-responsive .boxed.wrapper, .no-responsive .at-container { width:1200px; }
+	.at-menu .nav-height { height:44px; line-height:44px !important; }
+	.pc-menu, .pc-menu .nav-full-back, .pc-menu .nav-full-height { height:44px; }
+	.pc-menu .nav-top.nav-float .menu-a { padding:0px 25px; }
+	.pc-menu .nav-top.nav-float .sub-1div::before { left: 25px; }
+	.pc-menu .subm-w { width:170px; }
+	@media all and (min-width:1200px) {
+		.responsive .boxed.wrapper { max-width:1200px; }
+	}
+</style>
+<div style="background: red;height: 30px;line-height: 30px;text-align: center;font-weight: bold;color: #fff;font-size: 1.3em;">
+    보자요 다음 주소는 https://v79.bozayo.net</div>
+<div id="thema_wrapper" class="wrapper  en">
+
+	<!-- LNB -->
+	
+	<!-- PC Header -->
+	<header class="pc-header">
+		<div class="at-container">
+			<!-- PC Logo -->
+			<div class="header-logo">
+				<a href="http://v78.bozayo.net">
+					<img src="/img/bozayologos.png" style="height:auto;display: inline;max-height: 90px;">
+				</a>
+				<span class="header-desc">
+					당신의 무료함을 덜어 - 보자요
+				</span>
+			</div>
+			<!-- PC Search 
+			<div class="header-search">
+				<form name="tsearch" method="get" onsubmit="return tsearch_submit(this);" role="form" class="form">
+				<input type="hidden" name="url"	value="http://v78.bozayo.net/bbs/search.php">
+					<div class="input-group input-group-sm">
+						<input type="text" name="stx" class="form-control input-sm" value="">
+						<span class="input-group-btn">
+							<button type="submit" class="btn btn-sm"><i class="fa fa-search fa-lg"></i></button>
+						</span>
+					</div>
+				</form>
+				<div class="header-keyword">
+					<div class="basic-keyword">
+			<span class="stx">
+						<a href="http://v78.bozayo.net/bbs/search.php?stx=1%EB%B0%95+2%EC%9D%BC">1박 2일</a>
+		</span>
+			<span class="stx">
+							<span class="sp">|</span>
+						<a href="http://v78.bozayo.net/bbs/search.php?stx=%EB%AD%89%EC%B3%90%EC%95%BC+%EC%B0%AC%EB%8B%A4">뭉쳐야 찬다</a>
+		</span>
+			<span class="stx">
+							<span class="sp">|</span>
+						<a href="http://v78.bozayo.net/bbs/search.php?stx=%EB%9F%B0%EB%8B%9D%EB%A7%A8">런닝맨</a>
+		</span>
+	</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>-->
+		</div>
+	</header>
+
+	<!-- Mobile Header -->
+	<header class="m-header">
+		<div class="at-container">
+			<div class="header-wrap">
+				<div class="header-icon">
+					<a href="javascript:;" onclick="sidebar_open('sidebar-user');">
+						<i class="fa fa-user"></i>
+					</a>
+				</div>
+				<div class="header-logo en">
+					<!-- Mobile Logo -->
+					<a href="http://v78.bozayo.net">
+						<img src="/img/bozayologos.png" style="width:150px;height:auto">
+					</a>
+				</div>
+				<div class="header-icon">
+					<a href="javascript:;" onclick="sidebar_open('sidebar-search');">
+						<i class="fa fa-search"></i>
+					</a>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+
+	<!-- Menu -->
+	<nav class="at-menu">
+		<!-- PC Menu -->
+		<div class="pc-menu">
+			<!-- Menu Button & Right Icon Menu -->
+			<div class="at-container">
+				<div class="nav-right nav-rw nav-height">
+					<ul>
+												<li>
+							<a href="javascript:;" onclick="sidebar_open('sidebar-response');" data-original-title="<nobr>알림</nobr>" data-toggle="tooltip" data-placement="top" data-html="true">
+								<i class="fa fa-bell"></i>
+								<span class="label bg-orangered en" style="display:none;">
+									<span class="msgCount">0</span>
+								</span>
+							</a>
+						</li>
+						<li>
+							<a href="javascript:;" onclick="sidebar_open('sidebar-search');" data-original-title="<nobr>검색</nobr>" data-toggle="tooltip" data-placement="top" data-html="true">
+								<i class="fa fa-search"></i>
+							</a>
+						</li>
+						<li class="menu-all-icon" data-original-title="<nobr>전체메뉴</nobr>" data-toggle="tooltip" data-placement="top" data-html="true">
+							<a href="javascript:;" data-toggle="collapse" data-target="#menu-all">
+								<i class="fa fa-th"></i>
+							</a>
+						</li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			
+
+	<div class="nav-visible">
+		<div class="at-container">
+			<div class="nav-top nav-both nav-slide">
+				<ul class="menu-ul">
+				<li class="menu-li nav-home on">
+					<a class="menu-a nav-height" href="http://v78.bozayo.net">
+						<i class="fa fa-home"></i>
+					</a>
+				</li>
+				<li class="menu-li ">
+						<a class="menu-a nav-height" href="/bbs/board.php?bo_table=drama">
+							드라마
+						</a>
+				</li>
+				<li class="menu-li ">
+						<a class="menu-a nav-height" href="/bbs/board.php?bo_table=movie">
+							영화
+						</a>
+				</li>
+				<li class="menu-li ">
+						<a class="menu-a nav-height" href="/bbs/board.php?bo_table=show">
+							예능
+						</a>
+				</li>
+				<li class="menu-li ">
+						<a class="menu-a nav-height" href="/bbs/board.php?bo_table=fun">
+							유머
+						</a>
+				</li>
+				<li class="menu-li ">
+						<a class="menu-a nav-height" href="/bbs/board.php?bo_table=enter">
+							연예
+						</a>
+				</li>
+				<!-- 우측공간 확보용 -->
+				<li class="menu-li nav-rw"><a>&nbsp;</a></li>
+				</ul>
+			</div><!-- .nav-top -->
+		</div>	<!-- .nav-container -->
+	</div><!-- .nav-visible -->
+
+			<div class="clearfix"></div>
+			<div class="nav-back"></div>
+		</div><!-- .pc-menu -->
+
+		<!-- PC All Menu -->
+		<div class="pc-menu-all">
+			<div id="menu-all" class="collapse">
+				<div class="at-container table-responsive">
+					<table class="table">
+					<tr>
+											<td class="off">
+							<a class="menu-a" href="/bbs/board.php?bo_table=fun">
+								유머															</a>
+													</td>
+											<td class="off">
+							<a class="menu-a" href="/bbs/board.php?bo_table=enter">
+								연예															</a>
+													</td>
+											<td class="off">
+							<a class="menu-a" href="https://v78.bozayo.net" target="target">
+								다시보기															</a>
+													</td>
+											<td class="off">
+							<a class="menu-a" href="/bbs/board.php?bo_table=tip">
+								생활정보															</a>
+													</td>
+											<td class="off">
+							<a class="menu-a" href="/bbs/board.php?bo_table=text">
+								좋은글·명언															</a>
+													</td>
+										</tr>
+					</table>
+					<div class="menu-all-btn">
+						<div class="btn-group">
+							<a class="btn btn-lightgray" href="http://v78.bozayo.net"><i class="fa fa-home"></i></a>
+							<a href="javascript:;" class="btn btn-lightgray" data-toggle="collapse" data-target="#menu-all"><i class="fa fa-times"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- .pc-menu-all -->
+
+		<!-- Mobile Menu -->
+		<div class="m-menu">
+			<div class="m-wrap">
+	<div class="at-container">
+		<div class="m-table en">
+			<div class="m-icon">
+				<a href="javascript:;" onclick="sidebar_open('sidebar-menu');"><i class="fa fa-bars"></i></a>
+			</div>
+						<div class="m-list">
+				<div class="m-nav" id="mobile_nav">
+					<ul class="clearfix">
+					<li>
+						<a href="http://v78.bozayo.net">메인</a>
+					</li>
+					<li>
+						<a class="menu-a nav-height" href="/bbs/board.php?bo_table=drama">
+							드라마
+						</a>
+					</li>
+					<li>
+							<a class="menu-a nav-height" href="/bbs/board.php?bo_table=movie">
+								영화
+							</a>
+					</li>
+					<li>
+							<a class="menu-a nav-height" href="/bbs/board.php?bo_table=show">
+								예능
+							</a>
+					</li>
+					<li>
+						<a href="/bbs/board.php?bo_table=fun">
+							유머
+						</a>
+					</li>
+					<li>
+							<a href="/bbs/board.php?bo_table=enter">
+								연예
+							</a>
+					</li>
+					</ul>
+				</div>
+			</div>
+						<div class="m-icon">
+				<a href="javascript:;" onclick="sidebar_open('sidebar-response');">
+					<i class="fa fa-bell"></i>
+					<span class="label bg-orangered en" style="display:none;">
+						<span class="msgCount">0</span>
+					</span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="clearfix"></div>
+
+		</div><!-- .m-menu -->
+	</nav><!-- .at-menu -->
+
+	<div class="clearfix"></div>
+	
+	
+	<div class="at-body">
+	<div style="text-align:center">
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- v_top -->
+	<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-9148781475294348"
+		 data-ad-slot="8418913518"
+		 data-ad-format="auto"
+		 data-full-width-responsive="true"></ins>
+	<script>
+		 (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+		</div>
+		<style>
+	.widget-index .at-main,
+	.widget-index .at-side { padding-top:10px; padding-bottom:0px; }
+	.widget-index .div-title-underbar { margin-bottom:15px; }
+	.widget-index .div-title-underbar span { padding-bottom:4px;}
+	.widget-index .div-title-underbar span b { font-weight:500; }
+	.widget-index .widget-img img { display:block; max-width:100%; /* 배너 이미지 */ }
+    .widget-box { margin-bottom:25px; height: 100%;min-height: 200px;}
+	.nav {margin-bottom: 5px;}
+</style>
+
+
+<div class="at-container widget-index">
+
+	<div class="row at-row">
+		<!-- 메인 영역 -->
+		<div class="col-md-9 at-col at-main">
+			
+			<div class="row">
+				<div class="col-sm-6">
+
+					<!-- 게시판1  -->
+					<div class="div-title-underbar">
+						<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama">
+							<span class="pull-right lightgray font-16 en">더보기</span>
+							<span class="div-title-underbar-bold border-blue font-16 en">
+								<h2>드라마</h2>
+							</span>
+						</a>
+					</div>
+					<div class="widget-box">
+						<div class="basic-post-list">
+	
+<ul class="post-list">
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=9043">
+						<span class="wr-icon wr-new"></span>			닥터 차정숙		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8795">
+						<span class="wr-icon wr-new"></span>			판도라 : 조작된 낙원		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8895">
+						<span class="wr-icon wr-new"></span>			진짜가 나타났다!		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=9056">
+						<span class="wr-icon wr-new"></span>			테스트2		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=9045">
+						<span class="wr-icon wr-new"></span>			퀸메이커		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8654">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			모범택시2		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8937">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			조선변호사		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=4055">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			독립영화관		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8905">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			금이야 옥이야		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8807">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			비밀의 여자		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=7628">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			마녀의 게임		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=9025">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			보라 데보라		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=9021">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			스틸러:일곱 개의 조선통보		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8945">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			여덟 번째 감각		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8686">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			사랑이라 말해요		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=3444">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			모범택시		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=9007">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			종이달		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=drama&amp;wr_id=8763">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			오아시스		</a> 
+	</li>
+</ul>
+</div>
+					</div>
+					 	<!-- 게시판1 -->
+
+				</div>
+				<div class="col-sm-6">
+
+					<!-- 게시판2-->
+					<div class="div-title-underbar">
+						<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show">
+							<span class="pull-right lightgray font-16 en">더보기</span>
+							<span class="div-title-underbar-bold border-blue font-16 en">
+								<h2>예능</h2>
+							</span>
+						</a>
+					</div>
+					<div class="widget-box">
+						 <div class="basic-post-list">
+	
+<ul class="post-list">
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=67">
+						<span class="wr-icon wr-new"></span>			구해줘 홈즈		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=68">
+						<span class="wr-icon wr-new"></span>			이제 만나러 갑니다		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=29367">
+						<span class="wr-icon wr-new"></span>			더 시즌즈 : 박재범의 드라이브		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=32286">
+						<span class="wr-icon wr-new"></span>			지선씨네마인드2		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=69">
+						<span class="wr-icon wr-new"></span>			알토란		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=32278">
+						<span class="wr-icon wr-new"></span>			생명의 바다 지중해		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=28615">
+						<span class="wr-icon wr-new"></span>			걸어서 환장 속으로		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=65">
+						<span class="wr-icon wr-new"></span>			미운 우리 새끼		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=22019">
+						<span class="wr-icon wr-new"></span>			물 건너온 아빠들		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=16496">
+						<span class="wr-icon wr-new"></span>			역사저널 그날		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=14702">
+						<span class="wr-icon wr-new"></span>			뭉쳐야 찬다2		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=31172">
+						<span class="wr-icon wr-new"></span>			혜미리예채파		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=8502">
+						<span class="wr-icon wr-new"></span>			스타다큐 마이웨이		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=2330">
+						<span class="wr-icon wr-new"></span>			맨 인 블랙박스		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=3375">
+						<span class="wr-icon wr-new"></span>			동물의 왕국		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=23071">
+						<span class="wr-icon wr-new"></span>			글로벌 특선다큐		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=32269">
+						<span class="wr-icon wr-new"></span>			장사천재 백사장		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=show&amp;wr_id=32267">
+						<span class="wr-icon wr-new"></span>			노래하는 대한민국		</a> 
+	</li>
+</ul>
+</div>
+					</div>
+					 <!--게시판2 -->
+
+				</div>
+
+				<div class="col-sm-12">
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- v1_main2 -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-9148781475294348"
+						 data-ad-slot="2561479658"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+				</div>
+				<div class="col-sm-6">
+<br/>
+					<!-- 게시판3 -->
+					<div class="div-title-underbar">
+						<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie">
+							<span class="pull-right lightgray font-16 en">더보기</span>
+							<span class="div-title-underbar-bold border-blue font-16 en">
+								<h2>영화</h2>
+							</span>
+						</a>
+					</div>
+					<div class="widget-box">
+						<div class="basic-post-list">
+	
+<ul class="post-list">
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1338">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			멍뭉이 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1337">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			다음 소희 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1336">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			어쩌면 우린 헤어졌는지 모른다 (2023)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1335">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			살수 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1334">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			교섭 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1333">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			스마트폰을 떨어뜨렸을 뿐인데 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1332">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			유령 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1331">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			열여덟, 어른이 되는 나이 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1330">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			벤데타 : 복수의 시간(2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1329">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			블랙팬서 : 와칸다 포에버(2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1328">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			관계의 일변(2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1327">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			걸스인더케이지 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1326">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			정이 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1325">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			올빼미(2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1324">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			솔캠 (2022)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1323">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			젠틀맨 (2021)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1322">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			강남좀비 (2023)		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=movie&amp;wr_id=1321">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			귀못(2022)		</a> 
+	</li>
+</ul>
+</div>
+					</div>
+					 	<!-- 게시판3 -->
+
+				</div>
+				<div class="col-sm-6">
+<br/><!-- 게시판4  -->
+					<div class="div-title-underbar">
+						<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun">
+							<span class="pull-right lightgray font-16 en">더보기</span>
+							<span class="div-title-underbar-bold border-blue font-16 en">
+								<h2>유머</h2>
+							</span>
+						</a>
+					</div>
+					<div class="widget-box">
+						<div class="basic-post-list">
+	
+<ul class="post-list">
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2681">
+						<span class="wr-icon wr-new"></span>			누나가 8명이라 조카만 13명인 김재중.		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2680">
+						<span class="wr-icon wr-new"></span>			고증때문에 인기 떡락한 드라마		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2679">
+						<span class="wr-icon wr-new"></span>			무시무시한 놀면뭐하니 근황.jpg		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2678">
+						<span class="wr-icon wr-new"></span>			기안84 승부욕이 엄청나구나...		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2677">
+						<span class="wr-icon wr-new"></span>			해체 직전까지 간 슈퍼주니어 몸싸움 사건		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2675">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			엄마에게 한숨 빨리 듣기 시합		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2674">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			1박2일 나영석 피디 인생이 끝날뻔했던 순간...JPG		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2673">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			소식좌 박소현 근황		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2672">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			카드 내역서 아주 문란하다는 유민상		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2671">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			ㅇㅎ 일체짤이라도 감수하고 볼 정도로 훌륭한 ai		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2670">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			연예인 자숙 레전드		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2669">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			처음 만나 어색한 24살 배우와 고2 걸그룹의 친해지기		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2668">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			박수홍의 새로운 시련		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2667">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			연예인 이혼 기자회견 ㄹㅈㄷ		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2665">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			자고있다가 깨었는데 와이프가 이렇게 입고오면?		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2663">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			짜장면 먹고 화내는 게 이해 안 갔던 유해진		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2662">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			갑자기 회식이 하고 싶었던 대기업 회장		</a> 
+	</li>
+	<li class="ellipsis">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=fun&amp;wr_id=2660">
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			반찬시장 의외의 1위		</a> 
+	</li>
+</ul>
+</div>
+					</div>
+					 	<!-- 게시판4 -->
+
+					
+
+				</div>
+
+			</div>
+
+			<div class="row">
+				
+			</div>
+
+<br/>
+
+		<div class="row at-row">
+					<div class="col-sm-6">
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- v1_main3 -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-9148781475294348"
+							 data-ad-slot="8549423062"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
+
+					<div class="col-sm-6">
+
+					<!-- 게시판2-->
+					<div class="div-title-underbar">
+						<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip">
+							<span class="pull-right lightgray font-16 en">더보기</span>
+							<span class="div-title-underbar-bold border-blue font-16 en">
+								<h2>생활정보</h2>
+							</span>
+						</a>
+					</div>
+					<div class="widget-box">
+						<div class="basic-post-list">
+	
+<ul class="post-list">
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=147" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;09.08									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			<b>하루 한세트씩 하면 좋은 운동들.JPG</b>		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=145" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;06.22									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			매일 걷기의 효능		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=144" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;06.22									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			초보) 노트북 살때.Tip		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=143" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;06.22									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			의외로 근본있는 음식		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=142" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;06.22									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			요즘 핫한(?) 식물성 음료		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=141" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;05.28									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			아침에 허리를 쉽게 다치는 이유		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=140" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;05.28									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			컴퓨터에서 꼭 삭제 해야할 프로그램.		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=139" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;05.28									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			절대 계약하면 안 되는 집		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=138" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;05.17									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			옛날에는 고급초밥이었다는 초밥		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=tip&amp;wr_id=137" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;04.19									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			라면 레시피		</a> 
+	</li>
+</ul>
+</div>
+					</div>
+					 <!-- 게시판2 -->
+
+				</div>
+</div>
+			
+			<div class="row">
+				<div class="col-sm-12">
+				</div>
+				<div class="col-sm-6">
+				</div>
+			</div>	
+
+		</div>
+		<!-- 사이드 영역 -->
+
+		<div class="col-md-3 at-col at-side">
+		
+
+		<!-- 광고 시작 -->
+			<div class="widget-box">
+				<div style="width:100%; min-height:280px; line-height:280px; text-align:center; background:#f5f5f5;">
+									<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- v_side -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-9148781475294348"
+						 data-ad-slot="9056481419"
+						 data-ad-format="auto"
+						 data-full-width-responsive="true"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+									</div>
+			</div>
+			<!-- 광고 끝 -->
+
+
+				<div class="hidden-sm hidden-xs">
+				
+				</div>
+				<!-- 게시판3  -->
+					<div class="div-title-underbar">
+						<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter">
+							<span class="pull-right lightgray font-16 en">더보기</span>
+							<span class="div-title-underbar-bold border-blue font-16 en">
+								<h2>연예</h2>
+							</span>
+						</a>
+					</div>
+					<div class="widget-box">
+						<div class="basic-post-list">
+	
+<ul class="post-list">
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2493" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;04.17									</span>
+						<span class="wr-icon wr-new"></span>			송중기 재산 ㄷㄷ		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2492" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;04.17									</span>
+						<span class="wr-icon wr-new"></span>			한소희 화보		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2491" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;04.17									</span>
+						<span class="wr-icon wr-new"></span>			개그우먼 맹승지 근황		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2490" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;04.17									</span>
+						<span class="wr-icon wr-new"></span>			34살 박보영, 32살 안소희 근황		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2489" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;04.17									</span>
+						<span class="wr-icon wr-new"></span>			모범택시 시즌 3 제작확정		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2488" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;03.24									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			문동은에게 90도 인사박는 손명오		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2487" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;03.24									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			카리나 보고 가세요		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2486" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;03.24									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			강호동 이승기..예능 강심장 다시 부활한다.		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2485" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;03.24									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			작고 소중한 앨리스 유경		</a> 
+	</li>
+	<li class="ellipsis" id="bli">
+		<a href="http://v78.bozayo.net/bbs/board.php?bo_table=enter&amp;wr_id=2484" target='_blank'>
+			 
+				<span class="pull-right gray font-12">
+																&nbsp;03.24									</span>
+						<span class="lightgray"><i class='fa fa-caret-right'></i></span>			배우 이열음		</a> 
+	</li>
+</ul>
+</div>
+					</div>
+					 	 <!--게시판3 -->
+		
+
+			<div class="row">
+				<div class="col-md-12 col-sm-6">		
+				</div>
+				<div class="col-md-12 col-sm-6">
+					
+				</div>
+			</div>
+
+			<!-- SNS아이콘 시작 -->
+			<div class="widget-box text-center">
+				<div class="sns-share-icon">
+<a href="http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=facebook" onclick="apms_sns('facebook','http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=facebook'); return false;" target="_blank"><img src="http://v78.bozayo.net/thema/Basic/assets/img/sns_fb.png" alt="Facebook"></a>
+<a href="http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=twitter" onclick="apms_sns('twitter','http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=twitter'); return false;" target="_blank"><img src="http://v78.bozayo.net/thema/Basic/assets/img/sns_twt.png" alt="Twitter"></a>
+<a href="http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=gplus" onclick="apms_sns('googleplus','http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=gplus'); return false;" target="_blank"><img src="http://v78.bozayo.net/thema/Basic/assets/img/sns_goo.png" alt="GooglePlus"></a>
+<a href="http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=kakaostory" onclick="apms_sns('kakaostory','http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=kakaostory'); return false;" target="_blank"><img src="http://v78.bozayo.net/thema/Basic/assets/img/sns_kakaostory.png" alt="KakaoStory"></a>
+
+<a href="http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=naverband" onclick="apms_sns('naverband','http://v78.bozayo.net/bbs/sns_send.php?longurl=http%3A%2F%2Fv78.bozayo.net&amp;title=tv%EB%8B%A4%EC%8B%9C%EB%B3%B4%EC%9E%90%EC%9A%94-%EB%93%9C%EB%9D%BC%EB%A7%88+%EC%98%81%ED%99%94+%EC%98%A4%EB%9D%BD+%EC%98%88%EB%8A%A5+%EC%8B%9C%EC%82%AC+%EC%95%A0%EB%8B%88+TV+%EB%AC%B4%EB%A3%8C%ED%8B%B0%EB%B9%84%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&amp;sns=naverband'); return false;" target="_blank"><img src="http://v78.bozayo.net/thema/Basic/assets/img/sns_naverband.png" alt="NaverBand"></a>
+</div>			</div>
+			<!-- SNS아이콘 끝 -->
+
+		</div>
+	</div>
+</div>
+			</div><!-- .at-body -->
+
+			<footer class="at-footer">
+			<nav class="at-links">
+				
+				<div class="at-container">
+					'보자요' 에서 제공되는 모든 동영상은 인터넷상에서 수집된 자료를 링크하여 제공됩니다. 링크된 모든 동영상은 보자요::bozayo.com와는 어떠한 연관도 없으며 각 동영상제공자의 사정에 따라 재생이 불가하거나 삭제처리 될 수 있습니다.
+					<div class="clearfix"></div>
+				</div>
+			</nav>
+			<div class="at-infos">
+				<div class="at-container">
+											<div class="at-copyright">
+							<i class="fa fa-leaf"></i>
+							<strong>tv다시보자요-드라마 영화 오락 예능 시사 애니 TV 무료티비다시보기 <i class="fa fa-copyright"></i></strong>
+							All rights reserved.
+						</div>
+									</div>
+			</div>
+		</footer>
+	</div><!-- .wrapper -->
+
+<div class="at-go">
+	<div id="go-btn" class="go-btn">
+		<span class="go-top cursor"><i class="fa fa-chevron-up"></i></span>
+		<span class="go-bottom cursor"><i class="fa fa-chevron-down"></i></span>
+	</div>
+</div>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://v78.bozayo.net/thema/Basic/assets/js/respond.js"></script>
+<![endif]-->
+
+<!-- JavaScript -->
+<script>
+var sub_show = "slide";
+var sub_hide = "";
+var menu_startAt = "0";
+var menu_sub = "";
+var menu_subAt = "0";
+</script>
+<script src="http://v78.bozayo.net/thema/Basic/assets/bs3/js/bootstrap.min.js"></script>
+<script src="http://v78.bozayo.net/thema/Basic/assets/js/sly.min.js"></script>
+<script src="http://v78.bozayo.net/thema/Basic/assets/js/custom.js"></script>
+<script src="http://v78.bozayo.net/thema/Basic/assets/js/sticky.js"></script>
+
+<script>
+var sidebar_url = "http://v78.bozayo.net/thema/Basic/widget/basic-sidebar";
+var sidebar_time = "30";
+</script>
+<script src="http://v78.bozayo.net/thema/Basic/widget/basic-sidebar/sidebar.js"></script>
+
+<!-- sidebar Box -->
+<aside id="sidebar-box" class="en">
+
+	<!-- Head Line -->
+	<div class="sidebar-head bg-navy"></div>
+
+	<!-- sidebar Wing -->
+	<div class="sidebar-wing">
+		<!-- sidebar Wing Close -->
+		<div class="sidebar-wing-close sidebar-close en" title="닫기">
+			<i class="fa fa-times"></i>
+		</div>
+	</div>
+
+	<!-- sidebar Content -->
+	<div id="sidebar-content" class="sidebar-content">
+
+		<div class="h30"></div>
+
+		<!-- Common -->
+		<div class="sidebar-common">
+
+			<!-- Login -->
+			<div class="btn-group btn-group-justified" role="group">
+									<a href="#" onclick="sidebar_open('sidebar-user'); return false;" class="btn btn-navy btn-sm">로그인</a>
+					<a href="http://v78.bozayo.net/bbs/register.php" class="btn btn-navy btn-sm">회원가입</a>
+					<a href="http://v78.bozayo.net/bbs/password_lost.php" class="win_password_lost btn btn-navy btn-sm">정보찾기</a>
+							</div>
+
+			<div class="h15"></div>
+
+		</div>
+
+		<!-- Menu -->
+		<div id="sidebar-menu" class="sidebar-item">
+			
+<!-- Categroy -->
+<div class="div-title-underline-thin en">
+	<b>MENU</b>
+</div>
+
+<div class="sidebar-icon-tbl">
+	<div class="sidebar-icon-cell">
+		<a href="http://v78.bozayo.net">
+			<i class="fa fa-home circle light-circle normal"></i>
+			<span>홈으로</span>
+		</a>
+	</div>
+	<div class="sidebar-icon-cell">
+		<a href="http://v78.bozayo.net/bbs/qalist.php">
+			<i class="fa fa-commenting circle light-circle normal"></i>
+			<span>1:1 문의</span>
+		</a>
+	</div>
+</div>
+
+<div class="sidebar-menu panel-group" id="sidebar_menu" role="tablist" aria-multiselectable="true">
+						<div class="panel">
+				<div class="ca-head" role="tab">
+					<a href="/bbs/board.php?bo_table=fun" class="no-sub">
+						유머											</a>
+				</div>
+			</div>
+								<div class="panel">
+				<div class="ca-head" role="tab">
+					<a href="/bbs/board.php?bo_table=enter" class="no-sub">
+						연예											</a>
+				</div>
+			</div>
+								<div class="panel">
+				<div class="ca-head" role="tab">
+					<a href="https://v78.bozayo.net" target="target" class="no-sub">
+						다시보기											</a>
+				</div>
+			</div>
+								<div class="panel">
+				<div class="ca-head" role="tab">
+					<a href="/bbs/board.php?bo_table=tip" class="no-sub">
+						생활정보											</a>
+				</div>
+			</div>
+								<div class="panel">
+				<div class="ca-head" role="tab">
+					<a href="/bbs/board.php?bo_table=text" class="no-sub">
+						좋은글·명언											</a>
+				</div>
+			</div>
+			</div>
+
+<div class="h20"></div>
+
+
+		</div>
+
+		<!-- Search -->
+		<div id="sidebar-search" class="sidebar-item">
+			
+<!-- Search -->
+<div class="div-title-underline-thin en">
+	<b>SEARCH</b>
+</div>
+<div class="sidebar-search">
+	<form id="ctrlSearch" name="ctrlSearch" method="get" onsubmit="return sidebar_search(this);" role="form" class="form">
+		<div class="row">
+			<div class="col-xs-6">
+				<select name="url" class="form-control input-sm">
+					<option value="http://v78.bozayo.net/bbs/search.php">게시물</option>
+										<option value="http://v78.bozayo.net/bbs/tag.php">태그</option>
+				</select>
+			</div>
+			<div class="col-xs-6">
+				<select name="sop" id="sop" class="form-control input-sm">
+					<option value="or">또는</option>
+					<option value="and">그리고</option>
+				</select>	
+			</div>
+		</div>
+		<div class="input-group input-group-sm" style="margin-top:8px;">
+			<input type="text" name="stx" class="form-control input-sm" value="" placeholder="검색어는 두글자 이상">
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-navy btn-sm"><i class="fa fa-search"></i></button>
+			</span>
+		</div>
+	</form>				
+</div>
+		</div>
+
+		<!-- User -->
+		<div id="sidebar-user" class="sidebar-item">
+			<div class="sidebar-login">
+	
+		<form id="sidebar_login_form" name="sidebar_login_form" method="post" action="http://v78.bozayo.net/bbs/login_check.php" autocomplete="off" role="form" class="form" onsubmit="return sidebar_login(this);">
+		<input type="hidden" name="url" value="%2F">
+			<div class="form-group">	
+				<div class="input-group">
+					<span class="input-group-addon"><i class="fa fa-user gray"></i></span>
+					<input type="text" name="mb_id" id="mb_id" class="form-control input-sm" placeholder="아이디" tabindex="91">
+				</div>
+			</div>
+			<div class="form-group">	
+				<div class="input-group">
+					<span class="input-group-addon"><i class="fa fa-lock gray"></i></span>
+					<input type="password" name="mb_password" id="mb_password" class="form-control input-sm" placeholder="비밀번호" tabindex="92">
+				</div>
+			</div>
+			<div class="form-group">
+				<button type="submit" class="btn btn-navy btn-block" tabindex="93">Login</button>    
+			</div>	
+
+			<label class="text-muted" style="letter-spacing:-1px;">
+				<input type="checkbox" name="auto_login" value="1" id="remember_me" class="remember-me" tabindex="94">
+				자동로그인 및 로그인 상태 유지
+			</label>
+		</form>
+
+		<div class="h10"></div>
+
+		
+		<!-- Member -->
+		<div class="div-title-underline-thin en">
+			<b>MEMBER</b>
+		</div>
+		<ul class="sidebar-list list-links">
+			<li><a href="http://v78.bozayo.net/bbs/register.php">회원가입</a></li>
+			<li><a href="http://v78.bozayo.net/bbs/password_lost.php" class="win_password_lost">아이디/비밀번호 찾기</a></li>
+		</ul>
+		
+	</div>
+
+<div class="h20"></div>
+
+<!-- Service -->
+<div class="div-title-underline-thin en">
+	<b>SERVICE</b>
+</div>
+
+<ul class="sidebar-list list-links">
+		<li><a href="http://v78.bozayo.net/bbs/qalist.php">1:1 문의</a></li>
+</ul>
+		</div>
+
+		<!-- Response -->
+		<div id="sidebar-response" class="sidebar-item">
+			<div id="sidebar-response-list"></div>
+		</div>
+
+		
+		<div class="h30"></div>
+	</div>
+
+</aside>
+
+<div id="sidebar-box-mask" class="sidebar-close"></div>
+
+
+<!-- 아미나빌더 1.7.20 / 그누보드 5.2.9.6 -->
+<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+
+</body>
+</html>
