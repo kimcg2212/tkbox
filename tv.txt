@@ -1,3 +1,4 @@
+韩国,#genre#
 KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
@@ -53,3 +54,22 @@ ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 북조선중앙티비,https://tv.nknews.org/tvdash/stream.mpd
 낚시방송,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+18+,#genre#
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+Stage,http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116425.m3u8
+BrazzersTV,https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+DorcelTV,https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+EroX,https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+EroXXX,https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+Hustler,http://23.237.100.82:8000/HUSTLER/index.m3u8
+HustlerHD,https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+PLAYBOY,http://23.237.100.82:8000/PLAYBOY/index.m3u8
+PENTHOUSE,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+PenthouseGold,http://51.159.102.100/PenthouseGold/index.m3u8
+PrivateTVHD,https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+PURETABOO,http://78.47.224.234/puretaboo/index.m3u8
+RedlightHD,https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+VisitXTV,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+XXXCartoons,http://144.76.58.245:2307/cartoon/index.m3u8
