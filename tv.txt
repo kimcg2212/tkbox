@@ -163,7 +163,7 @@ ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 북조선중앙티비,https://tv.nknews.org/tvdash/stream.mpd
 낚시방송,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
-18+,#genre#
+18+_111,#genre#
 Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
 Stage,http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116425.m3u8
