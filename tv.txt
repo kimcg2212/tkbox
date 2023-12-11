@@ -131,9 +131,9 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선2,http://onair2.cdn.tvchosun.com/origin2/_
 Jtbc,http://211.205.137.41:9981/stream/channelid/32?ticket=7DA82499898E3174D0CD53A9FA082C7B95AC4278
 Jtbc,https://everylive.online/live/jtbc/livestream.m3u8
-연변위성,http://live.ybtvyun.com/video/s10016-6297f9f7a2d5/index.m3u8
-ybtv1,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
-ybtv2,http://live.ybtvyun.com/video/s10016-69db3d17167d/index.m3u8
+연변위성,https://live.ybtvyun.com/video/s10006-b1b09ca0e73d/index.m3u8
+ybtv1,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
+ybtv2,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
 tvN,https://everylive.online/live/tvn/livestream.m3u8
 Mnet,https://everylive.online/live/mnet/livestream.m3u8
 Mnet,http://211.205.137.41:9981/stream/channelid/7?ticket=A0CA088B5CEE653864C93DB1ED08C12EC2AAB615
