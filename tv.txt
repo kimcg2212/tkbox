@@ -415,13 +415,17 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 金鹰纪实,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
 韩国,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdqc3pcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1004/playlist.m3u8?wsSecret=682fd6a6696449f9a586c63d30894a1f&wsTime=1732712137&wsSession=ccb8eadc63156900d91142ba-173271210794837&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdqc3pcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1005/playlist.m3u8?wsSecret=cf27e713c4990903a5fc7b943208ad70&wsTime=1732712139&wsSession=ccb8eadc63156900d91142ba-173271210929504&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
+sbs,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdqpbpcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1006/playlist.m3u8?wsSecret=504062025485974d199629d99db4c178&wsTime=1732712440&wsSession=65775bd84fd0e23f4b861cef-173271241082344&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 sbs,http://1.245.74.5:1935/live/tv/playlist.m3u8
 mbc,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+mbc,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdqpjpcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1003/playlist.m3u8?wsSecret=d540be4e6a3a03f56882a8b43d1715fc&wsTime=1732712436&wsSession=d17529ac152db28060cde037-173271240635389&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 mbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
@@ -434,6 +438,7 @@ Jtbc,https://everylive.online/live/jtbc/livestream.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10006-9a8f7b9a178c/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10006-e8133e49960e/index.m3u8
 tvN,https://everylive.online/live/tvn/livestream.m3u8
+tvN,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdqc3pcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1007/playlist.m3u8?wsSecret=d096de3a61658d5c83ad5b8fd41b49d3&wsTime=1732712442&wsSession=ccb8eadc63156900d91142ba-173271241297368&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 Mnet,https://everylive.online/live/mnet/livestream.m3u8
 Mnet,http://211.205.137.41:9981/stream/channelid/7?ticket=A0CA088B5CEE653864C93DB1ED08C12EC2AAB615
 채널A,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
