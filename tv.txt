@@ -1,8 +1,6 @@
 央视频道,#genre#
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
-http://dd.ddzb.fun/php/migu.php?id=cctv1
-#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
-http://dd.ddzb.fun/php/migu.php?id=cctv2
+cctv1,http://dd.ddzb.fun/php/migu.php?id=cctv1
+cctv2,http://dd.ddzb.fun/php/migu.php?id=cctv2
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
 http://dd.ddzb.fun/php/migu.php?id=cctv3
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
