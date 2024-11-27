@@ -1,85 +1,42 @@
 央视频道,#genre#
-CCTV1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.8:5540
-CCTV1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.20:5540
-CCTV2,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
-CCTV2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.3:5540
-CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
-CCTV3,http://nas.tuyuannet.cn:8800/rtp/239.37.0.231:5540
-CCTV4,http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
-CCTV5,http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
-CCTV5+,http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
-CCTV6,http://nas.tuyuannet.cn:8800/rtp/239.37.0.233:5540
-CCTV7,http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
-CCTV8,http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
-CCTV9,http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
-CCTV9,http://nas.tuyuannet.cn:8800/rtp/239.37.0.1:5540
-CCTV10,http://nas.tuyuannet.cn:8800/rtp/239.37.0.7:5540
-CCTV11,http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
-CCTV12,http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
-CCTV12,http://nas.tuyuannet.cn:8800/rtp/239.37.0.6:5540
-CCTV13,http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
-CCTV14,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
-CCTV14,http://nas.tuyuannet.cn:8800/rtp/239.37.0.5:5540
-CCTV15,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
-CCTV16,http://nas.tuyuannet.cn:8800/rtp/239.37.1.21:5540
-CCTV17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
-CCTV17,http://nas.tuyuannet.cn:8800/rtp/239.37.0.2:5540
-CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-CCTV4,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV10,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
-CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-CCTV12,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV13,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
-CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
-CCTV14,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/2300000/mnf.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
-CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
-CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-CCTV第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.78:5540
-CCTV风云音乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.81:5540
-CCTV风云足球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.80:5540
-CCTV国防军事,http://nas.tuyuannet.cn:8800/rtp/239.37.0.84:5540
-CCTV怀旧剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.82:5540CCTV高尔夫网球,
-CCTV怀旧剧场,
-CCTV第一剧场,
-CCTV风云剧场,
-CCTV女性时尚,http://nas.tuyuannet.cn:8800/rtp/239.37.0.69:5540
-CCTV女性时尚,http://nas.tuyuannet.cn:8800/rtp/239.37.0.69:5540
-CCTV世界地理,http://nas.tuyuannet.cn:8800/rtp/239.37.0.79:5540
-CCTV央视台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540CGTN,
-CGTN纪录,
-CCTV世界地理,
-CCTV卫视健康,http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
-CCTV高尔夫·网球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
+http://dd.ddzb.fun/php/migu.php?id=cctv1
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
+http://dd.ddzb.fun/php/migu.php?id=cctv2
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
+http://dd.ddzb.fun/php/migu.php?id=cctv3
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
+http://dd.ddzb.fun/php/migu.php?id=cctv4
+#EXTINF:-1 group-title="💓专享央视",CCTV4欧洲
+http://dd.ddzb.fun/php/migu.php?id=cctv4o
+#EXTINF:-1 group-title="💓专享央视",CCTV4美洲
+http://dd.ddzb.fun/php/migu.php?id=cctv4a
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png"  group-title="💓专享央视",CCTV5
+http://dd.ddzb.fun/php/migu.php?id=cctv5
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png"  group-title="💓专享央视",CCTV5+
+http://dd.ddzb.fun/php/migu.php?id=cctv5p
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png"  group-title="💓专享央视",CCTV6
+http://dd.ddzb.fun/php/migu.php?id=cctv6
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png"  group-title="💓专享央视",CCTV7
+http://dd.ddzb.fun/php/migu.php?id=cctv7
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png"  group-title="💓专享央视",CCTV8
+http://dd.ddzb.fun/php/migu.php?id=cctv8
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png"  group-title="💓专享央视",CCTV9
+http://dd.ddzb.fun/php/migu.php?id=cctv9
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png"  group-title="💓专享央视",CCTV10
+http://dd.ddzb.fun/php/migu.php?id=cctv10
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png"  group-title="💓专享央视",CCTV11
+http://dd.ddzb.fun/php/migu.php?id=cctv11
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png"  group-title="💓专享央视",CCTV12
+http://dd.ddzb.fun/php/migu.php?id=cctv12
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png"  group-title="💓专享央视",CCTV13
+http://dd.ddzb.fun/php/migu.php?id=cctv13
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png"  group-title="💓专享央视",CCTV14
+http://dd.ddzb.fun/php/migu.php?id=cctv14
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png"  group-title="💓专享央视",CCTV15
+http://dd.ddzb.fun/php/migu.php?id=cctv15
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png"  group-title="💓专享央视",CCTV17
+http://dd.ddzb.fun/php/migu.php?id=cctv17
 卫视频道,#genre#
 安徽卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.159:5540
 北京卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.9:5540
