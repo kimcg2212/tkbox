@@ -12,18 +12,12 @@ cctv7,http://dd.ddzb.fun/php/migu.php?id=cctv7
 cctv8,http://dd.ddzb.fun/php/migu.php?id=cctv8
 cctv9,http://dd.ddzb.fun/php/migu.php?id=cctv9
 cctv10http://dd.ddzb.fun/php/migu.php?id=cctv10
-#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png"  group-title="💓专享央视",CCTV11
-http://dd.ddzb.fun/php/migu.php?id=cctv11
-#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png"  group-title="💓专享央视",CCTV12
-http://dd.ddzb.fun/php/migu.php?id=cctv12
-#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png"  group-title="💓专享央视",CCTV13
-http://dd.ddzb.fun/php/migu.php?id=cctv13
-#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png"  group-title="💓专享央视",CCTV14
-http://dd.ddzb.fun/php/migu.php?id=cctv14
-#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png"  group-title="💓专享央视",CCTV15
-http://dd.ddzb.fun/php/migu.php?id=cctv15
-#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png"  group-title="💓专享央视",CCTV17
-http://dd.ddzb.fun/php/migu.php?id=cctv17
+cctv11,http://dd.ddzb.fun/php/migu.php?id=cctv11
+cctv12,http://dd.ddzb.fun/php/migu.php?id=cctv12
+cctv13,http://dd.ddzb.fun/php/migu.php?id=cctv13
+cctv14,http://dd.ddzb.fun/php/migu.php?id=cctv14
+cctv15,http://dd.ddzb.fun/php/migu.php?id=cctv15
+cctv17,http://dd.ddzb.fun/php/migu.php?id=cctv17
 卫视频道,#genre#
 安徽卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.159:5540
 北京卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.9:5540
