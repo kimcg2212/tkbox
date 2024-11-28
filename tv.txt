@@ -1,28 +1,17 @@
 央视频道,#genre#
 cctv1,http://dd.ddzb.fun/php/migu.php?id=cctv1
 cctv2,http://dd.ddzb.fun/php/migu.php?id=cctv2
-#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
-http://dd.ddzb.fun/php/migu.php?id=cctv3
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
-http://dd.ddzb.fun/php/migu.php?id=cctv4
-#EXTINF:-1 group-title="💓专享央视",CCTV4欧洲
-http://dd.ddzb.fun/php/migu.php?id=cctv4o
-#EXTINF:-1 group-title="💓专享央视",CCTV4美洲
-http://dd.ddzb.fun/php/migu.php?id=cctv4a
-#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png"  group-title="💓专享央视",CCTV5
-http://dd.ddzb.fun/php/migu.php?id=cctv5
-#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png"  group-title="💓专享央视",CCTV5+
-http://dd.ddzb.fun/php/migu.php?id=cctv5p
-#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png"  group-title="💓专享央视",CCTV6
-http://dd.ddzb.fun/php/migu.php?id=cctv6
-#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png"  group-title="💓专享央视",CCTV7
-http://dd.ddzb.fun/php/migu.php?id=cctv7
-#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png"  group-title="💓专享央视",CCTV8
-http://dd.ddzb.fun/php/migu.php?id=cctv8
-#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png"  group-title="💓专享央视",CCTV9
-http://dd.ddzb.fun/php/migu.php?id=cctv9
-#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png"  group-title="💓专享央视",CCTV10
-http://dd.ddzb.fun/php/migu.php?id=cctv10
+cctv3,http://dd.ddzb.fun/php/migu.php?id=cctv3
+cctv4,http://dd.ddzb.fun/php/migu.php?id=cctv4
+CCTV4欧洲,http://dd.ddzb.fun/php/migu.php?id=cctv4o
+CCTV4美洲,http://dd.ddzb.fun/php/migu.php?id=cctv4a
+CCTV5,http://dd.ddzb.fun/php/migu.php?id=cctv5
+cctv5+,http://dd.ddzb.fun/php/migu.php?id=cctv5p
+CCTV6,http://dd.ddzb.fun/php/migu.php?id=cctv6
+cctv7,http://dd.ddzb.fun/php/migu.php?id=cctv7
+cctv8,http://dd.ddzb.fun/php/migu.php?id=cctv8
+cctv9,http://dd.ddzb.fun/php/migu.php?id=cctv9
+cctv10http://dd.ddzb.fun/php/migu.php?id=cctv10
 #EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png"  group-title="💓专享央视",CCTV11
 http://dd.ddzb.fun/php/migu.php?id=cctv11
 #EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png"  group-title="💓专享央视",CCTV12
