@@ -1,8 +1,10 @@
 央视频道,#genre#
+CCTV1,http://e1321f.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
 CCTV1,http://ced8ee.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
 CCTV1,http://d97e53.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
 CCTV1,http://119.62.27.107:9901/tsfile/live/0001_1.m3u8
 CCTV1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
+CCTV2,http://e1321f.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
 CCTV2,http://119.62.27.107:9901/tsfile/live/0002_1.m3u8
 CCTV2,http://ced8ee.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
 CCTV2,https://tvbox.nat.netsite.cc:8043/proxy/1865857764/1865857764.m3u8
@@ -11,26 +13,31 @@ CCTV3,http://123.159.129.209:9901/tsfile/live/0003_1.m3u8
 CCTV3,http://119.62.27.107:9901/tsfile/live/0003_1.m3u8
 CCTV3,http://60.12.183.46:9901/tsfile/live/0003_1.m3u8
 CCTV3,http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+CCTV4,http://e1321f.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
 CCTV4,http://ced8ee.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CCTV4,http://123.159.129.209:9901/tsfile/live/0004_1.m3u8
 CCTV4,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 CCTV4,http://ced8ee.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
 CCTV4,https://tvbox.nat.netsite.cc:8043/proxy/1431251767/1431251767.m3u8
+CCTV5,http://e1321f.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
 CCTV5,http://ced8ee.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
 CCTV5,http://119.62.27.107:9901/tsfile/live/0005_1.m3u8
 CCTV5,https://tvbox.nat.netsite.cc:8043/proxy/2118762958/2118762958.m3u8
-CCTV5,http://d97e53.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
-CCTV5+,http://ced8ee.tv.netsite.cc/proxy/485668034/485668034.m3u8
 CCTV5,http://221.213.69.82:9901/tsfile/live/0005_1.m3u8
+CCTV5,http://d97e53.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
+CCTV5+,http://e1321f.tv.netsite.cc/proxy/485668034/485668034.m3u8
+CCTV5+,http://ced8ee.tv.netsite.cc/proxy/485668034/485668034.m3u8
 CCTV5+,http://d97e53.tv.netsite.cc/proxy/485668034/485668034.m3u8
 CCTV5+,https://tvbox.nat.netsite.cc:8043/proxy/485668034/485668034.m3u8
 CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
 CCTV5+,http://223.13.1.185:9901/tsfile/live/1003_1.m3u8
+CCTV6,http://e1321f.tv.netsite.cc/proxy/584456678/584456678.m3u8
 CCTV6,http://ced8ee.tv.netsite.cc/proxy/584456678/584456678.m3u8
 CCTV6,http://119.62.36.56:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://119.62.27.107:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://d97e53.tv.netsite.cc/proxy/584456678/584456678.m3u8
 CCTV6,https://tvbox.nat.netsite.cc:8043/proxy/584456678/584456678.m3u8
+CCTV7,http://e1321f.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
 CCTV7,http://ced8ee.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
 CCTV7,http://119.62.27.107:9901/tsfile/live/0007_1.m3u8
 CCTV7,https://tvbox.nat.netsite.cc:8043/proxy/1163485033/1163485033.m3u8
@@ -41,46 +48,55 @@ CCTV8,http://221.213.69.82:9901/tsfile/live/0008_1.m3u8
 CCTV8,http://60.12.183.46:9901/tsfile/live/0008_1.m3u8
 CCTV8,http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
 CCTV8,http://42.48.50.138:9002/tsfile/live/0008_1.m3u8
+CCTV9,http://e1321f.tv.netsite.cc/proxy/675916385/675916385.m3u8
 CCTV9,http://ced8ee.tv.netsite.cc/proxy/675916385/675916385.m3u8
 CCTV9,http://119.62.27.107:9901/tsfile/live/0009_1.m3u8
 CCTV9,http://d97e53.tv.netsite.cc/proxy/675916385/675916385.m3u8
 CCTV9,https://tvbox.nat.netsite.cc:8043/proxy/675916385/675916385.m3u8
 CCTV9,http://221.213.69.82:9901/tsfile/live/0009_1.m3u8
+CCTV10,http://e1321f.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
 CCTV10,http://ced8ee.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
 CCTV10,http://119.62.27.107:9901/tsfile/live/0010_1.m3u8
 CCTV10,https://tvbox.nat.netsite.cc:8043/proxy/2131132936/2131132936.m3u8
 CCTV10,http://d97e53.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
 CCTV10,http://221.213.69.82:9901/tsfile/live/0010_1.m3u8
+CCTV11,http://e1321f.tv.netsite.cc/proxy/421024024/421024024.m3u8
 CCTV11,https://tvbox.nat.netsite.cc:8043/proxy/421024024/421024024.m3u8
 CCTV11,http://ced8ee.tv.netsite.cc/proxy/421024024/421024024.m3u8
 CCTV11,http://d97e53.tv.netsite.cc/proxy/421024024/421024024.m3u8
 CCTV11,http://119.62.27.107:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://223.159.10.196:8099/tsfile/live/0011_1.m3u8
+CCTV12,http://e1321f.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
 CCTV12,http://ced8ee.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
 CCTV12,http://119.62.27.107:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://223.159.10.196:8099/tsfile/live/0012_1.m3u8
 CCTV12,https://tvbox.nat.netsite.cc:8043/proxy/1321786312/1321786312.m3u8
 CCTV12,http://d97e53.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
+CCTV13,http://e1321f.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
 CCTV13,http://119.62.27.107:9901/tsfile/live/0013_1.m3u8
 CCTV13,https://tvbox.nat.netsite.cc:8043/proxy/1942371728/1942371728.m3u8
 CCTV13,http://ced8ee.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
 CCTV13,http://d97e53.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
 CCTV13,http://223.159.10.196:8099/tsfile/live/0013_1.m3u8
+CCTV14,http://e1321f.tv.netsite.cc/proxy/512439688/512439688.m3u8
 CCTV14,http://ced8ee.tv.netsite.cc/proxy/512439688/512439688.m3u8
 CCTV14,http://d97e53.tv.netsite.cc/proxy/512439688/512439688.m3u8
 CCTV14,https://tvbox.nat.netsite.cc:8043/proxy/512439688/512439688.m3u8
 CCTV14,http://221.213.69.82:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://119.62.27.107:9901/tsfile/live/0014_1.m3u8
+CCTV15,http://e1321f.tv.netsite.cc/proxy/323678478/323678478.m3u8
 CCTV15,http://119.62.27.107:9901/tsfile/live/0015_1.m3u8
 CCTV15,https://tvbox.nat.netsite.cc:8043/proxy/323678478/323678478.m3u8
 CCTV15,http://ced8ee.tv.netsite.cc/proxy/323678478/323678478.m3u8
 CCTV15,http://d97e53.tv.netsite.cc/proxy/323678478/323678478.m3u8
 CCTV15,http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+CCTV16,http://e1321f.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 CCTV16,http://119.62.27.107:9901/tsfile/live/0016_1.m3u8
 CCTV16,http://d97e53.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 CCTV16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
 CCTV16,http://ced8ee.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 CCTV16,http://123.189.39.129:9901/tsfile/live/1027_1.m3u8
+CCTV17,http://e1321f.tv.netsite.cc/proxy/199561397/199561397.m3u8
 CCTV17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
 CCTV17,http://ced8ee.tv.netsite.cc/proxy/199561397/199561397.m3u8
 CCTV17,http://119.62.27.107:9901/tsfile/live/0017_1.m3u8
@@ -235,7 +251,66 @@ CETV4,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
 吉林辽源公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.251:5540
 吉林蛟河,http://nas.tuyuannet.cn:8800/rtp/239.37.0.252:5540
 台港澳频道,#genre#
-鳯凰衛視資訊,http://47.242.38.45:9999/twjd678-1.php?id=67
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8鳯凰衛視資訊,http://47.242.38.45:9999/twjd678-1.php?id=67
 鳯凰衛視中文,http://47.242.38.45:9999/twjd678-1.php?id=68
 AMC 最愛電影,http://xg.52sw.top:5000/litv/4gtv-4gtv017
 Arirang TV,http://xg.52sw.top:5000/litv/4gtv-4gtv079
