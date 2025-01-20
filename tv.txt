@@ -548,7 +548,7 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 ocn,https://cdnnowstream.com/cdnnow/live1014/playlist.m3u8?wsSecret=898397b31b8f9b6b0d3cf37ea18b8850&wsTime=1737339130&site=mstv
 Jtbc,https://cdnnowstream.com/cdnnow/live1009/playlist.m3u8?wsSecret=aa705560d6e68522758746644a45ef7d&wsTime=1737338802&site=mstv
 Jtbc,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdqc3pcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1009/playlist.m3u8?wsSecret=d6ad594c9b1a1d724ee42a78b440a9b6&wsTime=1732721446&wsSession=ccb8eadc63156900d91142ba-173272141635704&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
-Jtbc,https://everylive.online/live/jtbc/livestream.m3u8
+Jtbc,https://everylive.space/live/jtbc/livestream.m3u8
 연변위성,https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
