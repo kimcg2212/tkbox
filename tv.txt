@@ -553,7 +553,7 @@ Jtbc,https://everylive.space/live/jtbc/livestream.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 tvN,https://0geauymtsgrzdrcbzfahugmmdctzgh55zqp48r3mbpwzgg55p.wslivehls.com/cdnnowstream.com/cdnnow/live1007/playlist.m3u8?wsSecret=7b621cebf126f7760cc1dc9d7e8f7a19&wsTime=1737287708&site=mstv&wsSession=152840bdb9e33803603e8424-173728767925312&wsIPSercert=dbc958c47170f855ea0fe4f901b1ffc4&wsiphost=local&wsBindIP=1
-tvN,https://everylive.online/live/tvn/livestream.m3u8
+tvN,https://everylive.space/live/tvn/livestream.m3u8
 tvN,https://cdnnowstream.com/cdnnow/live1007/playlist.m3u8?wsSecret=c46c148ffbde7f455d546b31b782731e&wsTime=1737338579&site=mstv
 net,https://everylive.online/live/mnet/livestream.m3u8
 Mnet,http://211.205.137.41:9981/stream/channelid/7?ticket=A0CA088B5CEE653864C93DB1ED08C12EC2AAB615
