@@ -540,7 +540,7 @@ mbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선,https://na.linear.zype.com/982d89f1-7034-432a-a03b-d08adb65bf36/f3fd332b-fe60-4d02-8569-92938b5e99a8-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=f4f2a041-3e67-4d75-a237-05637ff8b96b&manifest_id=785269d7-62af-4b2a-988c-577a1f9faf0c&rendition=1080&session_id=bb0c6745-af15-4df7-9ff2-e7f8e822e0bd&partner_id=hls4&ipv=4&pv=2
-티비조선,https://stream.ogtv3.com/live/live1003.m3u
+티비조선,https://stream.ogtv3.com/live/live1012.m3u8
 티비조선,https://na.linear.zype.com/982d89f1-7034-432a-a03b-d08adb65bf36/f3fd332b-fe60-4d02-8569-92938b5e99a8-hls4/manifest/1.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=f4f2a041-3e67-4d75-a237-05637ff8b96b&manifest_id=2daeea29-708b-4bbd-bed8-c6ac1f21c651&rendition=720&session_id=c5c96e02-3ab9-4c4e-a351-4f7df90e9265&partner_id=hls4&ipv=4&pv=2
 ocn,https://stream.ogtv3.com/live/live1011.m3u8
 Jtbc,https://stream.ogtv3.com/live/live1009.m3u8
