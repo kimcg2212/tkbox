@@ -534,36 +534,38 @@ KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,https://stream.ogtv3.com/live/live1005.m3u8
 sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
-sbs,http://1.245.74.5:1935/live/tv/playlist.m3u8
+sbs,https://stream.ogtv3.com/live/live1006.m3u8
 mbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
-티비조선,https://na.linear.zype.com/982d89f1-7034-432a-a03b-d08adb65bf36/f3fd332b-fe60-4d02-8569-92938b5e99a8-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=f4f2a041-3e67-4d75-a237-05637ff8b96b&manifest_id=785269d7-62af-4b2a-988c-577a1f9faf0c&rendition=1080&session_id=bb0c6745-af15-4df7-9ff2-e7f8e822e0bd&partner_id=hls4&ipv=4&pv=2
+mbc,https://stream.ogtv3.com/live/live1003.m3u8
 티비조선,https://stream.ogtv3.com/live/live1012.m3u8
 티비조선,https://na.linear.zype.com/982d89f1-7034-432a-a03b-d08adb65bf36/f3fd332b-fe60-4d02-8569-92938b5e99a8-hls4/manifest/1.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=f4f2a041-3e67-4d75-a237-05637ff8b96b&manifest_id=2daeea29-708b-4bbd-bed8-c6ac1f21c651&rendition=720&session_id=c5c96e02-3ab9-4c4e-a351-4f7df90e9265&partner_id=hls4&ipv=4&pv=2
-ocn,https://stream.ogtv3.com/live/live1011.m3u8
 Jtbc,https://stream.ogtv3.com/live/live1009.m3u8
 Jtbc,https://na.linear.zype.com/504e844f-4986-4de2-9370-43398ce088e7/a94f4451-4774-4520-8461-2c4246a22fbe-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=3f8bd145-1822-4107-a6dc-d3e4a6381cf2&manifest_id=7c056ff4-c518-497d-b428-c0691b5e9a4b&rendition=1080&session_id=4b3f0374-6ac3-4f51-98d0-cf7db43955c0&partner_id=hls4&ipv=4&pv=2
+채널A,https://stream.ogtv3.com/live/live1010.m3u8
+채널A,https://na.linear.zype.com/93e6b6e6-17fd-4d58-b04c-52e8a2a60dc3/5e5acd8f-4e61-462f-8b54-770b998c65a5-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=76d9ae88-65b4-480e-b161-bb5c7f0f1105&manifest_id=e111ffe8-789c-483d-9ec1-d37d8cc73cc4&rendition=1080&session_id=485ef29b-bdf2-40c0-89be-c3fa947abaf1&partner_id=hls4&ipv=4&pv=2
+ocn,https://stream.ogtv3.com/live/live1011.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 tvN,https://stream.ogtv3.com/live/live1007.m3u8
-뉴스투데이,https://na.linear.zype.com/4cb79db3-8fbc-4bb3-9549-9073e01823a4/e9ea8a20-750a-4a04-a90b-b34a342b46fa-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=65d95879-7029-4599-a531-47062c81c27d&manifest_id=5f709bf0-47f5-4453-9763-d11839783757&rendition=1080&session_id=2fdea23f-62a4-4870-9eba-d5be8c4ca531&partner_id=hls4&ipv=4&pv=2
-Mnet,http://211.205.137.41:9981/stream/channelid/7?ticket=A0CA088B5CEE653864C93DB1ED08C12EC2AAB615
-채널A,https://stream.ogtv3.com/live/live1010.m3u8
-채널A,https://na.linear.zype.com/93e6b6e6-17fd-4d58-b04c-52e8a2a60dc3/5e5acd8f-4e61-462f-8b54-770b998c65a5-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=76d9ae88-65b4-480e-b161-bb5c7f0f1105&manifest_id=e111ffe8-789c-483d-9ec1-d37d8cc73cc4&rendition=1080&session_id=485ef29b-bdf2-40c0-89be-c3fa947abaf1&partner_id=hls4&ipv=4&pv=2
 ytn,http://210.92.207.38:40001
+ytn,https://stream.ogtv3.com/live/live1021.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
-KBS뉴스,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
 MBN,https://stream.ogtv3.com/live/live1008.m3u8
-MBN,http://cdn-live-us74.cloudrsst.com/live/mbn_540/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-MBN,https://vviptv.com/m3u8/sstream/1gr4uqmtt8y41hcjwghzdcqbpcj1zg7duqt3gkampf3ozyhy.wslivehls.com/beststream/live1008/playlist.m3u8?wsSecret=eb4ea9b5badf9643b62f2a646b653071&wsTime=1732721743&wsSession=36db716830a78b8c6cbb5480-173272171319848&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
-연합뉴스,https://cdnnowstream.com/cdnnow/live1011/playlist.m3u8?wsSecret=5000b0e98ccb10d25ea8da69523413a3&wsTime=1737338920&site=mstv
 연합뉴스,https://stream.ogtv3.com/live/live1011.m3u8
-연합뉴스,https://na.linear.zype.com/21a522bc-30e2-4678-84f2-5b056800365b/e2e48721-84a8-4467-9d35-16c895b62eb4-zype/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=e2e48721-84a8-4467-9d35-16c895b62eb4&manifest_id=661a1be1-782c-4b75-a3af-bd4010a6cc85&rendition=1080&session_id=15eef6de-d82c-4ea0-bcb0-8ef31acd61cf&partner_id=zype_oo&ipv=4&pv=2
+the movie,https://stream.ogtv3.com/live/live1027.m3u8
 ocn mmovie,https://stream.ogtv3.com/live/live1030.m3u8
+스크린,https://stream.ogtv3.com/live/live1026.m3u8
+시네마천국,https://stream.ogtv3.com/live/live1020.m3u8
+ena.https://stream.ogtv3.com/live/live1016.m3u8
+ena 드라마,https://stream.ogtv3.com/live/live1019.m3u8
+tvn 드라마,https://stream.ogtv3.com/live/live1020.m3u8
+tvn story,https://stream.ogtv3.com/live/live1018.m3u8
 한국경제TV,http://cdnmlive.wowtv.co.kr/wowmo/livestream/chunklist_w43658333.m3u8
 매일경제TV,http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
 머니투데이방송,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
