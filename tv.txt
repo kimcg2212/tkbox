@@ -609,28 +609,404 @@ BMAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
 FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 国外频道,#genre#
-CNBC,http://47.242.38.45:9999/twjd678-2.php?id=127
-HBO,http://208.115.225.174:14136
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO,http://208.115.225.174:14165
-HBO XTEME,http://208.115.225.174:14165
-HBO Pop,http://208.115.225.174:14156
-HBO Family,http://208.115.225.174:14144
-HBO+,http://190.60.36.103:8000/play/a00o/index.m3u8
-HBO 1,http://208.115.225.174:14165
-HBO 3,http://208.115.225.174:14160
-HBO 4,http://208.115.225.174:14136
-HBO 2,http://208.115.225.174:14140HBO,http://47.242.38.45:9999/twjd678-2.php?id=107
-HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq
-HBO,http://47.242.38.45:9999/twjd678-2.php?id=107
-HBO Family,http://208.115.225.174:14144
-HBOxtreme,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
-HBOxtreme,http://208.115.225.174:14165
-HBO Mundi,http://208.115.225.174:14148
-HBO Signature,http://208.115.225.174:14160
-HBO 强档巨献,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-国际地理ABU,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-国家地理,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-
+A&E US Eastern Feed ,https://tvpass.org/live/AEEast/
+A&E US Eastern Feed ,https://tvpass.org/live/AEEast/
+ABC (KABC) Los Angeles ,https://tvpass.org/live/abc-kabc-los-angeles-ca/
+ABC (KABC) Los Angeles ,https://tvpass.org/live/abc-kabc-los-angeles-ca/
+ABC (WABC) New York, NY ,https://tvpass.org/live/WABCDT1/
+ABC (WABC) New York, NY ,https://tvpass.org/live/WABCDT1/
+ACC Network ,https://tvpass.org/live/ACCNetwork/
+ACC Network ,https://tvpass.org/live/ACCNetwork/
+Altitude Sports Denver ,https://tvpass.org/live/altitude-sports-denver/
+Altitude Sports Denver ,https://tvpass.org/live/altitude-sports-denver/
+AMC Eastern Feed ,https://tvpass.org/live/AMCEast/
+AMC Eastern Feed ,https://tvpass.org/live/AMCEast/
+American Heroes Channel ,https://tvpass.org/live/AmericanHeroesChannel/
+American Heroes Channel ,https://tvpass.org/live/AmericanHeroesChannel/
+Animal Planet US East ,https://tvpass.org/live/AnimalPlanetEast/
+Animal Planet US East ,https://tvpass.org/live/AnimalPlanetEast/
+BBC America East ,https://tvpass.org/live/BBCAmericaEast/
+BBC America East ,https://tvpass.org/live/BBCAmericaEast/
+BBC News North America  ,https://tvpass.org/live/BBCWorldNewsNorthAmerica/
+BBC News North America  ,https://tvpass.org/live/BBCWorldNewsNorthAmerica/
+BET Eastern Feed ,https://tvpass.org/live/BETEast/
+BET Eastern Feed ,https://tvpass.org/live/BETEast/
+BET Her ,https://tvpass.org/live/BETHerEast/
+BET Her ,https://tvpass.org/live/BETHerEast/
+Big Ten Network ,https://tvpass.org/live/BTN/
+Big Ten Network ,https://tvpass.org/live/BTN/
+Bloomberg TV USA ,https://tvpass.org/live/BloombergTV/
+Bloomberg TV USA ,https://tvpass.org/live/BloombergTV/
+Boomerang ,https://tvpass.org/live/Boomerang/
+Boomerang ,https://tvpass.org/live/Boomerang/
+Bravo USA Eastern Feed ,https://tvpass.org/live/BravoEast/
+Bravo USA Eastern Feed ,https://tvpass.org/live/BravoEast/
+C-SPAN ,https://tvpass.org/live/CSPAN/
+C-SPAN ,https://tvpass.org/live/CSPAN/
+C-SPAN 2 ,https://tvpass.org/live/CSPAN2/
+C-SPAN 2 ,https://tvpass.org/live/CSPAN2/
+Cartoon Network USA Eastern Feed ,https://tvpass.org/live/CartoonNetworkEast/
+Cartoon Network USA Eastern Feed ,https://tvpass.org/live/CartoonNetworkEast/
+CBS (KCBS) Los Angeles ,https://tvpass.org/live/cbs-kcbs-los-angeles-ca/
+CBS (KCBS) Los Angeles ,https://tvpass.org/live/cbs-kcbs-los-angeles-ca/
+CBS (WCBS) New York, NY ,https://tvpass.org/live/WCBT1/
+CBS (WCBS) New York, NY ,https://tvpass.org/live/WCBT1/
+CBS Sports Network USA ,https://tvpass.org/live/CBSSportsNetworkUSA/
+CBS Sports Network USA ,https://tvpass.org/live/CBSSportsNetworkUSA/
+Chicago Sports Network ,https://tvpass.org/live/chicago-sports-network/
+Chicago Sports Network ,https://tvpass.org/live/chicago-sports-network/
+Cinemax Eastern Feed ,https://tvpass.org/live/CinemaxEast/
+Cinemax Eastern Feed ,https://tvpass.org/live/CinemaxEast/
+CMT US Eastern Feed ,https://tvpass.org/live/CMTEast/
+CMT US Eastern Feed ,https://tvpass.org/live/CMTEast/
+CNBC USA ,https://tvpass.org/live/CNBC/
+CNBC USA ,https://tvpass.org/live/CNBC/
+CNN US ,https://tvpass.org/live/CNN/
+CNN US ,https://tvpass.org/live/CNN/
+Comedy Central (US) Eastern Feed ,https://tvpass.org/live/ComedyCentralEast/
+Comedy Central (US) Eastern Feed ,https://tvpass.org/live/ComedyCentralEast/
+Crime & Investigation Network USA  ,https://tvpass.org/live/CrimePlusInvestigation/
+Crime & Investigation Network USA  ,https://tvpass.org/live/CrimePlusInvestigation/
+CW (KFMB-TV2) San Diego ,https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/
+CW (KFMB-TV2) San Diego ,https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/
+CW (WDCW) District of Columbia ,https://tvpass.org/live/cw-wdcw-district-of-columbia/
+CW (WDCW) District of Columbia ,https://tvpass.org/live/cw-wdcw-district-of-columbia/
+Destination America ,https://tvpass.org/live/DestinationAmerica/
+Destination America ,https://tvpass.org/live/DestinationAmerica/
+Discovery Channel (US) Eastern Feed ,https://tvpass.org/live/DiscoveryChannelEast/
+Discovery Channel (US) Eastern Feed ,https://tvpass.org/live/DiscoveryChannelEast/
+Discovery Family Channel ,https://tvpass.org/live/DiscoveryFamily/
+Discovery Family Channel ,https://tvpass.org/live/DiscoveryFamily/
+Discovery Life Channel ,https://tvpass.org/live/DiscoveryLife/
+Discovery Life Channel ,https://tvpass.org/live/DiscoveryLife/
+Disney Eastern Feed ,https://tvpass.org/live/DisneyChannelEast/
+Disney Eastern Feed ,https://tvpass.org/live/DisneyChannelEast/
+Disney Junior USA East ,https://tvpass.org/live/DisneyJuniorEast/
+Disney Junior USA East ,https://tvpass.org/live/DisneyJuniorEast/
+Disney XD USA Eastern Feed ,https://tvpass.org/live/DisneyXDEast/
+Disney XD USA Eastern Feed ,https://tvpass.org/live/DisneyXDEast/
+E! Entertainment USA Eastern Feed ,https://tvpass.org/live/EEast/
+E! Entertainment USA Eastern Feed ,https://tvpass.org/live/EEast/
+ESPN ,https://tvpass.org/live/ESPN/
+ESPN ,https://tvpass.org/live/ESPN/
+ESPN Deportes ,https://tvpass.org/live/espn-deportes/
+ESPN Deportes ,https://tvpass.org/live/espn-deportes/
+ESPN News ,https://tvpass.org/live/ESPNews/
+ESPN News ,https://tvpass.org/live/ESPNews/
+ESPN U ,https://tvpass.org/live/ESPNU/
+ESPN U ,https://tvpass.org/live/ESPNU/
+ESPN2 ,https://tvpass.org/live/ESPN2/
+ESPN2 ,https://tvpass.org/live/ESPN2/
+Fanduel Sports Indiana ,https://tvpass.org/live/fanduel-sports-indiana/
+Fanduel Sports Indiana ,https://tvpass.org/live/fanduel-sports-indiana/
+Fanduel Sports Network Detroit ,https://tvpass.org/live/fanduel-sports-network-detroit-/
+Fanduel Sports Network Detroit ,https://tvpass.org/live/fanduel-sports-network-detroit-/
+Fanduel Sports Network Florida ,https://tvpass.org/live/fanduel-sports-network-florida/
+Fanduel Sports Network Florida ,https://tvpass.org/live/fanduel-sports-network-florida/
+Fanduel Sports Network Great Lakes ,https://tvpass.org/live/fanduel-sports-network-great-lakes/
+Fanduel Sports Network Great Lakes ,https://tvpass.org/live/fanduel-sports-network-great-lakes/
+Fanduel Sports Network North ,https://tvpass.org/live/fanduel-sports-network-north/
+Fanduel Sports Network North ,https://tvpass.org/live/fanduel-sports-network-north/
+Fanduel Sports Network Ohio Cleveland ,https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/
+Fanduel Sports Network Ohio Cleveland ,https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/
+Fanduel Sports Network Oklahoma ,https://tvpass.org/live/fanduel-sports-network-oklahoma/
+Fanduel Sports Network Oklahoma ,https://tvpass.org/live/fanduel-sports-network-oklahoma/
+Fanduel Sports Network San Diego ,https://tvpass.org/live/fanduel-sports-network-san-diego/
+Fanduel Sports Network San Diego ,https://tvpass.org/live/fanduel-sports-network-san-diego/
+Fanduel Sports Network Socal ,https://tvpass.org/live/fanduel-sports-network-socal/
+Fanduel Sports Network Socal ,https://tvpass.org/live/fanduel-sports-network-socal/
+Fanduel Sports Network South Carolinas ,https://tvpass.org/live/fanduel-sports-network-south-carolinas/
+Fanduel Sports Network South Carolinas ,https://tvpass.org/live/fanduel-sports-network-south-carolinas/
+Fanduel Sports Network South Tennessee ,https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/
+Fanduel Sports Network South Tennessee ,https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/
+Fanduel Sports Network West ,https://tvpass.org/live/fanduel-sports-network-west/
+Fanduel Sports Network West ,https://tvpass.org/live/fanduel-sports-network-west/
+Fanduel Sports Network Wisconsin ,https://tvpass.org/live/fanduel-sports-network-wisconsin/
+Fanduel Sports Network Wisconsin ,https://tvpass.org/live/fanduel-sports-network-wisconsin/
+Fanduel Sports Southeast Georgia ,https://tvpass.org/live/fanduel-sports-southeast-georgia/
+Fanduel Sports Southeast Georgia ,https://tvpass.org/live/fanduel-sports-southeast-georgia/
+Fanduel Sports Southeast North Carolina ,https://tvpass.org/live/fanduel-sports-southeast-north-carolina/
+Fanduel Sports Southeast North Carolina ,https://tvpass.org/live/fanduel-sports-southeast-north-carolina/
+Fanduel Sports Southeast South Carolina ,https://tvpass.org/live/fanduel-sports-southeast-south-carolina/
+Fanduel Sports Southeast South Carolina ,https://tvpass.org/live/fanduel-sports-southeast-south-carolina/
+Fanduel Sports Southeast Tennessee Nashville ,https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/
+Fanduel Sports Southeast Tennessee Nashville ,https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/
+Fanduel Sports Sun ,https://tvpass.org/live/fanduel-sports-sun/
+Fanduel Sports Sun ,https://tvpass.org/live/fanduel-sports-sun/
+Fanduel Sports Tennessee East ,https://tvpass.org/live/fanduel-sports-tennessee-east/
+Fanduel Sports Tennessee East ,https://tvpass.org/live/fanduel-sports-tennessee-east/
+Food Network USA Eastern Feed ,https://tvpass.org/live/FoodNetworkEast/
+Food Network USA Eastern Feed ,https://tvpass.org/live/FoodNetworkEast/
+FOX (KTTV) Los Angeles ,https://tvpass.org/live/fox-kttv-los-angeles-ca/
+FOX (KTTV) Los Angeles ,https://tvpass.org/live/fox-kttv-los-angeles-ca/
+FOX (WNYW) New York, NY ,https://tvpass.org/live/WNYWDT1/
+FOX (WNYW) New York, NY ,https://tvpass.org/live/WNYWDT1/
+Fox Business ,https://tvpass.org/live/FoxBusiness/
+Fox Business ,https://tvpass.org/live/FoxBusiness/
+Fox News ,https://tvpass.org/live/FoxNewsChannel/
+Fox News ,https://tvpass.org/live/FoxNewsChannel/
+Fox Sports 1 ,https://tvpass.org/live/FoxSports1/
+Fox Sports 1 ,https://tvpass.org/live/FoxSports1/
+Fox Sports 2 ,https://tvpass.org/live/FoxSports2/
+Fox Sports 2 ,https://tvpass.org/live/FoxSports2/
+Freeform East Feed ,https://tvpass.org/live/FreeformEast/
+Freeform East Feed ,https://tvpass.org/live/FreeformEast/
+FUSE TV Eastern feed ,https://tvpass.org/live/FuseEast/
+FUSE TV Eastern feed ,https://tvpass.org/live/FuseEast/
+FX Movie Channel ,https://tvpass.org/live/FXMovieChannel/
+FX Movie Channel ,https://tvpass.org/live/FXMovieChannel/
+FX Networks East Coast ,https://tvpass.org/live/FXEast/
+FX Networks East Coast ,https://tvpass.org/live/FXEast/
+FXX USA Eastern ,https://tvpass.org/live/FXXEast/
+FXX USA Eastern ,https://tvpass.org/live/FXXEast/
+FYI USA Eastern ,https://tvpass.org/live/FYIEast/
+FYI USA Eastern ,https://tvpass.org/live/FYIEast/
+Game Show Network East ,https://tvpass.org/live/game-show-network-east/
+Game Show Network East ,https://tvpass.org/live/game-show-network-east/
+Golf Channel USA ,https://tvpass.org/live/GolfChannel/
+Golf Channel USA ,https://tvpass.org/live/GolfChannel/
+Hallmark Eastern Feed ,https://tvpass.org/live/HallmarkChannelEast/
+Hallmark Eastern Feed ,https://tvpass.org/live/HallmarkChannelEast/
+Hallmark Family  ,https://tvpass.org/live/HallmarkDrama/
+Hallmark Family  ,https://tvpass.org/live/HallmarkDrama/
+Hallmark Mystery Eastern  ,https://tvpass.org/live/HallmarkMoviesMysteriesEast/
+Hallmark Mystery Eastern  ,https://tvpass.org/live/HallmarkMoviesMysteriesEast/
+HBO Eastern Feed ,https://tvpass.org/live/HBOEast/
+HBO Eastern Feed ,https://tvpass.org/live/HBOEast/
+HBO 2 Eastern Feed ,https://tvpass.org/live/HBO2East/
+HBO 2 Eastern Feed ,https://tvpass.org/live/HBO2East/
+HBO Comedy  East ,https://tvpass.org/live/HBOComedyEast/
+HBO Comedy  East ,https://tvpass.org/live/HBOComedyEast/
+HBO Family Eastern Feed ,https://tvpass.org/live/HBOFamilyEast/
+HBO Family Eastern Feed ,https://tvpass.org/live/HBOFamilyEast/
+HBO Signature (HBO 3) Eastern ,https://tvpass.org/live/HBOSignatureEast/
+HBO Signature (HBO 3) Eastern ,https://tvpass.org/live/HBOSignatureEast/
+HBO Zone  East ,https://tvpass.org/live/HBOZoneEast/
+HBO Zone  East ,https://tvpass.org/live/HBOZoneEast/
+HGTV USA Eastern Feed ,https://tvpass.org/live/HGTVEast/
+HGTV USA Eastern Feed ,https://tvpass.org/live/HGTVEast/
+History Channel US Eastern Feed ,https://tvpass.org/live/HistoryEast/
+History Channel US Eastern Feed ,https://tvpass.org/live/HistoryEast/
+HLN ,https://tvpass.org/live/HLN/
+HLN ,https://tvpass.org/live/HLN/
+Independent Film Channel US ,https://tvpass.org/live/IFCEast/
+Independent Film Channel US ,https://tvpass.org/live/IFCEast/
+Investigation Discovery USA Eastern ,https://tvpass.org/live/InvestigationDiscoveryEast/
+Investigation Discovery USA Eastern ,https://tvpass.org/live/InvestigationDiscoveryEast/
+ION Eastern Feed ,https://tvpass.org/live/IONTVEast/
+ION Eastern Feed ,https://tvpass.org/live/IONTVEast/
+Lifetime Movies East ,https://tvpass.org/live/LifetimeMoviesEast/
+Lifetime Movies East ,https://tvpass.org/live/LifetimeMoviesEast/
+Lifetime Network US Eastern Feed ,https://tvpass.org/live/LifetimeEast/
+Lifetime Network US Eastern Feed ,https://tvpass.org/live/LifetimeEast/
+LOGO East ,https://tvpass.org/live/LogoEast/
+LOGO East ,https://tvpass.org/live/LogoEast/
+Marquee Sports Network ,https://tvpass.org/live/marquee-sports-network/
+Marquee Sports Network ,https://tvpass.org/live/marquee-sports-network/
+MeTV Toons (WJLP2) New Jersey ,https://tvpass.org/live/metv-toons/
+MeTV Toons (WJLP2) New Jersey ,https://tvpass.org/live/metv-toons/
+MeTV Wjlp New Jerseynew York ,https://tvpass.org/live/metv-wjlp-new-jerseynew-york/
+MeTV Wjlp New Jerseynew York ,https://tvpass.org/live/metv-wjlp-new-jerseynew-york/
+Midatlantic Sports Network ,https://tvpass.org/live/midatlantic-sports-network/
+Midatlantic Sports Network ,https://tvpass.org/live/midatlantic-sports-network/
+MLB Network ,https://tvpass.org/live/MLBNetwork/
+MLB Network ,https://tvpass.org/live/MLBNetwork/
+Monumental Sports Network ,https://tvpass.org/live/monumental-sports-network/
+Monumental Sports Network ,https://tvpass.org/live/monumental-sports-network/
+MoreMax Eastern ,https://tvpass.org/live/MoreMaxEast/
+MoreMax Eastern ,https://tvpass.org/live/MoreMaxEast/
+Motor Trend  ,https://tvpass.org/live/Motortrend/
+Motor Trend  ,https://tvpass.org/live/Motortrend/
+MovieMax (Max 6) East ,https://tvpass.org/live/MovieMaxEast/
+MovieMax (Max 6) East ,https://tvpass.org/live/MovieMaxEast/
+MSG Madison Square Gardens ,https://tvpass.org/live/msg-madison-square-gardens/
+MSG Madison Square Gardens ,https://tvpass.org/live/msg-madison-square-gardens/
+MSG Plus ,https://tvpass.org/live/msg-plus/
+MSG Plus ,https://tvpass.org/live/msg-plus/
+MSNBC USA ,https://tvpass.org/live/MSNBC/
+MSNBC USA ,https://tvpass.org/live/MSNBC/
+MTV 2 East ,https://tvpass.org/live/mtv-2-east/
+MTV 2 East ,https://tvpass.org/live/mtv-2-east/
+MTV USA Eastern Feed ,https://tvpass.org/live/MTVEast/
+MTV USA Eastern Feed ,https://tvpass.org/live/MTVEast/
+National Geographic US Eastern ,https://tvpass.org/live/NationalGeographicEast/
+National Geographic US Eastern ,https://tvpass.org/live/NationalGeographicEast/
+National Geographic Wild ,https://tvpass.org/live/NationalGeographicWildEast/
+National Geographic Wild ,https://tvpass.org/live/NationalGeographicWildEast/
+NBA TV USA ,https://tvpass.org/live/NBATV/
+NBA TV USA ,https://tvpass.org/live/NBATV/
+NBC (KNBC) Los Angeles ,https://tvpass.org/live/nbc-knbc-los-angeles-ca/
+NBC (KNBC) Los Angeles ,https://tvpass.org/live/nbc-knbc-los-angeles-ca/
+NBC (WNBC) New York, NY ,https://tvpass.org/live/WNBCDT1/
+NBC (WNBC) New York, NY ,https://tvpass.org/live/WNBCDT1/
+NBC Sports Bay Area ,https://tvpass.org/live/nbc-sports-bay-area/
+NBC Sports Bay Area ,https://tvpass.org/live/nbc-sports-bay-area/
+NBC Sports Boston ,https://tvpass.org/live/nbc-sports-boston/
+NBC Sports Boston ,https://tvpass.org/live/nbc-sports-boston/
+NBC Sports California ,https://tvpass.org/live/nbc-sports-california/
+NBC Sports California ,https://tvpass.org/live/nbc-sports-california/
+NBC Sports Philadelphia ,https://tvpass.org/live/nbc-sports-philadelphia/
+NBC Sports Philadelphia ,https://tvpass.org/live/nbc-sports-philadelphia/
+New England Sports Network ,https://tvpass.org/live/new-england-sports-network/
+New England Sports Network ,https://tvpass.org/live/new-england-sports-network/
+NewsMax TV ,https://tvpass.org/live/NewsmaxTV/
+NewsMax TV ,https://tvpass.org/live/NewsmaxTV/
+NFL Network ,https://tvpass.org/live/NFLNetwork/
+NFL Network ,https://tvpass.org/live/NFLNetwork/
+NFL RedZone ,https://tvpass.org/live/NFLRedZone/
+NFL RedZone ,https://tvpass.org/live/NFLRedZone/
+NHL Network USA ,https://tvpass.org/live/NHLNetwork/
+NHL Network USA ,https://tvpass.org/live/NHLNetwork/
+Nick Jr. East ,https://tvpass.org/live/NickJrEast/
+Nick Jr. East ,https://tvpass.org/live/NickJrEast/
+Nickelodeon USA East Feed ,https://tvpass.org/live/NickelodeonEast/
+Nickelodeon USA East Feed ,https://tvpass.org/live/NickelodeonEast/
+Nicktoons East ,https://tvpass.org/live/NicktoonsEast/
+Nicktoons East ,https://tvpass.org/live/NicktoonsEast/
+Oprah Winfrey Network USA Eastern ,https://tvpass.org/live/OWNEast/
+Oprah Winfrey Network USA Eastern ,https://tvpass.org/live/OWNEast/
+Outdoor Channel US ,https://tvpass.org/live/OutdoorChannel/
+Outdoor Channel US ,https://tvpass.org/live/OutdoorChannel/
+Oxygen Eastern Feed ,https://tvpass.org/live/OxygenEast/
+Oxygen Eastern Feed ,https://tvpass.org/live/OxygenEast/
+PBS (WNET) New York, NY ,https://tvpass.org/live/WNET/
+PBS (WNET) New York, NY ,https://tvpass.org/live/WNET/
+ReelzChannel ,https://tvpass.org/live/Reelz/
+ReelzChannel ,https://tvpass.org/live/Reelz/
+Science ,https://tvpass.org/live/Science/
+Science ,https://tvpass.org/live/Science/
+SEC Network ,https://tvpass.org/live/SECN/
+SEC Network ,https://tvpass.org/live/SECN/
+Showtime Eastern Feed ,https://tvpass.org/live/ShowtimeEast/
+Showtime Eastern Feed ,https://tvpass.org/live/ShowtimeEast/
+Showtime 2 Eastern ,https://tvpass.org/live/Showtime2East/
+Showtime 2 Eastern ,https://tvpass.org/live/Showtime2East/
+SNY Sportsnet New York Comcast ,https://tvpass.org/live/sny-sportsnet-new-york-comcast/
+SNY Sportsnet New York Comcast ,https://tvpass.org/live/sny-sportsnet-new-york-comcast/
+Space City Home Network ,https://tvpass.org/live/space-city-home-network/
+Space City Home Network ,https://tvpass.org/live/space-city-home-network/
+Spectrum SportsNet LA ,https://tvpass.org/live/spectrum-sportsnet-la/
+Spectrum SportsNet LA ,https://tvpass.org/live/spectrum-sportsnet-la/
+Spectrum Sportsnet Lakers ,https://tvpass.org/live/spectrum-sportsnet/
+Spectrum Sportsnet Lakers ,https://tvpass.org/live/spectrum-sportsnet/
+Sportsnet (East) ,https://tvpass.org/live/sportsnet-east/
+Sportsnet (East) ,https://tvpass.org/live/sportsnet-east/
+Sportsnet 360 ,https://tvpass.org/live/sportsnet-360/
+Sportsnet 360 ,https://tvpass.org/live/sportsnet-360/
+Sportsnet One ,https://tvpass.org/live/sportsnet-one/
+Sportsnet One ,https://tvpass.org/live/sportsnet-one/
+Sportsnet Ontario ,https://tvpass.org/live/sportsnet-ontario/
+Sportsnet Ontario ,https://tvpass.org/live/sportsnet-ontario/
+Sportsnet Pacific ,https://tvpass.org/live/sportsnet-pacific/
+Sportsnet Pacific ,https://tvpass.org/live/sportsnet-pacific/
+Sportsnet Pittsburgh ,https://tvpass.org/live/sportsnet-pittsburgh/
+Sportsnet Pittsburgh ,https://tvpass.org/live/sportsnet-pittsburgh/
+Sportsnet West ,https://tvpass.org/live/sportsnet-west/
+Sportsnet West ,https://tvpass.org/live/sportsnet-west/
+Starz Eastern ,https://tvpass.org/live/StarzEast/
+Starz Eastern ,https://tvpass.org/live/StarzEast/
+SundanceTV USA East ,https://tvpass.org/live/SundanceTVEast/
+SundanceTV USA East ,https://tvpass.org/live/SundanceTVEast/
+Syfy Eastern Feed ,https://tvpass.org/live/SyfyEast/
+Syfy Eastern Feed ,https://tvpass.org/live/SyfyEast/
+TBS East ,https://tvpass.org/live/TBSEast/
+TBS East ,https://tvpass.org/live/TBSEast/
+TeenNick Eastern ,https://tvpass.org/live/TeenNickEast/
+TeenNick Eastern ,https://tvpass.org/live/TeenNickEast/
+Telemundo Eastern Feed ,https://tvpass.org/live/TelemundoEast/
+Telemundo Eastern Feed ,https://tvpass.org/live/TelemundoEast/
+The Cooking Channel ,https://tvpass.org/live/CookingChannel/
+The Cooking Channel ,https://tvpass.org/live/CookingChannel/
+The Tennis Channel ,https://tvpass.org/live/TennisChannel/
+The Tennis Channel ,https://tvpass.org/live/TennisChannel/
+The Weather Channel ,https://tvpass.org/live/TheWeatherChannel/
+The Weather Channel ,https://tvpass.org/live/TheWeatherChannel/
+TLC USA Eastern ,https://tvpass.org/live/TLCEast/
+TLC USA Eastern ,https://tvpass.org/live/TLCEast/
+TMC (US) Eastern Feed ,https://tvpass.org/live/TheMovieChannelEast/
+TMC (US) Eastern Feed ,https://tvpass.org/live/TheMovieChannelEast/
+TNT Eastern Feed ,https://tvpass.org/live/TNTEast/
+TNT Eastern Feed ,https://tvpass.org/live/TNTEast/
+Travel US East ,https://tvpass.org/live/TravelChannelEast/
+Travel US East ,https://tvpass.org/live/TravelChannelEast/
+truTV USA Eastern ,https://tvpass.org/live/truTVEast/
+truTV USA Eastern ,https://tvpass.org/live/truTVEast/
+TSN1 ,https://tvpass.org/live/tsn1/
+TSN1 ,https://tvpass.org/live/tsn1/
+TSN2 ,https://tvpass.org/live/tsn2/
+TSN2 ,https://tvpass.org/live/tsn2/
+TSN3 ,https://tvpass.org/live/tsn3/
+TSN3 ,https://tvpass.org/live/tsn3/
+TSN4 ,https://tvpass.org/live/tsn4/
+TSN4 ,https://tvpass.org/live/tsn4/
+TSN5 ,https://tvpass.org/live/tsn5/
+TSN5 ,https://tvpass.org/live/tsn5/
+Turner Classic Movies USA ,https://tvpass.org/live/TCMEast/
+Turner Classic Movies USA ,https://tvpass.org/live/TCMEast/
+TV Land Eastern ,https://tvpass.org/live/tv-land-eastern/
+TV Land Eastern ,https://tvpass.org/live/tv-land-eastern/
+TV One ,https://tvpass.org/live/TVOne/
+TV One ,https://tvpass.org/live/TVOne/
+Universal Kids ,https://tvpass.org/live/UniversalKidsEast/
+Universal Kids ,https://tvpass.org/live/UniversalKidsEast/
+Univision Eastern Feed ,https://tvpass.org/live/UnivisionEast/
+Univision Eastern Feed ,https://tvpass.org/live/UnivisionEast/
+USA Network East Feed ,https://tvpass.org/live/USANetworkEast/
+USA Network East Feed ,https://tvpass.org/live/USANetworkEast/
+VH1 Eastern Feed ,https://tvpass.org/live/VH1East/
+VH1 Eastern Feed ,https://tvpass.org/live/VH1East/
+VICE ,https://tvpass.org/live/VICETV/
+VICE ,https://tvpass.org/live/VICETV/
+WE (Women's Entertainment) Eastern ,https://tvpass.org/live/WeTVEast/
+WE (Women's Entertainment) Eastern ,https://tvpass.org/live/WeTVEast/
+WPIX New York (SUPERSTATION) ,https://tvpass.org/live/WPIX/
+WPIX New York (SUPERSTATION) ,https://tvpass.org/live/WPIX/
+Yes Network ,https://tvpass.org/live/yes-network/
+Yes Network ,https://tvpass.org/live/yes-network/
+MLB,#genre#
+Colorado Rockies @ Minnesota Twins (03/25 1:05 PM ET) ,https://tvpass.org/live/MLBNetwork/
+Colorado Rockies @ Minnesota Twins (03/25 1:05 PM ET) ,https://tvpass.org/live/MLBNetwork/
+Atlanta Braves @ Chicago Cubs (03/25 4:05 PM ET) ,https://tvpass.org/live/MLBNetwork/
+Atlanta Braves @ Chicago Cubs (03/25 4:05 PM ET) ,https://tvpass.org/live/MLBNetwork/
+NBA,#genre#
+San Antonio Spurs @ Detroit Pistons (03/25 7:10 PM ET) ,https://tvpass.org/live/NBA07/
+San Antonio Spurs @ Detroit Pistons (03/25 7:10 PM ET) ,https://tvpass.org/live/NBA07/
+Orlando Magic @ Charlotte Hornets (03/25 7:10 PM ET) ,https://tvpass.org/live/NBA05/
+Orlando Magic @ Charlotte Hornets (03/25 7:10 PM ET) ,https://tvpass.org/live/NBA05/
+NHL,#genre#
+Ottawa Senators @ Buffalo Sabres (03/25 7:10 PM ET) ,https://tvpass.org/live/tsn5/
+Ottawa Senators @ Buffalo Sabres (03/25 7:10 PM ET) ,https://tvpass.org/live/tsn5/
+Nashville Predators @ Carolina Hurricanes (03/25 7:10 PM ET) ,https://tvpass.org/live/NHL01/
+Nashville Predators @ Carolina Hurricanes (03/25 7:10 PM ET) ,https://tvpass.org/live/NHL01/
+Philadelphia Flyers @ Toronto Maple Leafs (03/25 7:10 PM ET) ,https://tvpass.org/live/tsn4/
+Philadelphia Flyers @ Toronto Maple Leafs (03/25 7:10 PM ET) ,https://tvpass.org/live/tsn4/
+Pittsburgh Penguins @ Tampa Bay Lightning (03/25 7:10 PM ET) ,https://tvpass.org/live/sportsnet-pittsburgh/
+Pittsburgh Penguins @ Tampa Bay Lightning (03/25 7:10 PM ET) ,https://tvpass.org/live/sportsnet-pittsburgh/
+Dallas Mavericks @ New York Knicks (03/25 7:30 PM ET) ,https://tvpass.org/live/NBA09/
+Dallas Mavericks @ New York Knicks (03/25 7:30 PM ET) ,https://tvpass.org/live/NBA09/
+Golden State Warriors @ Miami Heat (03/25 7:30 PM ET) ,https://tvpass.org/live/TNTEast/
+Golden State Warriors @ Miami Heat (03/25 7:30 PM ET) ,https://tvpass.org/live/TNTEast/
+Detroit Tigers @ San Francisco Giants (03/25 8:00 PM ET) ,https://tvpass.org/live/MLBNetwork/
+Detroit Tigers @ San Francisco Giants (03/25 8:00 PM ET) ,https://tvpass.org/live/MLBNetwork/
+Atlanta Hawks @ Houston Rockets (03/25 8:10 PM ET) ,https://tvpass.org/live/NBA22/
+Atlanta Hawks @ Houston Rockets (03/25 8:10 PM ET) ,https://tvpass.org/live/NBA22/
+Washington Capitals @ Winnipeg Jets (03/25 8:10 PM ET) ,https://tvpass.org/live/tsn3/
+Washington Capitals @ Winnipeg Jets (03/25 8:10 PM ET) ,https://tvpass.org/live/tsn3/
+Montréal Canadiens @ St Louis Blues (03/25 8:10 PM ET) ,https://tvpass.org/live/tsn2/
+Montréal Canadiens @ St Louis Blues (03/25 8:10 PM ET) ,https://tvpass.org/live/tsn2/
+Vegas Golden Knights @ Minnesota Wild (03/25 8:10 PM ET) ,https://tvpass.org/live/NHL12/
+Vegas Golden Knights @ Minnesota Wild (03/25 8:10 PM ET) ,https://tvpass.org/live/NHL12/
+Los Angeles Dodgers @ Los Angeles Angels (03/25 9:07 PM ET) ,https://tvpass.org/live/spectrum-sportsnet-la/
+Los Angeles Dodgers @ Los Angeles Angels (03/25 9:07 PM ET) ,https://tvpass.org/live/spectrum-sportsnet-la/
+Memphis Grizzlies @ Utah Jazz (03/25 9:10 PM ET) ,https://tvpass.org/live/NBA04/
+Memphis Grizzlies @ Utah Jazz (03/25 9:10 PM ET) ,https://tvpass.org/live/NBA04/
+Seattle Kraken @ Calgary Flames (03/25 9:10 PM ET) ,https://tvpass.org/live/NHL15/
+Seattle Kraken @ Calgary Flames (03/25 9:10 PM ET) ,https://tvpass.org/live/NHL15/
+Detroit Red Wings @ Colorado Avalanche (03/25 9:10 PM ET) ,https://tvpass.org/live/NHL19/
+Detroit Red Wings @ Colorado Avalanche (03/25 9:10 PM ET) ,https://tvpass.org/live/NHL19/
+Oklahoma City Thunder @ Sacramento Kings (03/25 10:10 PM ET) ,https://tvpass.org/live/TNTEast/
+Oklahoma City Thunder @ Sacramento Kings (03/25 10:10 PM ET) ,https://tvpass.org/live/TNTEast/
+Cleveland Cavaliers @ Portland Trail Blazers (03/25 10:10 PM ET) ,https://tvpass.org/live/NBA27/
+Cleveland Cavaliers @ Portland Trail Blazers (03/25 10:10 PM ET) ,https://tvpass.org/live/NBA27/
+New York Rangers @ Los Angeles Kings (03/25 10:40 PM ET) ,https://tvpass.org/live/sportsnet-one/
+New York Rangers @ Los Angeles Kings (03/25 10:40 PM ET) ,https://tvpass.org/live/sportsnet-one/
