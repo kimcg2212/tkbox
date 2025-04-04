@@ -470,6 +470,7 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
+KBS1,https://stream.ogtv3.com/live/live1004.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://stream.ogtv3.com/live/live1005.m3u8
 sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
