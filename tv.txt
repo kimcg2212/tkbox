@@ -491,6 +491,7 @@ ybtv 2,https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 tvN,https://stream.ogtv3.com/live/live1007.m3u8
 ytn,http://210.92.207.38:40001
 ytn,https://stream.ogtv3.com/live/live1021.m3u8
+ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/4dd7e12c-51b5-433b-b8a8-3411fc786a3b/0.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
 MBN,https://stream.ogtv3.com/live/live1008.m3u8
@@ -500,7 +501,7 @@ the movie,https://stream.ogtv3.com/live/live1027.m3u8
 ocn mmovie,https://stream.ogtv3.com/live/live1030.m3u8
 스크린,https://stream.ogtv3.com/live/live1026.m3u8
 시네마천국,https://stream.ogtv3.com/live/live1020.m3u8
-ena.https://stream.ogtv3.com/live/live1016.m3u8
+ena,https://stream.ogtv3.com/live/live1016.m3u8
 ena 드라마,https://stream.ogtv3.com/live/live1019.m3u8
 tvn 드라마,https://stream.ogtv3.com/live/live1020.m3u8
 tvn story,https://stream.ogtv3.com/live/live1018.m3u8
@@ -558,15 +559,15 @@ AMC Eastern Feed,https://tvpass.org/live/AMCEast/hd
 BBC America East,https://tvpass.org/live/BBCAmericaEast/sd
 BBC America East,https://tvpass.org/live/BBCAmericaEast/hd
 BBC News,https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-BBC News ,https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed SD" group-title="Live",BET Eastern Feed SD
-https://tvpass.org/live/BETEast/sd
+BBC News,https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/f852d2ff-e350-4509-90e9-2b6e2be536b7/5.m3u8
 Bloomberg TV,https://tvpass.org/live/BloombergTV/sd
 Bloomberg TV,https://tvpass.org/live/BloombergTV/hd
 CNBC,https://tvpass.org/live/CNBC/sd
 CNBC,https://tvpass.org/live/CNBC/hd
 CNN,https://tvpass.org/live/CNN/sd
 CNN,https://tvpass.org/live/CNN/hd
+sky news,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a9c1782f-1f42-4f40-a59d-43eb5a527558/4.m3u8
 Comedy Centra,https://tvpass.org/live/ComedyCentralEast/sd
 Comedy Central,https://tvpass.org/live/ComedyCentralEast/hd
 Crime & Investigation,https://tvpass.org/live/CrimePlusInvestigation/sd
@@ -601,8 +602,10 @@ HBO Family,https://tvpass.org/live/HBOFamilyEast/sd
 HBO Family,https://tvpass.org/live/HBOFamilyEast/hd
 HBO 3,https://tvpass.org/live/HBOSignatureEast/sd
 HBO 3,https://tvpass.org/live/HBOSignatureEast/hd
-https://tvpass.org/live/HGTVEast/hd
-https://tvpass.org/live/LifetimeEast/sd
+hgtveast,https://tvpass.org/live/HGTVEast/hd
+life time,https://tvpass.org/live/LifetimeEast/sd
+RiffTrax,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c9d2a2c3-a742-4ae1-9764-54d2ed7499fa/5.m3u8
+collection,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9a508af9-ceeb-4abd-bc3e-e13dab90c945/5.m3u8
 NBC,https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 NBC,https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 New England Sports,https://tvpass.org/live/new-england-sports-network/sd
