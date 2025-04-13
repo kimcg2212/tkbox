@@ -533,6 +533,10 @@ tvn 드라마,https://stream.ogtv2.com/live/live1020.m3u8
 tvn 드라마,https://stream.ogtv3.com/live/live1020.m3u8
 tvn story,https://stream.ogtv2.com/live/live1018.m3u8
 tvn story,https://stream.ogtv3.com/live/live1018.m3u8
+스포티비 프라임1,https://stream.ogtv2.com/live/live483.m3u8
+스포티비 프라임2,https://stream.ogtv2.com/live/live482.m3u8
+쿠팡티비,https://stream.ogtv2.com/live/live484.m3u8
+스카이 스포츠,https://stream.ogtv2.com/live/live234.m3u8
 한국경제TV,http://cdnmlive.wowtv.co.kr/wowmo/livestream/chunklist_w43658333.m3u8
 매일경제TV,http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
 머니투데이방송,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
