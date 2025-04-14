@@ -477,8 +477,9 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
-KBS1,https://stream.ogtv3.com/live/live1004.m3u8
-KBS1,https://stream.ogtv2.com/live/live1004.m3u8
+KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8
+https://stream.ogtv2.com/live/live1004.m3u8
+https://stream.ogtv3.com/live/live1004.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://stream.ogtv3.com/live
 KBS2,https://stream.ogtv2.com/live/live1005.m3u8
@@ -507,16 +508,18 @@ ybtv 2,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 tvN,https://stream.ogtv3.com/live/live1007.m3u8
 tvN,https://stream.ogtv2.com/live/live1007.m3u8
 ytn,http://210.92.207.38:40001
-ytn,https://stream.ogtv3.com/live/live1021.m3u8
 ytn,https://stream.ogtv2.com/live/live1021.m3u8
-ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/4dd7e12c-51b5-433b-b8a8-3411fc786a3b/0.m3u8
+ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/c43d4523-673b-464a-825a-c7760e1a07b9/0.m3u8
+ytn,https://stream.ogtv3.com/live/live1021.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
 MBN,https://stream.ogtv3.com/live/live1008.m3u8
 MBN,https://stream.ogtv2.com/live/live1008.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-연합뉴스,https://stream.ogtv3.com/live/live1011.m3u8
 연합뉴스,https://stream.ogtv2.com/live/live1011.m3u8
+연합뉴스,https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/ae94c4df-e464-4152-86e7-17b8cb192229/0.m3u8
+연합뉴스,https://stream.ogtv3.com/live/live1011.m3u8
+
 the movie,https://stream.ogtv3.com/live/live1027.m3u8
 the movie,https://stream.ogtv2.com/live/live1027.m3u8
 ocn mmovie,https://stream.ogtv2.com/live/live1030.m3u8
