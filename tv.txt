@@ -478,10 +478,10 @@ KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8
-https://stream.ogtv2.com/live/live1004.m3u8
-https://stream.ogtv3.com/live/live1004.m3u8
+KBS1,https://stream.ogtv2.com/live/live1004.m3u8
+KBS1,https://stream.ogtv3.com/live/live1004.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
-KBS2,https://stream.ogtv3.com/live
+KBS2,https://stream.ogtv3.com/live/live1005.m3u8
 KBS2,https://stream.ogtv2.com/live/live1005.m3u8
 sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 sbs,https://stream.ogtv2.com/live/live1006.m3u8
@@ -493,13 +493,10 @@ mbc,https://stream.ogtv3.com/live/live1003.m3u8
 mbc,https://stream.ogtv2.com/live/live1003.m3u8
 티비조선,https://stream.ogtv3.com/live/live1012.m3u8
 티비조선,https://stream.ogtv2.com/live/live1012.m3u8
-티비조선,https://na.linear.zype.com/982d89f1-7034-432a-a03b-d08adb65bf36/f3fd332b-fe60-4d02-8569-92938b5e99a8-hls4/manifest/1.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=f4f2a041-3e67-4d75-a237-05637ff8b96b&manifest_id=2daeea29-708b-4bbd-bed8-c6ac1f21c651&rendition=720&session_id=c5c96e02-3ab9-4c4e-a351-4f7df90e9265&partner_id=hls4&ipv=4&pv=2
 Jtbc,https://stream.ogtv3.com/live/live1009.m3u8
 Jtbc,https://stream.ogtv2.com/live/live1009.m3u8
-Jtbc,https://na.linear.zype.com/504e844f-4986-4de2-9370-43398ce088e7/a94f4451-4774-4520-8461-2c4246a22fbe-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=3f8bd145-1822-4107-a6dc-d3e4a6381cf2&manifest_id=7c056ff4-c518-497d-b428-c0691b5e9a4b&rendition=1080&session_id=4b3f0374-6ac3-4f51-98d0-cf7db43955c0&partner_id=hls4&ipv=4&pv=2
 채널A,https://stream.ogtv3.com/live/live1010.m3u8
 채널A,https://stream.ogtv2.com/live/live1010.m3u8
-채널A,https://na.linear.zype.com/93e6b6e6-17fd-4d58-b04c-52e8a2a60dc3/5e5acd8f-4e61-462f-8b54-770b998c65a5-hls4/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=76d9ae88-65b4-480e-b161-bb5c7f0f1105&manifest_id=e111ffe8-789c-483d-9ec1-d37d8cc73cc4&rendition=1080&session_id=485ef29b-bdf2-40c0-89be-c3fa947abaf1&partner_id=hls4&ipv=4&pv=2
 ocn,https://stream.ogtv3.com/live/live1011.m3u8
 ocn,https://stream.ogtv2.com/live/live1011.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
@@ -519,7 +516,6 @@ MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 연합뉴스,https://stream.ogtv2.com/live/live1011.m3u8
 연합뉴스,https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/ae94c4df-e464-4152-86e7-17b8cb192229/0.m3u8
 연합뉴스,https://stream.ogtv3.com/live/live1011.m3u8
-
 the movie,https://stream.ogtv3.com/live/live1027.m3u8
 the movie,https://stream.ogtv2.com/live/live1027.m3u8
 ocn mmovie,https://stream.ogtv2.com/live/live1030.m3u8
