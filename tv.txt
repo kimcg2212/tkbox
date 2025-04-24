@@ -4,6 +4,8 @@ CCTV2-财经,http://175.16.144.181:9901/tsfile/live/0002_1.m3u8?key=txiptv&playl
 CCTV3-综艺,http://175.16.144.181:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4-国际,http://175.16.144.181:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5-体育,http://175.16.144.181:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV5-体育+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 CCTV6-电影,http://175.16.144.181:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7-军农,http://175.16.144.181:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://175.16.144.181:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
