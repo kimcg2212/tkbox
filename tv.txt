@@ -507,8 +507,6 @@ tvN,https://stream.ogtv3.com/live/live1007.m3u8
 tvN,https://stream.ogtv2.com/live/live1007.m3u8
 ytn,http://210.92.207.38:40001
 ytn,https://stream.ogtv2.com/live/live1021.m3u8
-ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/c43d4523-673b-464a-825a-c7760e1a07b9/0.m3u8
-ytn,https://stream.ogtv2.com/live/live1021.m3u8
 ytn,https://stream.ogtv3.com/live/live1021.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
