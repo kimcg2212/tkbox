@@ -508,8 +508,9 @@ mbc,https://stream.ogtv2.com/live/live1003.m3u8
 mbc,https://stream.ogtv3.com/live/live1003.m3u8
 티비조선,https://stream.ogtv2.com/live/live1012.m3u8
 티비조선,https://stream.ogtv3.com/live/live1012.m3u8
+Jtbc,tvbus://8AvxmWj2NCEX84fNSD7DBP8KKta8nfCSAQD4UhahqwZecyy5q3
 Jtbc,https://stream.ogtv2.com/live/live1009.m3u8
-Jtbc,https://stream.ogtv3.com/live/live1009.m3u8
+Jtbc,tvbus://8ZN6nNst6X4TofDbxLw924txgc9qMDezHWQy73TWYuMiD49vgx#t
 Jtbc,https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8
 채널A,https://stream.ogtv2.com/live/live1010.m3u8
 채널A,https://stream.ogtv3.com/live/live1010.m3u8
