@@ -537,36 +537,37 @@ KBS2,https://stream.ogtv2.com/live/live1005.m3u8
 KBS2,https://stream.ogtv3.com/live/live1005.m3u8
 sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 sbs,https://stream.ogtv2.com/live/live1006.m3u8
-sbs,https://stream.ogtv3.com/live/live1006.m3u8
+sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 mbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 mbc,https://stream.ogtv2.com/live/live1003.m3u8
 mbc,https://stream.ogtv3.com/live/live1003.m3u8
 티비조선,https://stream.ogtv2.com/live/live1012.m3u8
-티비조선,https://stream.ogtv3.com/live/live1012.m3u8
+티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 Jtbc,https://stream.ogtv2.com/live/live1009.m3u8
 Jtbc,https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8
+Jtbc,#https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 채널A,https://stream.ogtv2.com/live/live1010.m3u8
-채널A,https://stream.ogtv3.com/live/live1010.m3u8
+채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 ocn,https://stream.ogtv2.com/live/live1014.m3u8
 ocn,https://stream.ogtv3.com/live/live1014.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 연변위성,https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
-tvN,https://stream.ogtv3.com/live/live1007.m3u8
+tvN,https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 tvN,https://stream.ogtv2.com/live/live1007.m3u8
 ytn,http://210.92.207.38:40001
 ytn,https://stream.ogtv2.com/live/live1021.m3u8
-ytn,https://stream.ogtv3.com/live/live1021.m3u8
+ytn,https://jmp2.uk/sam-KRBD2400001XD.m3u8
+ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/f98618df-7ff0-4ff9-9078-8a0069f99407/0.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
 MBN,https://stream.ogtv2.com/live/live1008.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-MBN,https://stream.ogtv3.com/live/live1008.m3u8
+MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTc2MDE0OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=1WWJ0Ze1uxSc44Rd304UXaSpt6ONhvdoHDn0Z88R1iMw6JAAIzBjceP8hMC8wGtulp-LpxL1SBZv-EMPR15xIDs1Nk~aAyWY~y1Rm1RgV3w7Idr1c8t0Ny69dbgIrm2TXJKit~A8D-HzYU14vaeftBb2pTSyivnmISmal5M~R9A_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 연합뉴스,https://stream.ogtv2.com/live/live1011.m3u8
-연합뉴스,https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/ae94c4df-e464-4152-86e7-17b8cb192229/0.m3u8
-연합뉴스,https://stream.ogtv3.com/live/live1011.m3u8
+연합뉴스,https://jmp2.uk/sam-KRBD1400001ED.m3u8
 the movie,https://stream.ogtv2.com/live/live1027.m3u8
 the movie,https://stream.ogtv3.com/live/live1027.m3u8
 ocn movie,https://stream.ogtv2.com/live/live1030.m3u8
@@ -574,10 +575,9 @@ ocn movie,https://stream.ogtv3.com/live/live1030.m3u8
 스크린,https://stream.ogtv2.com/live/live1026.m3u8
 스크린,https://stream.ogtv3.com/live/live1026.m3u8
 시네마천국,https://stream.ogtv2.com/live/live1020.m3u8
-시네마천국,https://stream.ogtv3.com/live/live1020.m3u8
-playgram movie,https://83b976d909bd40cc83605f4f7ff129d6.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v6yrys45wwsuo/1761c999-92db-4dc6-8606-aa36fbf200b6/0.m3u8
-playy movie,https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/d24d85fb-3e68-4ba2-a84c-dd56fb96f526/0.m3u8
-씨네 21,https://c352b6fbd16e46beb3fda5343f80ed31.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vx67zffq0my5c/c6f46f67-78c6-4d7c-b42a-30624310bde1/0.m3u8
+시네마천국,https://jmp2.uk/sam-KRBD26000011V.m3u8
+playgram movie,https://jmp2.uk/sam-KRBC3200004D1.m3u8
+playy movie,https://jmp2.uk/sam-KR12000017G.m3u8
 ena,https://stream.ogtv2.com/live/live1016.m3u8
 ena,https://stream.ogtv3.com/live/live1016.m3u8
 ena 드라마,https://stream.ogtv2.com/live/live1019.m3u8
@@ -586,7 +586,7 @@ tvn 드라마,https://stream.ogtv2.com/live/live1020.m3u8
 tvn 드라마,https://stream.ogtv3.com/live/live1020.m3u8
 tvn story,https://stream.ogtv2.com/live/live1018.m3u8
 tvn story,https://stream.ogtv3.com/live/live1018.m3u8
-tvn sports,https://0796317fc8764af68a3a7fa3c9a72bc3.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/ba78be01-4499-48d7-9f6b-2d6156af296c/0.m3u8
+스포티비,http://211.170.95.22/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P
 스포티비 프라임1,https://stream.ogtv2.com/live/live483.m3u8
 스포티비 프라임2,https://stream.ogtv2.com/live/live482.m3u8
 스포티비 플러스,https://stream.ogtv2.com/live/live487.m3u8
@@ -594,6 +594,7 @@ tvn sports,https://0796317fc8764af68a3a7fa3c9a72bc3.mediatailor.ap-northeast-1.a
 한국경제TV,http://cdnmlive.wowtv.co.kr/wowmo/livestream/chunklist_w43658333.m3u8
 매일경제TV,http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
 서울경제,https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
+서울경제,https://jmp2.uk/sam-KR7000044K.m3u8
 머니투데이방송,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 아리랑,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 KBS DRAMA,https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1744955566&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS9rYnNuZHJhbWEtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDk1NTU2Nn19fV19&Signature=GJgF13h5jaldoXLcUtKo5GMcJps8vHWb5UF4eMtDbl8hOYdeJGr8lNq2JxtByfPmauhx~ffKHsKS0AQ3SALRpX-C8wVkZAg5JVsCbwJu4g3LdmyuUGVh6qxenOWLUdQP0qPHfB5x0rpF4CGmSfrGXxcI-w2zoniXrgMDahlBu9axpvAU1N5YWenlaoP~pfzr4xxHqTtqSCYMHA0FWNoo6pIyuCAVwemEEgfvrcMjfLm8iPwjTIyfBXvc21XuAQofLF7-WKQHpmUsIA3RLYMqYcLfubtk12z41LF-eFHDUrPP9-d5PE9d2LOr~VSBYQMs-p9siK0THVZqPaq4vE2H8Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
