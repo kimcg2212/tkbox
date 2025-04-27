@@ -548,6 +548,7 @@ mbc,https://stream.ogtv3.com/live/live1003.m3u8
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 Jtbc,https://stream.ogtv2.com/live/live1009.m3u8
 Jtbc,https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8
+Jtbc,https://everylive.space/live/jtbc/livestream.m3u8
 Jtbc,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 채널A,https://stream.ogtv2.com/live/live1010.m3u8
 채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
