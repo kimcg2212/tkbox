@@ -654,6 +654,7 @@ BBC News,https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/f852d2ff-e350-4509-90e9-2b6e2be536b7/5.m3u8
 Bloomberg TV,https://tvpass.org/live/BloombergTV/sd
 Bloomberg TV,https://tvpass.org/live/BloombergTV/hd
+CBS NEWS,https://jmp2.uk/sam-USBB2200014DK.m3u8
 CNBC,https://tvpass.org/live/CNBC/sd
 CNBC,https://tvpass.org/live/CNBC/hd
 CNN,https://tvpass.org/live/CNN/sd
@@ -698,6 +699,7 @@ NBC,https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 NBC,https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 New England Sports,https://tvpass.org/live/new-england-sports-network/sd
 New England Sports,https://tvpass.org/live/new-england-sports-network/hd
+Sky news,https://jmp2.uk/sam-USBB52000022Q.m3u8
 shotime,https://tvpass.org/live/ShowtimeEast/sd
 Cooking Channel,https://tvpass.org/live/CookingChannel/sd
 The Weather,https://tvpass.org/live/TheWeatherChannel/sd
