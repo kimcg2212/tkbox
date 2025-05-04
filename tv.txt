@@ -542,12 +542,13 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 mbc,https://stream.ogtv2.com/live/live1003.m3u8
 티비조선,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
-티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8Jtbc,https://stream.ogtv2.com/live/live1009.m3u8
+티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 티비조선,https://stream.ogtv2.com/live/live1012.m3u8
 Jtbc,https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8
 Jtbc,https://everylive.space/live/jtbc/livestream.m3u8
 Jtbc,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
-채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php채널A,https://stream.ogtv2.com/live/live1010.m3u8
+채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+채널A,https://stream.ogtv2.com/live/live1010.m3u8
 채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 ybtv1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
@@ -561,9 +562,9 @@ ytn,https://stream.ogtv2.com/live/live1021.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTc2MDE0OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=1WWJ0Ze1uxSc44Rd304UXaSpt6ONhvdoHDn0Z88R1iMw6JAAIzBjceP8hMC8wGtulp-LpxL1SBZv-EMPR15xIDs1Nk~aAyWY~y1Rm1RgV3w7Idr1c8t0Ny69dbgIrm2TXJKit~A8D-HzYU14vaeftBb2pTSyivnmISmal5M~R9A_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjQ0MDI0NX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=NfItuQmug6ieUVjYUSkr6bHiUovWQm0JLx-RLZow9~CONutBKAjz1hOagMYHat8v0NEo6j3euhGtDzjvocgVAH1MPJjC2LYT-8E9~QFpLvcdz-y-jqhsa3wt~VoRgoPyNFEdnjwJWqzfN1Fyyf~lhIOuzTSt2thxFm-ZEzpFjhQ_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,https://stream.ogtv2.com/live/live1008.m3u8
-Mnet,https://ecffa8bebf654e029cad87d5b24beac1.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/a042261d-2eab-40be-b152-78bfba62ef0b/0.m3u8
+Mnet,https://ecffa8bebf654e029cad87d5b24beac1.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/5b844526-a204-44f1-bfb4-52626cf67266/0.m3u8
 ABN뉴스,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 연합뉴스,https://jmp2.uk/sam-KRBD1400001ED.m3u8
 연합뉴스,https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/4b219617-0944-4c59-bdfb-105558a50184/0.m3u8
@@ -586,8 +587,9 @@ ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 북조선중앙티비,https://tv.nknews.org/tvdash/stream.mpd
 낚시방송,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
 시네마천국,https://jmp2.uk/sam-KRBD26000011V.m3u8
-시네마천국,https://stream.ogtv2.com/live/live1020.m3u8
+시네마천국,https://c352b6fbd16e46beb3fda5343f80ed31.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vx67zffq0my5c/a194d638-0c48-4503-ae93-347f26058568/0.m3u8
 playgram movie,https://jmp2.uk/sam-KRBC3200004D1.m3u8
+playgram movie,https://83b976d909bd40cc83605f4f7ff129d6.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v6yrys45wwsuo/b766c6ac-c0e9-4629-951b-01d562a4f7b9/0.m3u8
 playy movie,https://jmp2.uk/sam-KR12000017G.m3u8
 tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261Jthe movie,https://stream.ogtv2.com/live/live1027.m3u8
 the movie,https://stream.ogtv3.com/live/live1027.m3u8
