@@ -713,3 +713,24 @@ Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Sky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+내사랑 못난이,#genre#
+1집,https://www.yasutv99.xyz/video/m3u8//afea5f70/index.m3u8
+2집,https://www.yasutv99.xyz/video/m3u8//9d88d934/index.m3u8
+3집,https://www.yasutv99.xyz/video/m3u8//1b367ff5/index.m3u8
+4집,https://www.yasutv99.xyz/video/m3u8//e984c04f/index.m3u8
+5집,https://www.yasutv99.xyz/video/m3u8//607d1584/index.m3u8
+6집,https://www.yasutv99.xyz/video/m3u8//9041440f/index.m3u8
+7집,https://www.yasutv99.xyz/video/m3u8//91c03150/index.m3u8
+8집,https://www.yasutv99.xyz/video/m3u8//007f9a1e/index.m3u8
+9집,https://www.yasutv99.xyz/video/m3u8//ae7e7c48/index.m3u8
+10집,https://www.yasutv99.xyz/video/m3u8//4d2bc46a/index.m3u8
+11집,https://www.yasutv99.xyz/video/m3u8//d99555f1/index.m3u8
+12집,https://www.yasutv99.xyz/video/m3u8//6522405a/index.m3u8
+13집,https://www.yasutv99.xyz/video/m3u8//b4ed60b5/index.m3u8
+14집,https://www.yasutv99.xyz/video/m3u8//539ddf06/index.m3u8
+15집,https://www.yasutv99.xyz/video/m3u8//1e7ba70f/index.m3u8
+16집,https://www.yasutv99.xyz/video/m3u8//6489d15d/index.m3u8
+17집,https://www.yasutv99.xyz/video/m3u8//8d4139e4/index.m3u8
+18집,https://www.yasutv99.xyz/video/m3u8//8339834e/index.m3u8
+19집,https://www.yasutv99.xyz/video/m3u8//afcbe641/index.m3u8
+20집,https://www.yasutv99.xyz/video/m3u8//97fd38c1/index.m3u8
