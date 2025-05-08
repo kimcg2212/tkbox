@@ -553,7 +553,7 @@ Jtbc,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m
 ybtv1,https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 ybtv 2,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 연변위성,https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
-tvN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+tvN,https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 tvN,https://stream.ogtv2.com/live/live1007.m3u8
 ytn,http://210.92.207.38:40001
 ytn,https://jmp2.uk/sam-KRBD2400001XD.m3u8
@@ -563,7 +563,6 @@ YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_917118855
 TVN movie,http://210.210.155.37/dr9445/h/h21/index.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjQ0MDI0NX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=NfItuQmug6ieUVjYUSkr6bHiUovWQm0JLx-RLZow9~CONutBKAjz1hOagMYHat8v0NEo6j3euhGtDzjvocgVAH1MPJjC2LYT-8E9~QFpLvcdz-y-jqhsa3wt~VoRgoPyNFEdnjwJWqzfN1Fyyf~lhIOuzTSt2thxFm-ZEzpFjhQ_&Key-Pair-Id=pub_hls-live.mbn.co.kr
-MBN,https://stream.ogtv2.com/live/live1008.m3u8
 Mnet,https://ecffa8bebf654e029cad87d5b24beac1.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/5b844526-a204-44f1-bfb4-52626cf67266/0.m3u8
 ABN뉴스,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 연합뉴스,https://jmp2.uk/sam-KRBD1400001ED.m3u8
