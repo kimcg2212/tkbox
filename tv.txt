@@ -525,7 +525,7 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 東方衛視,http://47.242.38.45:9999/twjd678-2.php?id=122
 台視,http://47.242.38.45:9999/twjd678-1.php?id=1
 金鹰纪实,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
-南韩,#genre#
+한국,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
@@ -584,6 +584,7 @@ ebs1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 ebs2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+북조선중앙티비,https://tv.nknews.org/tvhls/stream.m3u8
 북조선중앙티비,https://tv.nknews.org/tvdash/stream.mpd
 낚시방송,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
 시네마천국,https://jmp2.uk/sam-KRBD26000011V.m3u8
