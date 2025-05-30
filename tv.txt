@@ -628,84 +628,35 @@ BMAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
 FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 国外频道,#genre#
-ABC Los Angeles,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-ABC Los Angeles, https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
-ABC New York,https://tvpass.org/live/WABCDT1/sd
-ABC New York,https://tvpass.org/live/WABCDT1/hd
-ACC Network,https://tvpass.org/live/ACCNetwork/sd
-ACC Network,https://tvpass.org/live/ACCNetwork/hd
-AMC Eastern Feed,https://tvpass.org/live/AMCEast/sd
-AMC Eastern Feed,https://tvpass.org/live/AMCEast/hd
-BBC America East,https://tvpass.org/live/BBCAmericaEast/sd
-BBC America East,https://tvpass.org/live/BBCAmericaEast/hd
-BBC News,https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-BBC News,https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+ABC NEWS,https://livetv-fa.tubi.video/abc-news/index_1.m3u8
+ABC 30, https://content-aapm1.uplynk.com/channel/640a5a594b434c2691e20580afda564f/f.m3u8?pbs=d206a228ed3c4dc7ae222779af77d901
+ABC New York,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ACTION TV,https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/de5c119f-88b0-4434-8e8b-315af0a99d68/2.m3u8
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/f852d2ff-e350-4509-90e9-2b6e2be536b7/5.m3u8
-Bloomberg TV,https://tvpass.org/live/BloombergTV/sd
-Bloomberg TV,https://tvpass.org/live/BloombergTV/hd
-CBS NEWS,https://jmp2.uk/sam-USBB2200014DK.m3u8
-CNBC,https://tvpass.org/live/CNBC/sd
-CNBC,https://tvpass.org/live/CNBC/hd
-CNN,https://tvpass.org/live/CNN/sd
-CNN,https://tvpass.org/live/CNN/hd
-Comedy Centra,https://tvpass.org/live/ComedyCentralEast/sd
-Comedy Central,https://tvpass.org/live/ComedyCentralEast/hd
-Crime & Investigation,https://tvpass.org/live/CrimePlusInvestigation/sd
-Crime & Investigation,https://tvpass.org/live/CrimePlusInvestigation/hd
-Discovery Channel,https://tvpass.org/live/DiscoveryChannelEast/sd
-Discovery Channel,https://tvpass.org/live/DiscoveryChannelEast/hd
-Disney Eastern,https://tvpass.org/live/DisneyChannelEast/sd
-Disney Eastern,https://tvpass.org/live/DisneyChannelEast/hd
-ESPN,https://tvpass.org/live/ESPN/sd
-ESPN,https://tvpass.org/live/ESPN/hd
-ESPN News,https://tvpass.org/live/ESPNews/sd
-ESPN News,https://tvpass.org/live/ESPNews/hd
-ESPN2,https://tvpass.org/live/ESPN2/sd
-ESPN2,https://tvpass.org/live/ESPN2/hd
-FOX  New York,https://tvpass.org/live/WNYWDT1/sd
-FOX  New York, https://tvpass.org/live/WNYWDT1/hd
-Fox Business,https://tvpass.org/live/FoxBusiness/sd
-Fox Business,https://tvpass.org/live/FoxBusiness/hd
-Fox News,https://tvpass.org/live/FoxNewsChannel/sd
-Fox News,https://tvpass.org/live/FoxNewsChannel/hd
-FX Movie,https://tvpass.org/live/FXMovieChannel/sd
-FX Movie,https://tvpass.org/live/FXMovieChannel/hd
-FX Networks,https://tvpass.org/live/FXEast/sd
-FX Networks,https://tvpass.org/live/FXEast/hd
-HBO Eastern,https://tvpass.org/live/HBOEast/sd
-HBO Eastern,https://tvpass.org/live/HBOEast/hd
-HBO 2,https://tvpass.org/live/HBO2East/sd
-HBO 2,https://tvpass.org/live/HBO2East/hd
-HBO Comedy,https://tvpass.org/live/HBOComedyEast/sd
-HBO Comedy,https://tvpass.org/live/HBOComedyEast/hd
-HBO Family,https://tvpass.org/live/HBOFamilyEast/sd
-HBO Family,https://tvpass.org/live/HBOFamilyEast/hd
-HBO 3,https://tvpass.org/live/HBOSignatureEast/sd
-HBO 3,https://tvpass.org/live/HBOSignatureEast/hd
-hgtveast,https://tvpass.org/live/HGTVEast/hd
-life time,https://tvpass.org/live/LifetimeEast/sd
-NBC,https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-NBC,https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
-New England Sports,https://tvpass.org/live/new-england-sports-network/sd
-New England Sports,https://tvpass.org/live/new-england-sports-network/hd
-Sky news,https://jmp2.uk/sam-USBB52000022Q.m3u8
-shotime,https://tvpass.org/live/ShowtimeEast/sd
-Cooking Channel,https://tvpass.org/live/CookingChannel/sd
-The Weather,https://tvpass.org/live/TheWeatherChannel/sd
-Travel US,https://tvpass.org/live/TravelChannelEast/sd
-Universal Kids,https://tvpass.org/live/UniversalKidsEast/sd
-Universal Kids,https://tvpass.org/live/UniversalKidsEast/hd
-Univision Eastern,https://tvpass.org/live/UnivisionEast/sd
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+Bloomberg TV,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8
+CBS NEWS,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_20.m3u8
+CBS,https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+CNBC,https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
+CNBC,https://fl3.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
+CNBC WORLD,https://fl3.moveonjoy.com/CNBC_World/tracks-v1a1/mono.ts.m3u8
+cine canal,https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a1/mono.ts.m3u8
+Fox Business,https://fl3.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
+Fox News,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+MSNBC,http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
+MOVIE SPHERE,https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+NBC,https://livetv-fa.tubi.video/nbc-news-now/master_4.m3u8
+NBC,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_4.m3u8
+NBC NEWYORK,https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist1080.m3u8
+NEWS 12,https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/2.m3u8
+VICTOR MOVIE,https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/chunklist.m3u8
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 TBS,http://143.244.60.30/TBS/index.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Sky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
-Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 내 남자의 여자,#genre#
 1집,https://www.yasutv99.xyz/video/m3u8//95b1a0df/index.m3u8
 2집,https://www.yasutv99.xyz/video/m3u8//c047512c/index.m3u8
