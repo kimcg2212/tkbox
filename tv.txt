@@ -628,6 +628,7 @@ BMAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
 FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 国外频道,#genre#
+30A TV,https://30a-tv.com/feeds/720p/47.m3u8
 ABC NEWS,https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 ABC 30, https://content-aapm1.uplynk.com/channel/640a5a594b434c2691e20580afda564f/f.m3u8?pbs=d206a228ed3c4dc7ae222779af77d901
 ABC New York,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -654,7 +655,9 @@ Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 TBS,http://143.244.60.30/TBS/index.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+GLOBAL FASHION,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+INFAST,https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 내 남자의 여자,#genre#
