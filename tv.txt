@@ -651,6 +651,7 @@ NBC,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_4.m3u8
 NBC NEWYORK,https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist1080.m3u8
 NEWS 12,https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/2.m3u8
 VICTOR MOVIE,https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/chunklist.m3u8
+Z NATION,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29/variant.m3u8?x-plex-token=BEXCKqP1obstztsGK8r2&x-plex-advertising-identifier=&x-plex-client-identifier=cb8e0808-c99a-4ed8-9d26-768f0dbb5af0&x-plex-playback-id=p_76d6b5bc-7c5e-44e3-b86f-8e8825bc0908&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=128.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1748607444&url=5feed8a798b230f23c4723ec2ce628a1-b055a97deb459a8a1a05ec8bb8e0cbff88d8be5e5a7cc6b378919c247ec4c5025ca2c8224311be2bafa973eacaf5cf2b353143b61e298b9796ad34a5fbd7e35a961c02d4adfa4683084dd7baa2265a4adbe23b0484ad9f4cc2e516d49de488b3f5bbb65c6d1887d743c5f215c2fdf302842e29309756c6329e7dfb36e4e1ed37e5032920cd5351524e33a6f233e5be9e5d52d42275ffbd7ef2d4fb7f18377111
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 TBS,http://143.244.60.30/TBS/index.m3u8
