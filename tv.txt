@@ -6,7 +6,7 @@ CCTV4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
 CCTV4欧洲,https://www.freetv.top/migu/608807419.m3u8?migutoken=da2bebaf4733da74b351c9da1aff5ae6f2bddc5dfe106f07afdf8b3fe2c9f8b79ff9a536c062d0d9cf20441a8974dee6424704cce328271d659b9f52f3c21fb4654a0ead9a7d75bbd1fedb1752
 CCTV4美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=f8021878f57d5e1d12978bc60dff5cfd6edff248962eb4cc940b27d679485a56ca27af4d70fd20445ed5487d7343cd537edba58668f7b53266277be9f6ba4f3601afe11104de0ad1bd16cb5178
 CCTV5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-CCTV5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=af558a693614440a59bfd6a33cf11cf3e38380498ad276f208f43ca52ac6d732087302060efe1b5f21cd8ccc89c417e7bdddd9c1d3e6233a834e1f149818024731e56f97b1489c88735ef75551
+CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8
 CCTV6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
 CCTV7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
 CCTV8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
