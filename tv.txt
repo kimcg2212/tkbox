@@ -603,7 +603,7 @@ KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://stream.ogtv2.com/live/live1005.m3u8
 sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
-sbs,https://stream.ogtv2.com/live/live1006.m3u8
+sbs,https://play.ogtv2.com/live/live1006.m3u8
 mbc,http://www.hwado.net/webtv/catv/503_CFEA7803.phpmbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
@@ -614,7 +614,7 @@ mbc,https://stream.ogtv2.com/live/live1003.m3u8
 티비조선,https://stream.ogtv2.com/live/live1012.m3u8
 Jtbc,https://everylive.space/live/jtbc/livestream.m3u8
 채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php
-채널A,https://stream.ogtv2.com/live/live1010.m3u8
+채널A,https://play.ogtv2.com/live/live1010.m3u8
 채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 ybtv1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 ybtv2,https://srs.iyb983.cn/video/ybtv2/index.m3u8
