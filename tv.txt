@@ -601,9 +601,9 @@ KBS1,https://play.ogtv2.com/live/live1004.m3u8
 KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://play.ogtv2.com/live/live1005.m3u8
-sbs,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
+sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
-sbs,https://play.ogtv2.com/live/live1006.m3u8
+sbs,http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 mbc,http://www.hwado.net/webtv/catv/503_CFEA7803.phpmbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,https://play.ogtv2.com/live/live1003.m3u8
