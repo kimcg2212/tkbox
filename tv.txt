@@ -593,8 +593,7 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 티비조선,https://play.ogtv2.com/live/live1012.m3u8
 티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
-Jtbc,http://1.214.67.12/74701.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;480p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
-Jtbchttps://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=wKcjvnEmcS9dPTUB5bzBQ9bva8E1yLmZ6xUARWOl&secret=c7d5fce9101add826f2080d72096222c&time=1752815127
+Jtbc,https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=idj9tkEEGi6qJqWjOD0yvE5dse1nr3tiXEVNPMPu&secret=ab44f93584db053862e80bad3d3d1e95&time=1754185312
 채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 채널A,https://play.ogtv2.com/live/live1010.m3u8
