@@ -634,6 +634,7 @@ ebs1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 ebs2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+북조선중앙티비,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
 북조선중앙티비,https://tv.nknews.org/tvhls/stream.m3u8
 북조선중앙티비,https://tv.nknews.org/tvdash/stream.mpd
 낚시방송,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
