@@ -596,7 +596,7 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 티비조선,https://play.ogtv2.com/live/live1012.m3u8
 티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
-Jtbc,https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=idj9tkEEGi6qJqWjOD0yvE5dse1nr3tiXEVNPMPu&secret=ab44f93584db053862e80bad3d3d1e95&time=1754185312
+Jtbc,https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=1FiCvQ15KnhwGgAnx6enHQXKStX1dlnNtaKGvxqz&secret=bff7ee019133f1b7834eeafaed5ed9eb&time=1756265924
 채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 채널A,https://play.ogtv2.com/live/live1010.m3u8
