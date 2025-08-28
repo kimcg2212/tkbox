@@ -598,8 +598,8 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 티비조선,https://play.ogtv2.com/live/live1012.m3u8
 티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
-Jtbc,https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=1FiCvQ15KnhwGgAnx6enHQXKStX1dlnNtaKGvxqz&secret=bff7ee019133f1b7834eeafaed5ed9eb&time=1756265924
-채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+Jtbc,https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=jAsKLOiR4v4sgElHk0jOlGAVDwh9i3ZmgtMkj2gH&secret=d2a2e0e886478e3f28f42c332c0c0378&time=1756379935채널A,http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+jtbc,https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NjQyMzMyMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=exLPNS7ZqrZK5EqGPXISz8~k3X18zmtqkTaSvGmvv39F5uY2umLKPHrrivBin2y1JCRJciTHz~uaGfIM8qWIfYqC4Q4mbk7CCj8so5sKX-yCSKANDJNTyubuvfFeL8ndPQavgiTT8xJ61SsfOc7DS0Zv22vslsj~y4Hgsyr1m98_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 채널A,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 채널A,https://play.ogtv2.com/live/live1010.m3u8
 ocn,https://play.ogtv2.com/live/live1014.m3u8
@@ -624,7 +624,7 @@ MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjQ0MDI0NX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=NfItuQmug6ieUVjYUSkr6bHiUovWQm0JLx-RLZow9~CONutBKAjz1hOagMYHat8v0NEo6j3euhGtDzjvocgVAH1MPJjC2LYT-8E9~QFpLvcdz-y-jqhsa3wt~VoRgoPyNFEdnjwJWqzfN1Fyyf~lhIOuzTSt2thxFm-ZEzpFjhQ_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,https://play.ogtv2.com/live/live1008.m3u8
 ABN뉴스,https://vod2.abn.co.kr/IPHONE/abn.m3u8
-연합뉴스,https://jmp2.uk/sam-KRBD1400001ED.m3u8
+연합뉴스,https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/3d4aeb84-1844-478b-9b99-d3e8ef87a627/0.m3u8
 연합뉴스,https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/8c48cbb9-2b60-4c50-93d4-4f6fcb6ad5fe/1.m3u8
 tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
 한국경제TV,http://cdnmlive.wowtv.co.kr/wowmo/livestream/chunklist_w43658333.m3u8
