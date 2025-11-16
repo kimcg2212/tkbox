@@ -578,12 +578,12 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 台視,http://47.242.38.45:9999/twjd678-1.php?id=1
 金鹰纪实,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
 한국,#genre#
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjM0NzIwNzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=AOfHZs99tBhLchZqkEyK4RiD-7Qa21VHHtVuZNyGo-xzyUOWZdEYaSTKe8aIbYZifsFaSFxWjHVSSWajhYlTmLItYjmLQDYWREwQPIzs5OWTptcfpDy7PpGi~0VpNO7Oq4PXpE1vRD32muCsq5kqwmUcstJF1QnK2loOaNiEK5dGWGH2gXb6a1akQpVx-BdG5XsPx4LUnKLmPWlnPHaYvAmIT8iL~~wCCmaaDZoI2FwEsSi0CSALtxToVOqWk1RIqF0WjpFfs2gq1r6rEC0LxHprZf8hUBQr2dWkp5kR5W~pD6sDDTnrlOb~-MtphOrD2JNiHPbO27i40JmXVZSnHQ__
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,https://play.ogtv2.com/live/live1004.m3u8
 KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8
-KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjM0NzIwOTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=OSDew17KwDFsr3j6~jVeBeLy9xJXulo2yZwOr81xIIAXgzYuIlixZSpnpkZJ5MjC3glJotPRaE9q6Vh89reWCecmE3eLONmNdZOcsz~yd2~q5U3RoPUWbDd7m4WwmMSuWgDBRlpqtRdbvAsU3JQ-B23OkeGtkiumsppwqdNKT7S5rFLL~DFucRCHRJYhAgqsH~IRMdPkWdHD4rpX9zQ3kWmjjselEysLeibPikx3B2AD9BErSjd2K6vJVcqFlGleeo-6a7-KP5Ql6bbPeLFUsiNR9lRHRveC2rH8IBX06Qq-NLbmqlsaz8~Ki3oZK5k3ij8qocUCIZzwiPbDjIPe-Q__
 KBS2,https://play.ogtv2.com/live/live1005.m3u8
 sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
