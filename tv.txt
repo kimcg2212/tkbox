@@ -580,7 +580,7 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 한국,#genre#
 KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjM5NTY0MDZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NoeJC~jTug97XYZe4hYA-2e8HilJzKZTI5FehL4N1fxb9G7HXtHdKTP5kW9m0Cmqh~8HH4N2veUbBtNlqTHTyU-2M79A0GKH-8OdTQMFLGJ-9vSJdZ7S5~562v6JBTgKNCEhQl67xwMfmqZmLGmIRp8wN6Ya6kgeX9radKtmKMObZoA-CYGyScRCC1ImKzDl4BQ7AB1TxyCOnnbT3VlaKFJln2dXiWMeFNoMr-TR4IsjmoWnA2VISJP0ZROUuV2O2~zy~YmZ0FigqEEF3Hp3Zwksn-VB1HJVDTkCHmnxbRkfWbAOUXNqLNmzbjq5oE64PhgwTGKD9OMyyU06Qc7amw__
 KBS1,https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
-KBS2,,https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
+KBS2,https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
 sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 sbs,http://123.140.197.22/stream/1/play.m3u8
