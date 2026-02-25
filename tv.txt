@@ -577,10 +577,18 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 東方衛視,http://47.242.38.45:9999/twjd678-2.php?id=122
 台視,http://47.242.38.45:9999/twjd678-1.php?id=1
 金鹰纪实,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
-한국,#genre#
+한국 kbs,#genre#
 parse=1 
 ua=Mozilla/5.0（Windows NT 10.0；Win64；x64）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/108.0.0.0 Safari/537.36 KBSI,https://vod.kbs.co.kr/embed_live.html?ch_code=11 
 KBS2,https://vod.kbs.co.kr/embed_live.html?ch_code=12 
+KBSworld,https://vod.kbs.co.kr/embed_live.html?ch_code=14 
+KBSnews,https://vod.kbs.co.kr/embed_live.html?ch_code=81 
+KBSdrama,https://vod.kbs.co.kr/embed_live.html?ch_code=N91 
+KBSjoy,https://vod.kbs.co.kr/embed_live.html?ch_code=N92
+KBSlife,https://vod.kbs.co.kr/embed_live.html?ch_code=N93 
+KBSstory,https://vod.kbs.co.kr/embed_live.html?ch_code =N94 
+KBSkids,https://vod.kbs.co.kr/embed_live.html#ch_code=N96 
+한국,#genre#
 sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 sbs,http://123.140.197.22/stream/1/play.m3u8
@@ -611,13 +619,6 @@ tvN story,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef3
 서울경제,https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
 서울경제,https://jmp2.uk/sam-KR7000044K.m3u8
 아리랑,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-KBSworld,https://vod.kbs.co.kr/embed_live.html?ch_code=14 
-KBSnews,https://vod.kbs.co.kr/embed_live.html?ch_code=81 
-KBSdrama,https://vod.kbs.co.kr/embed_live.html?ch_code=N91 
-KBSjoy,https://vod.kbs.co.kr/embed_live.html?ch_code=N92
-KBSlife,https://vod.kbs.co.kr/embed_live.html?ch_code=N93 
-KBSstory,https://vod.kbs.co.kr/embed_live.html?ch_code =N94 
-KBSkids,https://vod.kbs.co.kr/embed_live.html#ch_code=N96 
 ebs1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 ebs2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
