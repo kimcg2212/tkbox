@@ -578,7 +578,8 @@ TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
 台視,http://47.242.38.45:9999/twjd678-1.php?id=1
 金鹰纪实,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
 한국,#genre#
-KBSI,https://vod.kbs.co.kr/embed_live.html?ch_code=11 
+parse=1 
+ua=Mozilla/5.0（Windows NT 10.0；Win64；x64）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/108.0.0.0 Safari/537.36 KBSI,https://vod.kbs.co.kr/embed_live.html?ch_code=11 
 KBS2,https://vod.kbs.co.kr/embed_live.html?ch_code=12 
 sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
