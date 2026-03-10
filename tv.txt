@@ -522,8 +522,7 @@ beIN SPORTS,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31048/index.m3u8
 Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
 NBA TV,http://212.102.60.231/NBA_TV/index.m3u8
 Spectrum SportsNet LA Dodgers,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/141497.ts
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum SportsNet Lakers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/basketball/los-angeles-lakers.png?raw=true" group-title="体育竞技 - 北美",Spectrum SportsNet Lakers
-http://hardcoremedia.xyz/live/rabdsbmz/3731346838/141498.ts
+Spectrum SportsNet,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/141498.ts
 YES Network,http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8,
 Altitude Sports,http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/141447
 Sportsnet New York,http://212.102.60.231/SNY/index.m3u8
@@ -551,8 +550,7 @@ FanDuel Sports Network Southeast,http://bgdc.live:25461/catrinamcdermott/catrina
 FanDuel Sports Network Southwest,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217343
 FanDuel Sports Network Sun,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217347
 FanDuel Sports Network Wisconsin,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217348
-#EXTINF:-1 tvg-id="Redbull.Dummy.us" tvg-name="Red Bull TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true" group-title="体育竞技 - 北美",Red Bull TV
-https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/a9fb7059-0e09-45d6-a75e-7740c2bf8316/1.m3u8
+Red Bull TV,https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/a9fb7059-0e09-45d6-a75e-7740c2bf8316/1.m3u8
 Space City Home Network,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/229934.ts
 MSG,http://23.237.104.106:8080/USA_MSG/index.m3u8
 WWE Network,http://hardcoremedia.xyz/rabdsbmz/3731346838/141507
