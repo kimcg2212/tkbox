@@ -561,9 +561,8 @@ Strongman Champions League,https://dbrb49pjoymg4.cloudfront.net/10001/99951180/h
 World Fishing Network,http://cord-cutter.net:8080/bn80NG/909467/10477
 TSN1 CA,https://a1xs.vip/6000001
 TSN2 CA,https://a1xs.vip/6000002
-TSN3 CA,https://a1xs.vip/6000003
-#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="体育竞技 - 北美",TSN4 CA
-https://a1xs.vip/6000004
+TSN3 CA,https://a1xs.vip/600000
+TSN4,https://a1xs.vip/6000004
 TSN5 CA,https://a1xs.vip/6000005
 Sportsnet Ontario CA,https://a1xs.vip/6000011
 Sportsnet East CA,https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
@@ -576,8 +575,7 @@ Sky Sports Main Event UK,https://a1xs.vip/2000001
 Sky Sports Premier League UK,https://a1xs.vip/2000002
 Sky Sports Football UK,https://a1xs.vip/2000003
 Sky Sports News UK,https://a1xs.vip/2000004
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="体育竞技 - 欧洲",Sky Sports F1 UK
-https://a1xs.vip/2000005
+Sky Sports F1 UK,https://a1xs.vip/2000005
 Sky Sports Cricket UK,https://a1xs.vip/2000006
 Sky Sports Mix UK,https://a1xs.vip/2000008
 Sky Sports Golf UK,https://a1xs.vip/2000009
