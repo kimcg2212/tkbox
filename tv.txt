@@ -620,13 +620,13 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 jtbc,p3p://focus169.org:47555/641a1615000b05f0bf3fff2226b2202b
 jtbc,https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 CHANNEL A,p3p://focus169.org:47555/641a1654000f331fbf40f64c1e7b0135
-tvn,p3p://focus169.org:47555/641a163c000a4f64bf40974c0cad0cce
+tvN,p3p://focus169.org:47555/641a163c000a4f64bf40974c0cad0cce
 tvN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 OCN,p3p://focus169.org:47555/641a169000080607bf41ded6287c1634
 ybtv1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 ybtv2,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 연변위성,https://srs.iyb983.cn/video/CYS/index.m3u8
-YTN,p3p://focus169.org:47555/641a167d000a6426bf41953a1298264b
+ytn,p3p://focus169.org:47555/641a167d000a6426bf41953a1298264b
 ytn,http://210.92.207.38:40001
 ytn,https://jmp2.uk/sam-KRBD2400001XD.m3u8
 ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/f98618df-7ff0-4ff9-9078-8a0069f99407/0.m3u8
