@@ -33,364 +33,53 @@ CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV1,p3p://focus169.org:47555/681f621a0008a0fb948c56d629ac0ba1
-CCTV2,p3p://focus169.org:47555/64260c83000b5f74edfa64604fe67a12
-CCTV3,p3p://focus169.org:47555/64260c9b0000ca3dedfabf6a10b00144
-CCTV4,p3p://focus169.org:47555/64260ca5000de050edfae9d444575946
-CCTV5,p3p://focus169.org:47555/64260cb0000afd53edfb140f10811127
-CCTV5+,p3p://focus169.org:47555/64260cbc00081417edfb42307c984dd4
-CCTV6,p3p://focus169.org:47555/64260cc800087ffdedfb712c61a06569
-CCTV7,p3p://focus169.org:47555/64260cd9000ba7ebedfbb46356b665a0
-CCTV8,p3p://focus169.org:47555/64260ce50007141fedfbe217161d5245
-CCTV9,p3p://focus169.org:47555/64260cef0008fa21edfc09a37d024704
-CCTV10,p3p://focus169.org:47555/64260d0a000e81f1edfc74866d9b5c0f
-CCTV11,p3p://focus169.org:47555/64260dce0000aea8edff6e9d426b2704
-CCTV12,p3p://focus169.org:47555/64260e37000ca83aee010bd5707e0fea
-CCTV13,p3p://focus169.org:47555/64260e45000ccab2ee01428e6da4043d
-CCTV14,p3p://focus169.org:47555/64260e4f0007169bee0168271778447e
-CCTV15,p3p://focus169.org:47555/64260e5a000a63ffee0193f872fa5767
 卫视频道,#genre#
-北京卫视,p3p://focus169.org:47555/64260fe100097b88ee078b124b8f3f9d
-东方卫视,p3p://focus169.org:47555/64260ef600069de1ee03f45f41e9710e
-浙江卫视,p3p://focus169.org:47555/64260fec0004b10aee07b4d0681c628b
-江苏卫视,p3p://focus169.org:47555/64260e700008a9f5ee01e97667ca7d36
-江苏备视,p3p://focus169.org:47555/64260e7d000134abee021a56268d6ac1
-湖南卫视,p3p://focus169.org:47555/64260ee40007c511ee03ae5a4aed536d
-广东卫视,p3p://focus169.org:47555/642610b9000df973ee0ad7f9779b6483
-广东卫视,p3p://focus169.org:47555/642610c3000df7f5ee0aff0975881941
-深圳卫视,p3p://focus169.org:47555/64261082000a8e12ee0a00412f96293c
-安徽卫视,p3p://focus169.org:47555/64260fd5000d5883ee075d2f7d6a48e2
-山东卫视,p3p://focus169.org:47555/64260f89000475c3ee06320a031a7286
-河南卫视,p3p://focus169.org:47555/64260fb100056a93ee06ce871c2e5071
-海南卫视,p3p://focus169.org:47555/64260fc10002a54fee070c525d0d5e83
-东南卫视,p3p://focus169.org:47555/64260fcb00035aa0ee0733907e64579c
-江西卫视,p3p://focus169.org:47555/64260f920000727aee06542a02064fce
-陕西卫视,p3p://focus169.org:47555/642610c3000df7f5ee0aff0975881941
-湖北卫视,p3p://focus169.org:47555/64260ed500091677ee0374195121319b
-重庆卫视,p3p://focus169.org:47555/642610b9000df973ee0ad7f9779b6483
-黑龙江视,p3p://focus169.org:47555/64260fa7000c1330ee06a92c52724886
-广东珠江,p3p://focus169.org:47555/6799835900013ee889a12e634f961767
-大湾区卫视,p3p://focus169.org:47555/64261096000de036ee0a4f3b523d603e
-广东嘉佳,p3p://focus169.org:47555/642610a2000b33ebee0a7d6c26c160b2
-北京卫视,https://nptv.freetv.top/nptv/beijing.m3u8
-东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=fea03586147486830f10198d1357ddbdb1f90d8a4fabed7f599b91df7cd173b82859573313e2a64bdbd02e7d5423e90cdb9bcc45339795dde8be4befbdbab16b89d440fa21688efa23203758b0
-江苏卫视,https://nptv.freetv.top/nptv/江苏.m3u8
-浙江卫视,https://nptv.freetv.top/nptv/zhejiang.m3u8
-湖南卫视,https://nptv.freetv.top/nptv/hunan.m3u8
-湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=c11ab37089b08b36b901c4a2b424fdc56b62cf85ce22799954221dfb115dc4aa5e75fe6d38966f51998989eda40a5cd26c2f0dcf4d9c3feac17664585c7cb85e992bfd1a7209ee633417590889
-广东卫视,https://nptv.freetv.top/nptv/guangdong.m3u8
-广西卫视,https://nptv.freetv.top/nptv/guangxi.m3u8
-黑龙江卫视,https://nptv.freetv.top/nptv/heilongjiang.m3u8
-海南卫视,https://nptv.freetv.top/nptv/hainan.m3u8
-重庆卫视,https://nptv.freetv.top/nptv/chongqing.m3u8
-深圳卫视,https://nptv.freetv.top/nptv/shenzheng.m3u8
-四川卫视,https://nptv.freetv.top/nptv/sichuan.m3u8
-河南卫视,https://nptv.freetv.top/nptv/henan.m3u8
-东南卫视,https://nptv.freetv.top/nptv/dongnan.m3u8
-贵州卫视,https://nptv.freetv.top/nptv/guizhou.m3u8
-江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=5003be072445e8d0bbf2ccd7e25d7c5901f1d99d2e736a1c305396c75d17395d3798f1084e8734f5599b24ed51e241be5e1b6824a684372f9ca0ee76e6d6cac231da65564f885da5fb7897d222
-辽宁卫视,https://nptv.freetv.top/nptv/liaoning.m3u8
-安徽卫视,https://nptv.freetv.top/nptv/anhui.m3u8
-河北卫视,https://nptv.freetv.top/nptv/hebei.m3u8
-山东卫视,https://nptv.freetv.top/nptv/shandong.m3u8
-天津卫视,https://nptv.freetv.top/nptv/tianjing.m3u8
-吉林卫视,https://nptv.freetv.top/nptv/jiling.m3u8
-陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=25ab7db9c8d8b355cb9de7d0624865d4f827d7b8bba8d1bb6ec8e3840f056dfc766ab8c16f1f34f1dcee0be941b49d3bbea828020ed464ce1b4eb3d0f9249f17518f894d02bc8352881d2a4249
-甘肃卫视,https://nptv.freetv.top/nptv/gansu.m3u8
-宁夏卫视,https://nptv.freetv.top/nptv/ningxia.m3u8
-内蒙古卫视,https://nptv.freetv.top/nptv/neimenggu.m3u8
-云南卫视,https://nptv.freetv.top/nptv/yunnan.m3u8
-山西卫视,https://nptv.freetv.top/nptv/shanxi.m3u8
-青海卫视,https://nptv.freetv.top/nptv/qinghai.m3u8
-新疆卫视,https://nptv.freetv.top/nptv/xinjiang.m3u8
-西藏卫视,https://nptv.freetv.top/nptv/xizang.m3u8
-大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=7674242feca82e04b47644dfd2d1305d88bea9914356cd5fed2240d549133aef35c795f749704da9bbddade2697d2ecd3eba4ea6f58e46ca419146a8666ee8a14d6f7654f28b494c946acea7d6
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-上海新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=5581b41b98477935ed3c69b4be1ab8140296abd48968ef22c86d8a00035db4b00a3b74eaa0a9922e47324f33a2f1e7ff5ff72af4e823ea35a794e3d4ec03bd855f090a9fd7f8913253da129d60
-上视东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=bb3d9dd2986f70b9ba5fb2edd4bb589000cd913e83319f64f9278bfa30b231152a92b1f1d56c4707445aa8ff070ed97ec8096c187928e2e7317481e9093f3fc6dea83fd54958a305ea37a92c3b
-上海第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=17feca9f17cb391f1ca9385b564d4ca42c1554fd63615167898bef2c72e764f041e0a6493938f73047e69a42317661e149e416b7c796fcd16355326de9a396eca8e44d2dbb62585fba9249ee47
-南京新闻综合频道,https://www.freetv.top/migu/838109047.m3u8migutoken=ddcb17689f784018c80fb2f38a48d9a6bb0aac918fefabedbcc315ed6216282d30cbe78052cf4aec796dec28c359c977510fbade23eef9724357b86f9da7f21aaad1bc3801a28fcd1b8c6dae96
-南京教科频道,https://www.freetv.top/migu/838153729.m3u8?migutoken=48b95e11466807ac7363452095a537a81b0a6dab0b4e14043cd79e9313a8137270a5238278d8b6b7191f6c806b5a14fce0d9b3a09e7eeab42af802dc6f9731e0c092629b56db610a1811a9b0da
-南京十八频道,https://www.freetv.top/migu/838151753.m3u8?migutoken=f817bde7b7e6296448c7f86d076fa83f37e7aafd84c95d7ca38a61dcef3aaa2350adbb41a6067cefd08a71b82b618a0f8396940e6481d3e86d81a2171bafecb4a821a16d42dd991b76f2818236
-体育休闲频道,https://www.freetv.top/migu/626064707.m3u8?migutoken=7652c028e2378f0cd0b6ba262b579cc533c1767cd5b42c150e759dbdb3ea7de8890ce166e7c30848ab3b7bf54af3c17d5aa212327995bb17eaebda13340c6205bc7a70c0902af0a30cd585e41e
-江苏城市频道,https://www.freetv.top/migu/626064714​​.m3u8?migutoken=d4d90c531624dedc21d4daf62e60c84931e92966800ecc228ddfd472a006ce010b7886bfb5ba02e3b43bc4ea450d1885249f086945be6d5cce8f120094bd2fa69e151583bdc2121f193fa73435
-江苏国际,https://www.freetv.top/migu/626064674.m3u8?migutoken=82d9df945e722c3ecb77e9a437f80ad001c46f689dda21c15c2a18ceb5df975d92aa69ebe0d720a744da0bfd64e9fa71e2031046cb4d5a035272e06e651141cf64fcb9f9d2c57c7ff992a43ab9
-江苏教育,https://www.freetv.top/migu/628008321.m3u8?migutoken=55da1b69ad25a6f25cff7d328207e090d42f417439ca4f889ad817fe2fbaeb2522d21b22a9c3829682d6320fca14ab9ecdfa63d25f16dbebc18b2e040c1db0428cdfc96b2ebade0efafacf842c
-江苏影视频道,https://www.freetv.top/migu/626064697.m3u8?migutoken=808f431db7548df8819b059ead536625109c62ed2064aba37bf7ca378f4197c522aa663c1f08d511d328967814397d34f1d0fb78a903dcff23ecebf302a6a2c9a58d7067d6425aadb4d2a3d137
-江苏综艺频道,https://www.freetv.top/migu/626065193.m3u8?migutoken=249c9d659af324a8d3727a7b05caf630311f952207893d6603535c472ec67e9c6deda198542901739abc7b9224445a74b714c054790625a1b7b4cbfeaced1e2f1d355e9998e9d8aa48e44d5ef0
-公共新闻频道,https://www.freetv.top/migu/626064693.m3u8?migutoken=75c83c98698e6c6691c7c0daf101050a075d18fad370ef7e7bdbe18a68bc1b8c5d78250791c16dcdb376f3b449724ce8fb37812265f1732b8389f67afcc2251474d850485fdc043245a04468fa
-淮安新闻综合,https://www.freetv.top/migu/639731826.m3u8?migutoken=103bb4fdb8af016c83e90b03430bea263a84e5880d1adb6c6e6bf281b033f764063ea715dfe8e8df6eda52851588a62eeba568ccdc158b830f7e942c1ef64914dc173098853bdd9e828b951027
-泰州新闻综合,https://www.freetv.top/migu/639731818.m3u8?migutoken=777354e6dee42f377cc1ffdcb64e84d25e4ad38a3afca94bd66dea6c5c9e8fcdd3309749c49ee52918a7bd725c13c4ac674bf0ed73ba6882b62dc81b0bc29e531055324929cd5823d3c331ad52
-连云港新闻综合,https://www.freetv.top/migu/639731715.m3u8?migutoken=3614db34cbd47db175cf9aac881b614a8f3d201e863e21e76804611e578143113f88d7996f2d84fa6fe72cdf5044dd082648293f8c2d0b1aaf279ae8d5e6b64590cb703eef095f7419ea30e2aa
-宿迁新闻综合,https://www.freetv.top/migu/639731832.m3u8?migutoken=35ed8cc7f8bad8abf3f9003814c2313c5ea9e4aca5747e01e1179adf366dccbcb8d832af1c37c73d954637bf2da8ee8595a511ce0522983d362f1324289e19da575cdc0158dbd1640e7ae98037
-徐州新闻综合,https://www.freetv.top/migu/639731747.m3u8?migutoken=b3011995c6e161ac236e4a93b2658792cfe2878aa3423cccce27c2767f104663e144bc0f39aa25ae0f634bb8d1e44ea8af8ed56845625fa6d2b65a42e980deb73d9d219bdc3c69313fe295e5ef
-优漫卡通频道,https://www.freetv.top/migu/626064703.m3u8?migutoken=2b9fe60463f5373c1afe59cdbb9e91946e80a03be25a0b642ec435a5d61dcc627605983b825b0a4ebae8e1529580f88c4bdc8514403ca370ceeff51221642fdb45d8627f6cb9fba67f42cfe335
-中国航天,https://www.freetv.top/migu/617432318.m3u8?migutoken=c1a0036777cf49319b3539ecf7252f43e36c12b5550a137b2471546d623d383d53aa776e93ae32f586e5c8ac55cfbea82dc6bd93bbfcc51345b0ebbc9fd1f2b5cd3081988f8dd0d7dd057828e2
-新片投影厅,https://www.freetv.top/migu/619495952.m3u8?migutoken=16e1ef88e522b3ded1b1f9adac95a74ca4709f3248f162b37b06911524f00bf8419f79b0bc3ba0a423b3b1469b62d65db231d97301ed0a50320a8b8eac7556a4e2b9f3bf26241ef8cd3c1847b8
-CHC影迷电影,https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=781a047a25b03b3efb5eadb27e905cd7fb866fbe4821ac3ec3ac0cc7e6c16cfca86ff567f212d6bf4263987e8de24a6421e5198959f32709d78a00cba967ee12e0819791072a0d30f531787a23
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=571dc311fc83511dc0126e97e983b04794a2b02b54eb64ac4f​​436dbd075eba6b27b583ca4584624bac092e818ed33365ff0f3394a100fe2ddd90d6dbf65231cef435c6d012ea2b30623f9eed5a
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-和美乡途轮播台,https://www.freetv.top/migu/713591450.m3u8?migutoken=b41387179ba0076f86b91915c0bd70d735db29100d9cc7021e76696260e40a3c02568cfd140839926fcfb97634ab4c40b5ce40ff38455b91b2948f4cfb70fc65dbed367413962dd921603777c7
-高清大片,https://www.freetv.top/migu/629943678.m3u8?migutoken=d0330d482356a730dfd3dec9e902f966084da9c5ae56cb2f8be33750d282f115e715cf076b59a6bfd6a5b932dff190d0a7c5cac51075ceb5e54a229dfcbd3ed60c75e49d11b1aeb77db7aed17f
-南方影视,https://www.freetv.top/migu/614961829.m3u8?migutoken=9c3221cc9735d5f4ba8308730f28fb4e1301cd325cd13f2a227ae2d9ca3ab0e3a18804190ee3374c513f20d3ee432db01d731599f92d3b540c1a6744bcf29aa4094fcfedaea88c2aaaaf47612b
-红色轮播台,https://www.freetv.top/migu/713600957.m3u8?migutoken=075bf1989281115dfaf51683f0a468242dbf0bfb6e10d7cb88602203ee5fc55ebd53608d98c9af8c5547cb7918c225eed3449d365de3d96d4408719d3bd2253d21780bf1685c20421e63b234b5
-深度对话,https://www.freetv.top/migu/625703337.m3u8?migutoken=a83f312f981f8d495a2e9cbda363bdf9b93dcb109abc1e987e2514ddf62a543e7b6153b3e7cefcf37078659672b548bb68eba8e9b05a8e983d96e34fb453286ac1a8c461ad33bcc98db28c8f8b
-吉林卫视,http://119.50.5.156:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://119.50.5.156:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://119.50.5.156:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://119.50.5.156:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://119.50.5.156:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://119.50.5.156:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://119.50.5.156:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-上海卫视,http://119.50.5.156:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://119.50.5.156:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://119.50.5.156:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://119.50.5.156:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://119.50.5.156:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://119.50.5.156:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://119.50.5.156:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://119.50.5.156:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://119.50.5.156:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://119.50.5.156:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://119.50.5.156:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://119.50.5.156:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视都市,http://119.50.5.156:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视影视,http://119.50.5.156:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视生活,http://119.50.5.156:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-长影频道,http://119.50.5.156:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-天津|滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-天津|滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-浙江卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.153:5540
-重庆卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.158:5540
-云南卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.63:5540
-内蒙古卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.36:5540
-宁夏卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.66:5540
-青海卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.57:5540
-山西卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.53:5540
-西藏卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.54:5540
-西藏卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.54:5540
-新疆卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.39:5540
-海南三沙卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.200:5540
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海纪实,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-CETV1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-CETV4,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-香港,#genre#
-星空卫视,p3p://focus169.org:47555/64102283000b474e9860c60d1e264899
-凤凰中文,p3p://focus169.org:47555/68a6abe2000dd5d9a5012600500a1279
-凤凰资讯,p3p://focus169.org:47555/694531d0000414f210386f2756d64099
-凤凰香港台,p3p://focus169.org:47555/68a6b0e900041c3da514c6d1105e4d0d
-翡翠台,p3p://focus169.org:47555/694533620009fd15103e92fc6c853ea8
-翡翠台(b),p3p://focus169.org:47555/694533c4000ab171104011fb16cd672e
-TVB翡翠台MY,p3p://focus169.org:47555/681e0dfb0001dba78f5bbc03309903eb
-PoPc,p3p://focus169.org:47555/67dd13f500025a36918c92cb2ce274f3
-无线新闻,p3p://focus169.org:47555/6945330900098a69103d37362d513f6e
-TVB明珠台Pearl,p3p://focus169.org:47555/6533f84d00047c732d08e0ea71ab4e92
-TVB星河粤语,p3p://focus169.org:47555/693d2df5000408c1f0e9962341fb6c69
-TVB星河国语,p3p://focus169.org:47555/641021e900026b0f985e6a374d7d56bb
-HOY 76无线财经台,p3p://focus169.org:47555/67dd0ed200096d81917883dd787b2064
-HOY 78咨询台(有线新闻台),p3p://focus169.org:47555/67ea910600096a5ec63cb1b5075355ba
-HOY 77,p3p://focus169.org:47555/67dd0e8c0007cd66917772021af23f39
-NOW财经台,p3p://focus169.org:47555/67dd0d5300071ab09172ab3a56ad7555
-NOW直播台,p3p://focus169.org:47555/6417e77b0007feb1b6b9f4ca25bc6e04
-NOW新闻台,p3p://focus169.org:47555/693d2dab0008b200f0e8764436083836
-TVB功夫台,p3p://focus169.org:47555/6411291b0004b01b9c62861646d00929
-TVB娱乐新闻台,p3p://focus169.org:47555/64102219000c6f74985f28485a5a5799
-TVB Plus,p3p://focus169.org:47555/681f64470002e67d9494d5290db67051
-新时代1,p3p://focus169.org:47555/673bfb69000723791c484da526413354
-新时代2,p3p://focus169.org:47555/673bfb9b000310101c490fea44ce2cbc
-TVB经典台,p3p://focus169.org:47555/6410219e0000704b985d44bd2a501d47
-TVB爆谷台(不稳定),p3p://focus169.org:47555/683c6792000d325d05e9065a074c5f94
-TVB星影台(不稳定),p3p://focus169.org:47555/693d2c48000ebc01f0e30d165ba336d4
-电影一台,p3p://focus169.org:47555/68107e33000568555a624e1d359e237c
-VIU TV,p3p://focus169.org:47555/6884d5a500082e3b20d52fba49155033
-VIU six,p3p://focus169.org:47555/6410215d000ad4ca985c497e192b3552
-RHK 31,p3p://focus169.org:47555/64101f330006ab475553d45f7940453b
-RHK 32,p3p://focus169.org:47555/641020b00001b8599859a360613572d7
-SUPER Sports  CH11(HK),p3p://focus169.org:47555/682cef2c0000819cc97aefff0ab433ee
-SUPER 獎門人  CH02(HK),p3p://focus169.org:47555/682cef090004744fc97a684a01fa4654
-SUPER EYT  CH03(HK),p3p://focus169.org:47555/682ceef60004341ec97a1e011a0243e2
-SUPER 識食  CH04(HK),p3p://focus169.org:47555/682ceee00008c968c979c93d17eb5e2f
-SUPER 識嘆  CH05(HK),p3p://focus169.org:47555/682ceec800095f3dc9796ba418a20d66
-SUPER Music  CH06(HK),p3p://focus169.org:47555/682ceeb30002fb28c97917f909476af9
-SUPER 金曲  CH07(HK),p3p://focus169.org:47555/682cee9d00030aa1c978c20d120d6ca4
-SUPER 煲劇  CH08(HK),p3p://focus169.org:47555/682cee870006324bc9786ceb118a5d34
-SUPER 劇場  CH09(HK),p3p://focus169.org:47555/682cee6f00051d91c9780ee4019f2eb9
-SUPER 話當年  CH10(HK),p3p://focus169.org:47555/682cee56000894e5c977ae1f1b3c0289
-有线体育台,p3p://focus169.org:47555/6884d8f9000d594420e2313035a55d97
-有线耀才财经,p3p://focus169.org:47555/64102268000ecb1f98605d7b0a602bf4
-mytv super,p3p://focus169.org:47555/6533f044000117a52ce97ce95ac54bb3
-有线18台跑马,p3p://focus169.org:47555/67e68a2900066333b6821880541a68d9
-CH288跑马,p3p://focus169.org:47555/66a16f860009caffc099a9a4628b2101
-CH289跑马,p3p://focus169.org:47555/66a1700a000c0c77c09badd9612a6a86
-Now体育英超,p3p://focus169.org:47555/6410211d00048968985b4de16d6e5b6a
-Now plus,p3p://focus169.org:47555/64b8f962000df4a32be40ef90d9f4afd
-NOW体育台,p3p://focus169.org:47555/6410211d00048968985b4de16d6e5b6a
-EPL nsports 英超4keng,p3p://focus169.org:47555/64d74cf7000556f0223ed6366e5f689a
-EPL nsports 英超1eng,p3p://focus169.org:47555/64d74cb1000cc276223dc6ac654a2299
-EPL nsports 英超4k1粤语,p3p://focus169.org:47555/64d74ca40007202e223d927267473868
-EPL nsports 英超 粤语,p3p://focus169.org:47555/64d74c1600083555223b68096e79387e
-Now体育1 Sports 1,p3p://focus169.org:47555/643361f20007b9a9220fabfc3001244e
-Now体育2 Sports 2,p3p://focus169.org:47555/643362090006b031221005903b883d07
-Now体育3 Sports 3,p3p://focus169.org:47555/6433621d000d9c3522105573223958e1
-Now体育4 Sports 4,p3p://focus169.org:47555/6437999f00025f983289265f38ef3722
-Now体育5 Sports 5,p3p://focus169.org:47555/643799aa000e7bac3289547135e05a80
-Now体育6 Sports 6,p3p://focus169.org:47555/643799bb00044f193289943e2e5f6ac1
-Now体育7 Sports 7,p3p://focus169.org:47555/643799ca000a29a43289d0542d57262c
-HBO,p3p://focus169.org:47555/64137f0b0006a17fa58238155813216c
-HBO家庭,p3p://focus169.org:47555/64137f3c000d4a86a582f93247555bc5
-HBO原创,p3p://focus169.org:47555/64137f700008f329a583c3344ddf5dfc
-HBO强档,p3p://focus169.org:47555/64137f970005246ea5845a9326ce6233
-凤凰中文test,p3p://focus169.org:47555/68a6abe2000dd5d9a5012600500a1279
-Kix HD,p3p://focus169.org:47555/6413854d000785b1a59aaa2924fa1aa7
-Discovery Channel,p3p://focus169.org:47555/641383f300048101a59561c464b07293
-TVB黄金翡翠台维修中,p3p://focus169.org:47555/64206c63000c3a90d801201c5fe2483a
-HOY TV HD(香港开电视)维修中,p3p://focus169.org:47555/67dd0e8c0007cd66917772021af23f39
-TVB粤语片台维修中,p3p://focus169.org:47555/643361c7000d4bee220f05703b541d41
-TVB华语剧台维修中,p3p://focus169.org:47555/643361e10003610a220f68773c0b4c78
-TVB戏曲台维修中,p3p://focus169.org:47555/64336236000b18a12210b67722665e99
-HKS, https://ott-iptv.top/shanxi/hks.php
-iQIYI,p3p://focus169.org:47555/649672870005e0a5a5062d0e1384610b
-台湾,#genre#
-民视,p3p://focus169.org:47555/68b5a73f0009ac27df868dcb49b5183b
-民视(b),p3p://focus169.org:47555/6442f24f00097e845edb5e492842265c
-民视新闻台,p3p://focus169.org:47555/68b5a795000aab6edf87ddfc70aa74bb
-公视,p3p://focus169.org:47555/68ce73ac00078c3d40649dcf654c7157
-台视,p3p://focus169.org:47555/68ce7407000cb52e406602995a4b1685
-台视财经台,p3p://focus169.org:47555/6448a761000bec1a75267316701e7a90
-台视综合台,p3p://focus169.org:47555/68d7ec44000e5185656373292c0e4403
-中视,p3p://focus169.org:47555/68ce74530009302340672a9310857df9
-中视新闻,p3p://focus169.org:47555/67619ac100083ed5af3de392752b3307
-中天新闻,p3p://focus169.org:47555/697749dd000ec19dd3e529a4745459b9
-TVBS,p3p://focus169.org:47555/689ef7f10003c3c286ea78d3090525a9
-壹电视新闻台,p3p://focus169.org:47555/68b0691100058590cb0be6b71cba1cda
-TVBS新闻台,p3p://focus169.org:47555/67c2faf0000d9e792b9b7d7f40e95a7b
-年代新闻台,p3p://focus169.org:47555/69086ad8000616a922d0822a6a6429cd
-东森新闻,p3p://focus169.org:47555/69453268000bccfe103ac2e212d83e91
-东森财经,p3p://focus169.org:47555/68ce7f8300076be94092dd9d3b315bc5
-非凡新闻,p3p://focus169.org:47555/676955eb00013181cd70c73b35a34c93
-寰宇新闻台,p3p://focus169.org:47555/69453421000054f410417a8c12ff3666
-三立新闻,p3p://focus169.org:47555/6766bc7f000ed78dc349b377648221c8
-三立戏剧三立戏剧,p3p://focus169.org:47555/68ce76fb0001a66c407188e86d0000dd
-三立综合台,p3p://focus169.org:47555/68ce79df000580c1407cd488680d5e4f
-三立台湾,p3p://focus169.org:47555/67dd0dfb00024b0791753a403a8044e9
-三立都会,p3p://focus169.org:47555/68ce79a900070ed2407c01fe366f6fb1
-纬来电影,p3p://focus169.org:47555/68ce7a170002b583407dae9164c961e7
-纬来体育,p3p://focus169.org:47555/68ce7bb10004d9a34083f0b0269578be
-纬来日本,p3p://focus169.org:47555/68ce7beb0004a0394084d32475553758
-纬来精彩,p3p://focus169.org:47555/68ce7c4b000adaa240864bba11264454
-纬来综合,p3p://focus169.org:47555/68ce7c8b000c63434087461f6cc05a82
-东森幼幼,p3p://focus169.org:47555/6430b41c0001f3831798d72948126428
-东森电影台,p3p://focus169.org:47555/64253899000a078deabe99ff587050b0
-东森综合台,p3p://focus169.org:47555/64253f6e0002d287ead9482831323a6d
-东森戏剧台,p3p://focus169.org:47555/68d7d8990009ff1965169e0e08b90167
-东森洋片,p3p://focus169.org:47555/68ce7f3f000afbf24091d4e63950359c
-八大娱乐台,p3p://focus169.org:47555/68ce80f6000bb435409887ef4f3461a8
-八大第一,p3p://focus169.org:47555/68ce8165000e3bd8409a3a2e51032485
-八大综合,p3p://focus169.org:47555/68ce818f000929b2409adcf212b2737f
-八大戏剧,p3p://focus169.org:47555/68ce81e70009df8c409c34e13dd73fac
-八大精彩台,p3p://focus169.org:47555/65435f63000ba94069331ccd6399041b
-华视综合,p3p://focus169.org:47555/68ce824600028ec2409da61a710028a3
-民视第一台,p3p://focus169.org:47555/68ce87320007890840b0e1465bb91b0f
-民视影剧台,p3p://focus169.org:47555/6425257c000bd861ea73f1315c0e6e14
-民视综艺台,p3p://focus169.org:47555/642d012300040bf70925bb06321b0b87
-TVBS 精采台,p3p://focus169.org:47555/642521570001b275ea63be1073931dd1
-TVBS-G欢乐台,p3p://focus169.org:47555/642521950001d9f2ea64b04b059b66dd
-TVBS-精彩台,p3p://focus169.org:47555/642521a2000c7beaea64e5cc482f669a
-靖洋戏剧台,p3p://focus169.org:47555/642521b000094942ea651baa457674cb
-人间卫视,p3p://focus169.org:47555/6425224d00048156ea677fb9420534b4
-大爱电视,p3p://focus169.org:47555/6425225a0002859cea67b1ff6aaf6db6
-大爱二台,p3p://focus169.org:47555/64252264000022beea67d87308e9122e
-MOMO亲子台,p3p://focus169.org:47555/6425226f000463e1ea68048207b3285f
-ELEVEN 体育1,p3p://focus169.org:47555/6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,p3p://focus169.org:47555/64252292000127feea688c6630d312e7
-ELTA体育1台,p3p://focus169.org:47555/68459164000edd5129b4287654fc5668
-ELTA体育2台,p3p://focus169.org:47555/642522b0000a6c14ea6903f615622aab
-ELTA体育3台,p3p://focus169.org:47555/68a6adba00062216a50857ca20a100b9
-ELTA体育3台国语,p3p://focus169.org:47555/6433e3220006392724084f1711880c01
-博斯魅力,p3p://focus169.org:47555/642d395d0004e9950a015dce389f4c91
-博斯运动一台,p3p://focus169.org:47555/642d000d000525a509217d5a62e868e8
-博斯网球台,p3p://focus169.org:47555/642d0029000bd7e70921ec71212f5735
-博斯运动二台,p3p://focus169.org:47555/642d0087000484c5092359c47ee4201a
-博斯高球台,p3p://focus169.org:47555/642d009f000f1f000923ba3b26b667e4
-博斯高球二台,p3p://focus169.org:47555/642d00ae000e846a0923f4ac45c06f09
-博斯无限台,p3p://focus169.org:47555/642d00bf00041ae7092434690ae526c7
-ELTA综合,p3p://focus169.org:47555/642522cd000292e6ea69733b04032ded
-国家地理高画质野生,p3p://focus169.org:47555/642523f2000e0f35ea6deeb16ff816c9
-历史频道2,p3p://focus169.org:47555/642521e0000042a6ea65d4db3e9d23f9
-EYE TV旅游台,p3p://focus169.org:47555/642524030003a5b2ea6e2e6f6efc45a1
-探索科学,p3p://focus169.org:47555/6425241100084dfbea6e6650539d779f
-亚洲旅游台,p3p://focus169.org:47555/642520f70001a86dea62470d303d34d3
-美食星球,p3p://focus169.org:47555/6425252400079076ea72985811e07306
-CI 罪案侦查频道crime,p3p://focus169.org:47555/642520d9000d93c9ea61d4ea78792b01
-动物星球animal planet,p3p://focus169.org:47555/6425241f00027d03ea6e9b836b853b0b
-星卫娱乐台,p3p://focus169.org:47555/6425242d000d55adea6ed4fa37195f98
-爱尔达影剧台,p3p://focus169.org:47555/6425243c00046a2eea6f0d4964f8022d
-Smithsonian Channel,p3p://focus169.org:47555/64252459000cfdb2ea6f80c37a14067d
-金光布袋戏,p3p://focus169.org:47555/6425246600099458ea6fb2ab4398320b
-CatchPlay电影台,p3p://focus169.org:47555/64252479000b7f1aea6ffd6177e3015c
-卫视中文 HD Star Chinese,p3p://focus169.org:47555/64252507000eefc4ea7228f32f390502
-好莱坞电影台,p3p://focus169.org:47555/681f654b000782669498cdf850503b77
-卫视电影台scm,p3p://focus169.org:47555/642525150008a4ecea725e071929091e
-星卫HD电影,p3p://focus169.org:47555/642521030009ef43ea62780c438e2a38
-美亚电影台,p3p://focus169.org:47555/642525310003ad3cea72ca2155c734c3
-卫视HD电影,p3p://focus169.org:47555/6425253c0007ee60ea72f6307ae25fdd
-JET TV,p3p://focus169.org:47555/6425254d000d3abeea7339f47b5d4bf5
-BRAVO中视青采,p3p://focus169.org:47555/642525590004d7f3ea7366ae4aeb3d9d
-中天娱乐,p3p://focus169.org:47555/642525670005ee2bea739da573c134b4
-中天亚洲,p3p://focus169.org:47555/6777d8b3000cf17a061f70ad45a34b66
-中天综合,p3p://focus169.org:47555/642d0188000d7c49092747f97ffc7c72
-HBO tw,p3p://focus169.org:47555/681f64ef000983d59497671b54bf0d91
-HBO家庭,p3p://focus169.org:47555/64137f3c000d4a86a582f93247555bc5
-HBO强档,p3p://focus169.org:47555/64137f700008f329a583c3344ddf5dfc
-HBO原创,p3p://focus169.org:47555/64137f970005246ea5845a9326ce6233
-Thrill,p3p://focus169.org:47555/644a0879000272f67a89b6687af342ae
-猪哥亮歌厅秀,p3p://focus169.org:47555/642d012f00030a3c0925e9a4065b1986
-靖天育乐台,p3p://focus169.org:47555/642d013d0001084409261fd04c0c3c04
-龙翔时代电影,p3p://focus169.org:47555/642d014b0009f96e092658cb4e1b23ff
-Baby First,p3p://focus169.org:47555/642d015f000070f00926a47a6a2e7d52
-ET综合台,p3p://focus169.org:47555/642d017d0000a964092719b87e2e3acd
-好消息,p3p://focus169.org:47555/642d01960008dc0109277d7a4fc40fce
-好消息2台,p3p://focus169.org:47555/642d07140006a38a093cf11414d83398
-CNN my,p3p://focus169.org:47555/641380c6000d7e73a588fc4e012b3240
-CNBC my,p3p://focus169.org:47555/64138101000e328aa589e2f46ee85f3d
-ABC Australia my,p3p://focus169.org:47555/6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,p3p://focus169.org:47555/641381340003e883a58aa78a57c53479
-Bloomberg TV my,p3p://focus169.org:47555/6413814f000a6413a58b12ab52934c96
-France 24 my,p3p://focus169.org:47555/6413816700069158a58b6f7a03cd341c
-Euro news my,p3p://focus169.org:47555/6413817b0003393aa58bbcbf158b6409
-FOX NEWS my,p3p://focus169.org:47555/6413818e000154fca58c067b60210765
-BBC News HD,p3p://focus169.org:47555/641384e7000133cda5991a1b33cb3ea0
-DW HD,p3p://focus169.org:47555/641384f6000cbd09a59957a77daa41a1
+湖南卫视HD,http://107.150.60.122/live/hnwshd.m3u8
+东方卫视HD,http://107.150.60.122/live/dfwshd.m3u8
+浙江卫视HD,http://107.150.60.122/live/zjwshd.m3u8
+江苏卫视HD,http://107.150.60.122/live/jswshd.m3u8
+重庆卫视HD,http://107.150.60.122/live/cqwshd.m3u8
+东南卫视HD,http://107.150.60.122/live/dnwshd.m3u8
+广西卫视HD,http://107.150.60.122/live/gxwshd.m3u8
+湖北卫视HD,http://107.150.60.122/live/hbwshd.m3u8
+辽宁卫视HD,http://107.150.60.122/live/lnwshd.m3u8
+山东卫视HD,http://107.150.60.122/live/sdwshd.m3u8
+天津卫视HD,http://107.150.60.122/live/tjwshd.m3u8
+陕西卫视HD,http://107.150.60.122/live/snwshd.m3u8
+广东卫视HD,http://107.150.60.122/live/gdwshd.m3u8
+深圳卫视HD,http://107.150.60.122/live/szwshd.m3u8
+青海卫视,http://107.150.60.122/live/qhws.m3u8
+西藏卫视,http://107.150.60.122/live/xzws.m3u8
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
+北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
+**新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
+**新影-老故事,http://107.150.60.122/live/lgs.m3u8
+中国教育3,http://107.150.60.122/live/cetv3.m3u8
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东体育,http://107.150.60.122/live/gdty.m3u8
+广东新闻,http://107.150.60.122/live/gdxw.m3u8
+广西影视,http://107.150.60.122/live/gxys.m3u8
+广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
+广西都市,http://107.150.60.122/live/gxds.m3u8
+广西新闻,http://107.150.60.122/live/gxxw.m3u8
+广西国际,http://107.150.60.122/live/gxgj.m3u8
+湖北综合,http://107.150.60.122/live/hbzh.m3u8
+湖北经视,http://107.150.60.122/live/hbjs.m3u8
+湖北影视,http://107.150.60.122/live/hbys.m3u8
+湖北教育,http://107.150.60.122/live/hbjy.m3u8
+湖北垄上,http://107.150.60.122/live/hbls.m3u8
+湖北生活,http://107.150.60.122/live/hbty.m3u8
+湖南娱乐,http://107.150.60.122/live/hnyl.m3u8
+湖南教育,http://107.150.60.122/live/hnjy.m3u8
+吉林都市,http://107.150.60.122/live/jlds.m3u8
+吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8
+吉林生活,http://107.150.60.122/live/jlsh.m3u8
+新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8
+新疆汉语体育健康,http://107.150.60.122/live/xjtv7.m3u8
+江西少儿家庭,http://107.150.60.122/live/jxtv6.m3u8
+江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
 台港澳频道,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -503,7 +192,6 @@ HOY78,http://bziyunshao.synology.me:8891/bysid/78
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
@@ -601,8 +289,6 @@ KBSlife,https://vod.kbs.co.kr/embed_live.html?ch_code=N93
 KBSstory,https://vod.kbs.co.kr/embed_live.html?ch_code =N94 
 KBSkids,https://vod.kbs.co.kr/embed_live.html#ch_code=N96 
 한국,#genre#
-kbs1,p3p://focus169.org:47555/649439cb000d62089c5890a32129087b
-kbs2,p3p://focus169.org:47555/641a15a2000811adbf3e3d2b2cdc5763
 sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 sbs,http://123.140.197.22/stream/1/play.m3u8
@@ -612,27 +298,19 @@ mbc,http://www.hwado.net/webtv/catv/503_CFEA7803.phpmbc,https://stream.chmbc.co.
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
 mbc,https://play.ogtv2.com/live/live1003.m3u8
 mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
-티비조섲,p3p://focus169.org:47555/641a170d00090593bf43c7603c7831ea
 티비조선,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 티비조선,https://play.ogtv2.com/live/live1012.m3u8
 티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
-jtbc,p3p://focus169.org:47555/641a1615000b05f0bf3fff2226b2202b
 jtbc,https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
-CHANNEL A,p3p://focus169.org:47555/641a1654000f331fbf40f64c1e7b0135
-tvN,p3p://focus169.org:47555/641a163c000a4f64bf40974c0cad0cce
 tvN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-OCN,p3p://focus169.org:47555/641a169000080607bf41ded6287c1634
 ybtv1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 ybtv2,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 연변위성,https://srs.iyb983.cn/video/CYS/index.m3u8
-ytn,p3p://focus169.org:47555/641a167d000a6426bf41953a1298264b
 ytn,http://210.92.207.38:40001
 ytn,https://jmp2.uk/sam-KRBD2400001XD.m3u8
 ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/f98618df-7ff0-4ff9-9078-8a0069f99407/0.m3u8
-ytn,https://play.ogtv2.com/live/live1021.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
-MBN,p3p://focus169.org:47555/641a160400031b41bf3fbab42d6a0090
 MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MjAxNTY0M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=EnQQNy8j~ART-CL6B8CgaDcDLN9dFqMxvQMe6H9sJX29pqbyklmlEOI-lY81qlWRTxmEJC4k~06OyP0JWqsKzMpOlc4hGtsG6WwV0PH8TUVsRke6IrxNZra7vHkpcIZ-D7dKcla-eMrJ~Pa6fDzxEWRbdNtMhDkC2benEi5NHrs_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 ABN뉴스,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 연합뉴스,https://noh-slb-samsung-fastcdn.uplus.co.kr/yna.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=yna.stream
@@ -646,167 +324,9 @@ ebs1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 ebs2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-OCN movies,p3p://focus169.org:47555/641a16a3000dbfc9bf422a860622246a
-MBC Drama,p3p://focus169.org:47555/641a16ca0002ccedbf42c010275c2770
-MBC SPORTS,p3p://focus169.org:47555/641a16dd00097a6fbf430bfe2c7f5e99
-CTS Onstyle,p3p://focus169.org:47555/641a16f60006f6dabf436d0104342620
-CBS,p3p://focus169.org:47555/641a174a0004ee56bf44b49c077c07d1
-SPOTV,p3p://focus169.org:47555/641a175c000571b5bf44fb0d1f291038
-SPOTV 2,p3p://focus169.org:47555/641a162a00091534bf4050ab7d5940fb
-KBS SPORTS,p3p://focus169.org:47555/641a177400036e3fbf4558494fd13999
-MNET,p3p://focus169.org:47555/641a178900000fe4bf45a9753b4c1a1d
-SBS plus,p3p://focus169.org:47555/641a17b200050b2cbf464ae169a83ce6
-OCN thrills,p3p://focus169.org:47555/641a17c6000675d0bf46995e33067f1b
-ENA TV,p3p://focus169.org:47555/641a17d8000a8b40bf46e0ba276c0477
-내셔널 티비,p3p://focus169.org:47555/641a17eb000d2cd1bf472b9f4a697c7a
-SBS SPORTS,p3p://focus169.org:47555/641a1807000e2893bf47993f54057b7f
-SBS GOLF,p3p://focus169.org:47555/641a181900011a81bf47dc38661e214f
-JTBC GOLF,p3p://focus169.org:47555/641a183c000cddb0bf4867f37b157f23
 스포티비,http://211.170.95.22/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P
 体育频道,#genre#
-CCTV5,p3p://focus169.org:47555/64260cb0000afd53edfb140f10811127
-CCTV5+,p3p://focus169.org:47555/64260cbc00081417edfb42307c984dd4
-EPL nsports 英超4keng,p3p://focus169.org:47555/64d74cf7000556f0223ed6366e5f689a
-EPL nsports 英超1eng,p3p://focus169.org:47555/64d74cb1000cc276223dc6ac654a2299
-EPL nsports 英超4k1粤语,p3p://focus169.org:47555/64d74ca40007202e223d927267473868
-EPL nsports 英超 粤语,p3p://focus169.org:47555/64d74c1600083555223b68096e79387e
-Now体育630,p3p://focus169.org:47555/64b8f92b000089e02be334b114c32320
-Now plus,p3p://focus169.org:47555/64b8f962000df4a32be40ef90d9f4afd
-NOW 体育台,p3p://focus169.org:47555/6410211d00048968985b4de16d6e5b6a
-Now体育1 Sports 1,p3p://focus169.org:47555/643361f20007b9a9220fabfc3001244e
-Now体育2 Sports 2,p3p://focus169.org:47555/643362090006b031221005903b883d07
-Now体育3 Sports 3,p3p://focus169.org:47555/6433621d000d9c3522105573223958e1
-Now体育4 Sports 4,p3p://focus169.org:47555/6437999f00025f983289265f38ef3722
-Now体育5 Sports 5,p3p://focus169.org:47555/643799aa000e7bac3289547135e05a80
-Now体育6 Sports 6,p3p://focus169.org:47555/643799bb00044f193289943e2e5f6ac1
-Now体育7 Sports 7,p3p://focus169.org:47555/643799ca000a29a43289d0542d57262c
-ELEVEN 体育1,p3p://focus169.org:47555/6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,p3p://focus169.org:47555/64252292000127feea688c6630d312e7
-ELTA体育1台,p3p://focus169.org:47555/68459164000edd5129b4287654fc5668
-ELTA体育2台,p3p://focus169.org:47555/642522b0000a6c14ea6903f615622aab
-ELTA体育3台,p3p://focus169.org:47555/68a6adba00062216a50857ca20a100b9
-ELTA体育3台国语,p3p://focus169.org:47555/6433e3220006392724084f1711880c01
-博斯运动一台,p3p://focus169.org:47555/642d000d000525a509217d5a62e868e8
-博斯魅力,p3p://focus169.org:47555/642d395d0004e9950a015dce389f4c91
-博斯网球台,p3p://focus169.org:47555/642d0029000bd7e70921ec71212f5735
-博斯运动二台,p3p://focus169.org:47555/642d0087000484c5092359c47ee4201a
-博斯高球台,p3p://focus169.org:47555/642d009f000f1f000923ba3b26b667e4
-博斯高球二台,p3p://focus169.org:47555/642d00ae000e846a0923f4ac45c06f09
-博斯无限台,p3p://focus169.org:47555/642d00bf00041ae7092434690ae526c7
-ASSP1(a),p3p://focus169.org:47555/6412459f000acfeba0b9eb4448574dee
-ASSP1(b),p3p://focus169.org:47555/641245bc0008335da0ba5be15de04db6
-ASSP2(a),p3p://focus169.org:47555/641245e30005d242a0baf39e4a3f4a03
-ASSP2(b),p3p://focus169.org:47555/641245fd000a6c90a0bb5a5b3f082922
-ASSP3(a),p3p://focus169.org:47555/6412462100081e2fa0bbe66467ee6505
-ASSP3(b),p3p://focus169.org:47555/6412463b00023f3ca0bc4a7430ab0660
-ASSP4(a),p3p://focus169.org:47555/64124658000ad2c0a0bcbdee020d5132
-ASSP4(b),p3p://focus169.org:47555/641246e00009e30fa0bed0f161d56da7
-ASSP5(a),p3p://focus169.org:47555/641246fc0003baafa0bf3cbe4c8736d8
-ASSP5(b),p3p://focus169.org:47555/6412471a00065484a0bfb29809e370b5
-Golf Channel USA my,p3p://focus169.org:47555/64311ed10003b7461939aaa6737c19fe
-Golf Channel tw,p3p://focus169.org:47555/64311ec30002641e1939739f2a9f6e82
-Golf SuperSports,p3p://focus169.org:47555/64311edf000047af1939e0754ac733f5
-Spotv,p3p://focus169.org:47555/6481dc3c00077243549b8cd35b4f0f7f
-Bola Arena1,p3p://focus169.org:47555/641245040004d52aa0b78c446be55863
-Bola Arena2,p3p://focus169.org:47555/64124524000e86a3a0b80bbf421014d4
-Astro Arena,p3p://focus169.org:47555/6412454a0000fbb4a0b89cb81723411e
-Astro Arena 1,p3p://focus169.org:47555/64124580000df2d5a0b972fa5e5d3940
-Astro Arena 2,p3p://focus169.org:47555/64124568000c643aa0b914d41041515b
-BeIN Sports,p3p://focus169.org:47555/641381d2000619c4a58d111123107b6d
-BeIN Max Sports,p3p://focus169.org:47555/641381e300044201a58d534366ce199d
-WWE Network,p3p://focus169.org:47555/641381f6000cd704a58d9fae064d2ede
-Golf Channel SKY SPORT,p3p://focus169.org:47555/6413821c000b77b6a58e33c27f83093b
-TSN 1,p3p://focus169.org:47555/643119270003db6719238a985be41867
-TSN 2,p3p://focus169.org:47555/64311978000dc8961924c98b13117b70
-TSN 3,p3p://focus169.org:47555/64311ac1000558571929cc872ad35eec
-TSN 4,p3p://focus169.org:47555/64311b14000f390a192b13475a166e90
-TSN 5,p3p://focus169.org:47555/64311b67000c0613192c56ad05b518b5
-ESPN 1,p3p://focus169.org:47555/64311ba20007409b192d3bec4f60079a
-ESPN 2,p3p://focus169.org:47555/64311d29000d2a3b193334cb71ba3db4
-ESPN 3,p3p://focus169.org:47555/64311e68000a2a1d1938121f51b1501b
-NBA TV,p3p://focus169.org:47555/64311e75000090631938427279742fef
-NBA TV(b),p3p://focus169.org:47555/64311e81000176281938718d4b003c1b
-beIN Sports 1,p3p://focus169.org:47555/64311e93000ba7aa1938ba7e1e4b3642
-beIN Sports 2,p3p://focus169.org:47555/64311ea0000526211938eb9c63bc100c
-beIN Sports 3,p3p://focus169.org:47555/64311eac00023ce5193919bd41e13e59
-WWE Network,p3p://focus169.org:47555/64311eec0001de06193a13a553747072
-WWE HD backup,p3p://focus169.org:47555/642fa8b7000065051384543f2842233e
-Fight Sports T,p3p://focus169.org:47555/64311efc000d6103193a55176c7f5df0
-UFC Fight Pass UK,p3p://focus169.org:47555/64311f0a0003c10b193a89517a060079
-MUTV,p3p://focus169.org:47555/64311f27000ef2df193afd76183366ae
-MUTV Backup,p3p://focus169.org:47555/643147555009d890195327a22a5d7ee1
-Tennis Channel,p3p://focus169.org:47555/6431257d000c445b1953bcb05b6e7e1a
-SONY SIX HD,p3p://focus169.org:47555/6431258f00078b1a195401ca779371a1
-SONY TEN 1,p3p://focus169.org:47555/643125a30006d14d19544fbb7da27f2a
-SONY TEN 2 HD,p3p://focus169.org:47555/643125b30006aa5919548e3114052626
-SONY TEN 3 HD,p3p://focus169.org:47555/643125c20009916d1954c98c31471159
-Sony TEN 4,p3p://focus169.org:47555/643125d2000a5e391955084066b953b5
-SuperSport Cricket TL,p3p://focus169.org:47555/643125e8000da3e019555f0767a373ec
-SKY SPORTS CRICKET HD,p3p://focus169.org:47555/643125f6000c1bc9195595521266639c
-ASTRO Cricket,p3p://focus169.org:47555/6431265d0001c1b519572503322821da
-WILLOW CRICKET,p3p://focus169.org:47555/6431266a00044bcc1957587229c344de
-SKY SPORT F1,p3p://focus169.org:47555/64312677000c166b19578d3854af5dbc
-Fox Sports News AU,p3p://focus169.org:47555/64312683000d39211957bc627ed1087d
-Fox Sports 501 AU,p3p://focus169.org:47555/643127000001d7eb1959a1c15b2e5498
-Fox Sports 502 AU,p3p://focus169.org:47555/6431270b000a24ff1959ced93173500e
-Fox Sports 503 AU,p3p://focus169.org:47555/6431271a00081cc9195a08ec32034279
-Fox Sports 504 AU,p3p://focus169.org:47555/6431272a0000d1b5195a458e5f7560f2
-Fox Sports 505 AU,p3p://focus169.org:47555/6431273a000479c1195a84fe134c0433
-Fox Sports 506 AU,p3p://focus169.org:47555/6431274800023ad9195abb1b74513383
-Fox Sports 507 AU,p3p://focus169.org:47555/643127fc0003ca86195d7aa277b31909
-Fox Sport 1,p3p://focus169.org:47555/6431280d00013bf3195dbc6232857455
-FIFA Fox sport 1,p3p://focus169.org:47555/6431281c000302be195df76f404b53d2
-Fox Sports 2,p3p://focus169.org:47555/643128290007b145195e2b6a6384316a
-SKY Racing 1,p3p://focus169.org:47555/64312837000aebee195e62ed55557fd9
-SKY Racing 2,p3p://focus169.org:47555/64312844000ad7b5195e95b069db4ef2
-Racingcom HD,p3p://focus169.org:47555/64312852000912ad195ecbec6de2555f
-FOX Sports Racing HD,p3p://focus169.org:47555/64312865000d9bbf195f174e5ec83175
-Ziggo Sport Racing,p3p://focus169.org:47555/64312871000b6954195f459e7c10663c
-Dubai Sports 2,p3p://focus169.org:47555/6431287f0003edcc195f7a6369cf47b8
-Dubai Sports 2b,p3p://focus169.org:47555/64312936000a354e196246d611a14be4
-Dubai Racing 3,p3p://focus169.org:47555/64312942000933931962757447382f61
-Racing UK SPORT(UK),p3p://focus169.org:47555/6431294f000b80ba1962a8d376855937
-KY SPORTS RACING,p3p://focus169.org:47555/6431295b0006afff1962d67737a347d9
-STAR SPORTS 1 HD,p3p://focus169.org:47555/643129690000652719630b8b0f766ba7
-Star Sports 2 HD,p3p://focus169.org:47555/64312975000bc42d19633d543ad20d2e
-Star Sports Select 1,p3p://focus169.org:47555/643129c6000c2bdb196479d77b6f7e96
-Star Sports Select 1b,p3p://focus169.org:47555/643129d50004aa151964b2834730348c
-Star Sports Select 2,p3p://focus169.org:47555/643129e6000a70531964f6661182226c
-Star Sports Select 2b HD,p3p://focus169.org:47555/643129f40005210b19652bb847830d99
-SKY SPORTS FOOTBALL,p3p://focus169.org:47555/64312a3d000a7d6c19664a3f15773237
-SKY SPORTS MAIN EVENT,p3p://focus169.org:47555/64312a4d0002b877196686c254e3270d
-SKY SPORTS PREMIER LEAGUE,p3p://focus169.org:47555/64312a5c000d11031966c4005f4e2e4d
-SKY SPORTS NFL UK,p3p://focus169.org:47555/64312a6b000a8eed1966fdf44a0647cc
-SKY Sports News (b),p3p://focus169.org:47555/64312a790008c9e5196734307fc34a77
-Sky Sport Arena HD,p3p://focus169.org:47555/64312a880002b5bf19676d3a18fb1676
-BT SPORT 1 UK,p3p://focus169.org:47555/64312a95000d94a71967a2ca00065aeb
-BT SPORT 2 UK,p3p://focus169.org:47555/64312aaa0009428c1967f3b71a5952ed
-BT SPORT 2(b) SPORT(UK,p3p://focus169.org:47555/64312aba00036517196830b750ea44d5
-BT Sport 3 FHD UK,p3p://focus169.org:47555/64312ace000b3d0b196880d9185f2371
-MLB NETWORK,p3p://focus169.org:47555/644fd4d2000d8202912fba3672c5421a
-Sony Ten 1 Sport 1 USA,p3p://focus169.org:47555/645fa6e400023cd9cefc142d4d100fb2
-Sony Ten 3 HD USA,p3p://focus169.org:47555/645fa6d700056943cefbe23534d84052
-ESPN U HD USA,p3p://focus169.org:47555/645fab36000d59f1cf0cf74b44076241
-ESPN 3 USA,p3p://focus169.org:47555/645fab49000ca662cf0d415574523331
-Golf Channel USA,p3p://focus169.org:47555/645fab54000b6df5cf0d6bfd479148d1
-TSN 1 USA,p3p://focus169.org:47555/645fb74800051f03cf3c1b7e48bd434c
-TSN 4 USA,p3p://focus169.org:47555/645fb758000165ffcf3c590a38de4f76
-TSN 5 USA,p3p://focus169.org:47555/645fb76a0007dccfcf3ca10218644e9c
-WWE USA,p3p://focus169.org:47555/6462701400067a04d9ddbe9873b90463
-BEIN SPORTS 11 USA,p3p://focus169.org:47555/6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 4 USA,p3p://focus169.org:47555/6463a5cb00045120de9790ec0ec340aa
-USA: BeIN Sports 6 USA,p3p://focus169.org:47555/6463a5de00091722de97dc4d0e413139
-beIN Sports USA1,p3p://focus169.org:47555/6463a5eb000a7089de980f6e0e9c48d5
-Supersport Premier League USA,p3p://focus169.org:47555/6463a5f80008b1c0de9841c45e2d124f
-Supersport Football USA,p3p://focus169.org:47555/6463a606000229f7de9876c846553fcc
-Supersport LaLiga USA,p3p://focus169.org:47555/6463a6260000ab5fde98f3660a053de2
-SuperSport MaXimo USA,p3p://focus169.org:47555/6463a638000409ffde993a937bef2d62
-Supersport Motorsport USA,p3p://focus169.org:47555/6463a64500015776de996caa4be276c3
-Supersport PSL USA,p3p://focus169.org:47555/6463a8ff000b74a1dea415d470ea7983
-Supersport Variety 3 USA,p3p://focus169.org:47555/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 4USA,p3p://focus169.org:47555/6463a926000e1336dea4aed876667f60
-Tennis Channel USA,p3p://focus169.org:47555/6463a94a000dac55dea53b5e725857f0
-CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 五星体育,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
@@ -829,59 +349,8 @@ CCTV5+,http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
 BMAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
 FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-新闻,#genre#
-无线新闻,p3p://focus169.org:47555/6904d1f40004a52414c3817536e55774
-HOY 76无线财经台,p3p://focus169.org:47555/67dd0ed200096d81917883dd787b2064
-HOY 78,p3p://focus169.org:47555/67ea910600096a5ec63cb1b5075355ba
-Hoy 77,p3p://focus169.org:47555/67dd0e8c0007cd66917772021af23f39
-NOW财经台,p3p://focus169.org:47555/67dd0d5300071ab09172ab3a56ad7555
-NOW直播台,p3p://focus169.org:47555/6417e77b0007feb1b6b9f4ca25bc6e04
-NOW新闻台,p3p://focus169.org:47555/68d29acb000bbbe8509d31d950861513
-凤凰中文,p3p://focus169.org:47555/68a6abe2000dd5d9a5012600500a1279
-凤凰资讯,p3p://focus169.org:47555/68b0665c0002e72fcb015310459b5b02
-凤凰香港台,p3p://focus169.org:47555/68a6b0e900041c3da514c6d1105e4d0d
-中视新闻,p3p://focus169.org:47555/67619ac100083ed5af3de392752b3307
-中天新闻,p3p://focus169.org:47555/6904d0390005b06a14bcbf3f6f1f135a
-TVBS,p3p://focus169.org:47555/689ef7f10003c3c286ea78d3090525a9
-民视新闻台,p3p://focus169.org:47555/68b5a795000aab6edf87ddfc70aa74bb
-东森新闻,p3p://focus169.org:47555/68b0656b00029767cafda59315612e92
-壹电视新闻台,p3p://focus169.org:47555/68b068b7000200f2cb0a86416478158a
-TVBS新闻台,p3p://focus169.org:47555/67c2faf0000d9e792b9b7d7f40e95a7b
-TVBS HD新闻台,p3p://focus169.org:47555/6762b94d000d9e01b39d37d0317b2ab1
-年代新闻台,p3p://focus169.org:47555/681f607700026c2b9485f0855cbf2f5f
-东森财经,p3p://focus169.org:47555/68ce7f8300076be94092dd9d3b315bc5
-非凡新闻,p3p://focus169.org:47555/676955eb00013181cd70c73b35a34c93
-寰宇新闻台,p3p://focus169.org:47555/68b068b7000200f2cb0a86416478158a
-三立新闻,p3p://focus169.org:47555/6766bc7f000ed78dc349b377648221c8
-CNN my,p3p://focus169.org:47555/641380c6000d7e73a588fc4e012b3240
-CNN Indonesia Indonesia,p3p://focus169.org:47555/641380ea000891c1a58987ab53f905fa
-CNBC my,p3p://focus169.org:47555/64138101000e328aa589e2f46ee85f3d
-ABC Australia my,p3p://focus169.org:47555/6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,p3p://focus169.org:47555/641381340003e883a58aa78a57c53479
-Bloomberg TV my,p3p://focus169.org:47555/6413814f000a6413a58b12ab52934c96
-France 24 my,p3p://focus169.org:47555/6413816700069158a58b6f7a03cd341c
-Euro news my,p3p://focus169.org:47555/6413817b0003393aa58bbcbf158b6409
-FOX NEWS my,p3p://focus169.org:47555/6413818e000154fca58c067b60210765
-BBC News HD,p3p://focus169.org:47555/641384e7000133cda5991a1b33cb3ea0
-DW HD,p3p://focus169.org:47555/641384f6000cbd09a59957a77daa41a1
-TVB_E-NEWS,p3p://focus169.org:47555/64102219000c6f74985f28485a5a5799
-CCTV4,p3p://focus169.org:47555/64260ca5000de050edfae9d444575946
-FOX NEWS HD,p3p://focus169.org:47555/645fa4a20009e813cef3445113f32f37
-NBC News,p3p://focus169.org:47555/645fb231000224f2cf2838ec5da021e1
-NewsmaxTV,p3p://focus169.org:47555/6463b008000a617cdebf90be602c4318
-BBC World News,p3p://focus169.org:47555/6465a784000201aee66e4af152371a81
-Cheddar News,p3p://focus169.org:47555/6465a78f00077382e66e774d7a1176a6
-NEWS 12 CONNECTICUT,p3p://focus169.org:47555/6465abce000b2c48e67f0e5e77df4110
-NEWS 12 LONG ISLAND,p3p://focus169.org:47555/6465abe3000a2f4de67f6026547a726c
-NEWS 12 THE BRONX,p3p://focus169.org:47555/6465abfa00086f05e67fb98b35733f88
-NEWS 12 WESTCHESTER,p3p://focus169.org:47555/6465ac0a00093bd1e67ff8404bce63ed
-NEWSY,p3p://focus169.org:47555/6465ac1c0003cbc0e6803d2b05391318
-ESPN News USA1 HD,p3p://focus169.org:47555/645fab270000a005cf0cb97041394996
 国外频道,#genre#
-CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN International,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-Fox News,http://1tv41.icu:8080/Y06DNq/295733/1818
-MS NOW,http://cord-cutter.net:8080/bn80NG/909467/9296
+cnn NOW,http://cord-cutter.net:8080/bn80NG/909467/9296
 NBC News NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 CBS News,https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
 ABC News Live,https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=6a687e3d-9e1e-4b73-a05b-b584f9949faa&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
@@ -937,7 +406,7 @@ F1 Channel,https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.t
 MotoGP TV,https://d1kqz1q7knpsue.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6imqvc1ng6dh/865532b0-a6fe-4943-9c23-193c5c3788ce/4.m3u8
 FanDuel TV,https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 FanDuel Racing,https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-FanDuel Sports Network Detroit,http://hardcoremedia.xyz/rabdsbmz/3731346838/254459
+FanDuel Sports Detroit,http://hardcoremedia.xyz/rabdsbmz/3731346838/254459
 FanDuel Sports Network Florida,http://hardcoremedia.xyz/rabdsbmz/3731346838/254460
 FanDuel Sports Network Midwest,http://hardcoremedia.xyz/rabdsbmz/3731346838/254462
 FanDuel Sports Network North,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/217337
@@ -990,207 +459,3 @@ Premier Sports 1 UK,https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.
 Premier Sports 2 UK,https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts
 EuroSport 1 UK,http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/147040
 EuroSport 2 UK,http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/147041
-电影,#genre#
-HBO HD my,p3p://focus169.org:47555/64137ee50006d7eca581a3b3297e60a3
-HBO tw,p3p://focus169.org:47555/681f64ef000983d59497671b54bf0d91
-HBO Family my,p3p://focus169.org:47555/64137f29000ae5e4a582ae5d42d65d7a
-HBO家庭,p3p://focus169.org:47555/64137f3c000d4a86a582f93247555bc5
-HBO Signature my,p3p://focus169.org:47555/64137f530000971da5834fca2631479a
-HBO强档,p3p://focus169.org:47555/64137f700008f329a583c3344ddf5dfc
-HBO Hits my,p3p://focus169.org:47555/64137f85000a578fa58415985b5b1f5d
-HBO原创,p3p://focus169.org:47555/64137f970005246ea5845a9326ce6233
-AXN tw,p3p://focus169.org:47555/64137fb6000e2555a584d5f94945113b
-Thrill,p3p://focus169.org:47555/644a0879000272f67a89b6687af342ae
-AXN tw2,p3p://focus169.org:47555/64137fed000660a5a585aad4055228a8
-AXN my,p3p://focus169.org:47555/6413800100002d47a585f75e0b4d15d4
-CINEMAX tw,p3p://focus169.org:47555/641380160003b61ca5864a4e3d49763a
-Cinemax my,p3p://focus169.org:47555/6413802a000969a0a58699e441aa3320
-Animax my,p3p://focus169.org:47555/6413803e00077f23a586e786585056af
-Animax tw,p3p://focus169.org:47555/6413807500012fe3a587bcbf2e6b7388
-Hits Movies my,p3p://focus169.org:47555/6413808800072695a588087e3cc239d1
-TVB 粤语片台 HYTV,p3p://focus169.org:47555/641022340009a273985f91092cb6113d
-电影一台,p3p://focus169.org:47555/68107e33000568555a624e1d359e237c
-CCM 天映经典,p3p://focus169.org:47555/64124d990007b0aaa0d9131033d9354a
-CCM 天映经典 CN中英字幕,p3p://focus169.org:47555/64124dd500082194a0d9fd8d736a3dff
-Celestial MY 天映,p3p://focus169.org:47555/64124e2b000b454ba0db4e4b137c6137
-Celestial MY 天映2,p3p://focus169.org:47555/64124e0f00045619a0dadf2552b73bf8
-CatchPlay电影台,p3p://focus169.org:47555/64252479000b7f1aea6ffd6177e3015c
-卫视中文 HD Star Chinese,p3p://focus169.org:47555/64252507000eefc4ea7228f32f390502
-好莱坞电影台,p3p://focus169.org:47555/681f654b000782669498cdf850503b77
-卫视电影台scm,p3p://focus169.org:47555/642525150008a4ecea725e071929091e
-星卫HD电影,p3p://focus169.org:47555/642521030009ef43ea62780c438e2a38
-美亚电影台,p3p://focus169.org:47555/642525310003ad3cea72ca2155c734c3
-卫视HD电影,p3p://focus169.org:47555/6425253c0007ee60ea72f6307ae25fdd
-东森电影台,p3p://focus169.org:47555/64253899000a078deabe99ff587050b0
-东森洋片,p3p://focus169.org:47555/68ce7f3f000afbf24091d4e63950359c
-纬来电影,p3p://focus169.org:47555/68ce7a170002b583407dae9164c961e7
-龙祥电影台,p3p://focus169.org:47555/642d014b0009f96e092658cb4e1b23ff
-CCTV6,p3p://focus169.org:47555/64260cc800087ffdedfb712c61a06569
-HBO Signature USA,p3p://focus169.org:47555/645fab94000cb9a6cf0e66527fc930bc
-HBO USA,p3p://focus169.org:47555/645faf2100095cb2cf1c4442765c172b
-HBO 2 USA,p3p://focus169.org:47555/645faf2e00057979cf1c760b55dd62b3
-HBO Comedy USA,p3p://focus169.org:47555/645faf390002967ccf1ca046036d356a
-HBO HD SIN USA,p3p://focus169.org:47555/645faf4700077bb5cf1cd83772282520
-HBO_West USA,p3p://focus169.org:47555/645faf5300023119cf1d05bc76d93f08
-Lifetime USA,p3p://focus169.org:47555/6462704200005b24d9de70b7255a7658
-LIFETIME MOVIES USA,p3p://focus169.org:47555/6463a5a5000a7afede96fe1018a905c5
-美国,#genre#
-CBS Sports Network HD,p3p://focus169.org:47555/645fa8fa00080514cf043b8b1b77368c
-Cheddar,p3p://focus169.org:47555/645fa9130009ca60cf049da73c631b33
-CINEMAX LATINO,p3p://focus169.org:47555/645fa937000e6330cf052b7426d66c5d
-Discovery Family,p3p://focus169.org:47555/645fa94600088bf9cf05648d374a43f3
-Discovery Life,p3p://focus169.org:47555/645fa9510007cd6ccf058f551a7f5fad
-E!,p3p://focus169.org:47555/645fab07000aed4ecf0c3f1353ef26e9
-EPIX,p3p://focus169.org:47555/645fab1400052294cf0c7060144638c8
-ESPN News USA1 HD,p3p://focus169.org:47555/645fab270000a005cf0cb97041394996
-ESPN U HD,p3p://focus169.org:47555/645fab36000d59f1cf0cf74b44076241
-ESPN 3,p3p://focus169.org:47555/645fab49000ca662cf0d415574523331
-Golf Channel,p3p://focus169.org:47555/645fab54000b6df5cf0d6bfd479148d1
-GREAT AMERICAN COUNTRY (GAC),p3p://focus169.org:47555/645fab67000d95a7cf0db6c273b64d58
-Hallmark Channel,p3p://focus169.org:47555/645fab73000887fccf0de4571c041330
-HALLMARK DRAMA,p3p://focus169.org:47555/645fab800008b0b2cf0e172919c30206
-HBO Signature,p3p://focus169.org:47555/645fab94000cb9a6cf0e66527fc930bc
-HBO,p3p://focus169.org:47555/645faf2100095cb2cf1c4442765c172b
-HBO 2,p3p://focus169.org:47555/645faf2e00057979cf1c760b55dd62b3
-HBO Comedy,p3p://focus169.org:47555/645faf390002967ccf1ca046036d356a
-HBO HD SIN,p3p://focus169.org:47555/645faf4700077bb5cf1cd83772282520
-HBO_West,p3p://focus169.org:47555/645faf5300023119cf1d05bc76d93f08
-HGTV HD,p3p://focus169.org:47555/645faf620008f794cf1d421031440484
-HLN,p3p://focus169.org:47555/645faf6d000c81e8cf1d6df010bc2957
-Hunt Channel,p3p://focus169.org:47555/645faf81000872fbcf1dbb061b22733d
-IFC,p3p://focus169.org:47555/645faf8c0001471dcf1de4297e546134
-INSP,p3p://focus169.org:47555/645faf97000d6332cf1e123a66905eb1
-Starz,p3p://focus169.org:47555/645fb2230008e9abcf2803f86356448a
-NBC News,p3p://focus169.org:47555/645fb231000224f2cf2838ec5da021e1
-STARZ EDGE HD,p3p://focus169.org:47555/645fb23a000cdfe3cf285ed44176742b
-Starz Encore Classic,p3p://focus169.org:47555/645fb252000ee85ecf28bd190f9a0ab2
-Starz in Black,p3p://focus169.org:47555/645fb25e000bff23cf28eb3a514e0515
-Starz Kids,p3p://focus169.org:47555/645fb26f00087cd0cf292cbc765a234c
-STARZ East HD,p3p://focus169.org:47555/645fb27a00083823cf2957a31eac7185
-TASTEMADE,p3p://focus169.org:47555/645fb28a000ebb70cf2997ce41cc3736
-Telemundo (Las Vegas) KBLR,p3p://focus169.org:47555/645fb6aa000067adcf39b11820ab16d1
-The Cowboy Channel,p3p://focus169.org:47555/645fb6c60003c4cfcf3a1f5556c03ff1
-THE WORD NETWORK,p3p://focus169.org:47555/645fb711000a4563cf3b45f720ec1bde
-TNT HD,p3p://focus169.org:47555/645fb72500067366cf3b931d54194f25
-TSN 1,p3p://focus169.org:47555/645fb74800051f03cf3c1b7e48bd434c
-TSN 4,p3p://focus169.org:47555/645fb758000165ffcf3c590a38de4f76
-TSN 5,p3p://focus169.org:47555/645fb76a0007dccfcf3ca10218644e9c
-VH1 HD,p3p://focus169.org:47555/645fb7790002bc69cf3cda4a555c4b28
-FXX HD,p3p://focus169.org:47555/645fb78600098f61cf3d0ed1150f614a
-American Heroes Channel,p3p://focus169.org:47555/645fbbb90002dce0cf4d74571fc73678
-Animal Planet,p3p://focus169.org:47555/645fbbb90001ac30cf4d74094f410ac9
-Boomerang,p3p://focus169.org:47555/645fbbb8000d5c60cf4d731f793375f9
-Bravo,p3p://focus169.org:47555/645fbbb7000ed03ecf4d6f965eef3fe5
-Baby TV,p3p://focus169.org:47555/645fa0cf000dc95ccee45512712a51fd
-Cartoon Network,p3p://focus169.org:47555/645fbdca000b25b2cf5588e126f826a4
-Court TV,p3p://focus169.org:47555/645fbbb70008dccdcf4d6e107b5c1b8f
-Nat Geo Wild,p3p://focus169.org:47555/645fbc4e000ef087cf4fbd770b2c438b
-Nat Geo,p3p://focus169.org:47555/645fbc5a000d37fccf4febe77c8856bb
-nickelodeon TOONS HD,p3p://focus169.org:47555/645fbc7000073512cf50404d40471c58
-NICK JR,p3p://focus169.org:47555/646270f7000efc24d9e1377e6e776138
-nickelodeon MUSIC,p3p://focus169.org:47555/6462700200081b15d9dd78b270197060
-Nick Music,p3p://focus169.org:47555/6462701400067a04d9ddbe98570c53f1
-WWE,p3p://focus169.org:47555/6462701400067a04d9ddbe9873b90463
-TCM,p3p://focus169.org:47555/646271c6000aa69fd9e45efb74141bfe
-TBS,p3p://focus169.org:47555/64626ffc000b95aad9dd622652330147
-DIY Network,p3p://focus169.org:47555/64627016000985b8d9ddc72f70d00e9e
-Dog TV,p3p://focus169.org:47555/6462702f000f1a04d9de2a4569c51756
-Lifetime,p3p://focus169.org:47555/6462704200005b24d9de70b7255a7658
-LIFETIME MOVIES,p3p://focus169.org:47555/6463a5a5000a7afede96fe1018a905c5
-BEIN SPORTS 11,p3p://focus169.org:47555/6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 4,p3p://focus169.org:47555/6463a5cb00045120de9790ec0ec340aa
-USA: BeIN Sports 6,p3p://focus169.org:47555/6463a5de00091722de97dc4d0e413139
-beIN Sports USA,p3p://focus169.org:47555/6463a5eb000a7089de980f6e0e9c48d5
-Supersport Premier League,p3p://focus169.org:47555/6463a5f80008b1c0de9841c45e2d124f
-Supersport Football,p3p://focus169.org:47555/6463a606000229f7de9876c846553fcc
-Supersport LaLiga,p3p://focus169.org:47555/6463a6260000ab5fde98f3660a053de2
-SuperSport MaXimo,p3p://focus169.org:47555/6463a638000409ffde993a937bef2d62
-Supersport Motorsport,p3p://focus169.org:47555/6463a64500015776de996caa4be276c3
-Supersport PSL,p3p://focus169.org:47555/6463a8ff000b74a1dea415d470ea7983
-Supersport Variety 3,p3p://focus169.org:47555/6463a90d000d7e9adea44d0a511a6930
-Supersport Variety 4,p3p://focus169.org:47555/6463a926000e1336dea4aed876667f60
-Tennis Channel,p3p://focus169.org:47555/6463a94a000dac55dea53b5e725857f0
-E! Entertainment,p3p://focus169.org:47555/6463a9740001391ddea5dc3e432509a2
-Syfy,p3p://focus169.org:47555/6463a98300033cd8dea6175a59d77cab
-Syfy East HD,p3p://focus169.org:47555/6463a9a00000a04bdea687f71d762dd5
-Starz Encore Suspense,p3p://focus169.org:47555/6463a9c40007d76bdea716705bdc07cf
-Starz Encore Westerners,p3p://focus169.org:47555/6463a9eb00075dcfdea7aea918277655
-CMC USA,p3p://focus169.org:47555/6463af990004c1a9debdddb529d477dc
-History,p3p://focus169.org:47555/6463afa5000ae40edebe0e274b9f668b
-History 2,p3p://focus169.org:47555/6463afb1000d7464debe3daf571548ff
-H2,p3p://focus169.org:47555/6463afbe000d9d1bdebe70825c5a097a
-Longhorn Network,p3p://focus169.org:47555/6463afcd00065844debea93d00cc790a
-TLC,p3p://focus169.org:47555/6463afd90007b7e9debed8772a126a6b
-EPIX Hits,p3p://focus169.org:47555/6463afe700066cc2debf0ed300a64c66
-Fuse,p3p://focus169.org:47555/6463aff3000eb398debf3fd11dad2ee9
-NewsmaxTV,p3p://focus169.org:47555/6463b008000a617cdebf90be602c4318
-MSNBC,p3p://focus169.org:47555/6463b01500091c93debfc3337c9a0e9c
-MSNBC b,https://epg.pw/stream/420218c7fad9229e33635428a8c68d73de60d165d59e35c1d146c4f8d1367e12.ctv
-BBC World News,p3p://focus169.org:47555/6465a784000201aee66e4af152371a81
-Cheddar News,p3p://focus169.org:47555/6465a78f00077382e66e774d7a1176a6
-Smithsonian Channel,p3p://focus169.org:47555/6465a79d00097d7be66eae831da34d70
-Showtime 2 4K+,p3p://focus169.org:47555/6465a7b1000c18cee66efd4e762372f9
-Showtime Family Zone,p3p://focus169.org:47555/6465a7bf0005cdf6e66f326272d24e9f
-Showtime Showcase,p3p://focus169.org:47555/6465a7cc0000033ce66f63ae51f40777
-SHOWTIME NEXT,p3p://focus169.org:47555/6465a7d700062be0e66f903a66377362
-ShowTime Woman,p3p://focus169.org:47555/6465a7e4000248a7e66fc203775c31a0
-Al Jazeera,p3p://focus169.org:47555/6465a7ef000203fae66fecea78625081
-The Weather Channel,p3p://focus169.org:47555/6465a7fb0004575fe6701c626deb47fd
-BET,p3p://focus169.org:47555/6465abd00001206ae67f139c230c5814
-MOTOR TREND,p3p://focus169.org:47555/6465abd00001206ae67f139c764a6ace
-FREE SPEECH TV,p3p://focus169.org:47555/6465abd00000e37ae67f138c292320b2
-NEWS 12 CONNECTICUT,p3p://focus169.org:47555/6465abce000b2c48e67f0e5e77df4110
-NEWS 12 LONG ISLAND,p3p://focus169.org:47555/6465abe3000a2f4de67f6026547a726c
-NEWS 12 THE BRONX,p3p://focus169.org:47555/6465abfa00086f05e67fb98b35733f88
-NEWS 12 WESTCHESTER,p3p://focus169.org:47555/6465ac0a00093bd1e67ff8404bce63ed
-NEWSY,p3p://focus169.org:47555/6465ac1c0003cbc0e6803d2b05391318
-RT AMERICA,p3p://focus169.org:47555/6465ac2800084395e6806d30799b0f28
-ASPIRE TV,p3p://focus169.org:47555/6465ac44000f32c7e680dc572130539e
-CHARGE!,p3p://focus169.org:47555/6465b54500006776e6a404702c326fa0
-DABL,p3p://focus169.org:47555/6465b5500000d99ae6a42f8608ee0231
-GET TV,p3p://focus169.org:47555/6465b55a000b146ce6a4593440485387
-HEROES,p3p://focus169.org:47555/6465b5660008e201e6a4878406bc226b
-MTV 2,p3p://focus169.org:47555/6465b57200035a76e6a4b4fa39e03456
-MTV CLASSIC,p3p://focus169.org:47555/6465b57e000664abe6a4e4a12a9c53c2
-MTV UHD,p3p://focus169.org:47555/6465b595000b11b4e6a53fac6b7c2eaa
-OUTDOOR CHANNEL,p3p://focus169.org:47555/6465b5a0000c3aa7e6a56af0523416a8
-OUTSIDE TV,p3p://focus169.org:47555/6465b5b40006443ae6a5b78954da1b38
-OVATION,p3p://focus169.org:47555/6465c0d70008633ae6d138ca65746d56
-OWN,p3p://focus169.org:47555/6465c0e300040c5ee6d1668d39922d8b
-PARAMOUNT NETWORK,p3p://focus169.org:47555/6465c0f300032e9ae6d1a4d574ed2855
-PBS,p3p://focus169.org:47555/6465c0fe0007acaee6d1d0f3686a31ca
-POP,p3p://focus169.org:47555/6465c12700085746e6d271474f017d4a
-POP TV,p3p://focus169.org:47555/6465c131000b3108e6d2991278326004
-QVC,p3p://focus169.org:47555/6465c13e00028b0ee6d2c9a339d47db8
-QVC UHD,p3p://focus169.org:47555/6465c1480004ae00e6d2f13f4ba531c7
-RFD-TV,p3p://focus169.org:47555/6465c15c000524e3e6d33f7e534b3a92
-TRU TV,p3p://focus169.org:47555/64682b2c00003594f04092bd64972b7e
-TRU-TV UHD,p3p://focus169.org:47555/64682b36000c1af7f040bcd964be2353
-TV LAND,p3p://focus169.org:47555/64682b43000743fdf040ee6460c377b4
-TV LAND UHD,p3p://focus169.org:47555/64682b500000c273f0411f8157394a34
-WAPA AMERICA,p3p://focus169.org:47555/64682b5a000a8366f04149101c5d5e77
-WE TV,p3p://focus169.org:47555/64682b6500031a98f041722362770d0d
-WE TV UHD,p3p://focus169.org:47555/64682b70000e7fddf041a006314532d9
-WE TV+,p3p://focus169.org:47555/64682b85000a2dc1f041f0f3612c3741
-WGN AMERICA,p3p://focus169.org:47555/64682b90000a9fe5f0421c083ebb6528
-UNIVERSAL KIDS,p3p://focus169.org:47555/64682b9c000e9ddaf0424bee25af494e
-CINEMAX MOREMAX,p3p://focus169.org:47555/64682c13000f0c0bf0441ce2648a038d
-HDNET MOVIES,p3p://focus169.org:47555/64682c1e000d1ccef044475c44c04e88
-OUTERMAX,p3p://focus169.org:47555/64682c2b000d0895f0447a1f32971abf
-RETROPLEX,p3p://focus169.org:47555/64682c38000edbdcf044ad5e53c1581a
-BALLY SPORTS ARIZONA PLUS,p3p://focus169.org:47555/64682c4400013c70f044d8c23c785ebb
-BALLY SPORTS GREAT LAKES,p3p://focus169.org:47555/64682c4f000040f3f04503797ca74a7c
-NBCSN BAY AREA,p3p://focus169.org:47555/64682c5c000b99bbf045392909a95b04
-PAC 12 ARIZONA,p3p://focus169.org:47555/64682c710005232ff045898938b03550
-PAC 12 OREGON,p3p://focus169.org:47555/64682c7d00058f14f045b8853740102a
-WORLD FISHING NETWORK,p3p://focus169.org:47555/64682c8800058758f045e37b153f0f08
-US Crime Investigation FHD,p3p://focus169.org:47555/64682d1f000dbf82f048336f50b15164
-UNIMAS,p3p://focus169.org:47555/64682d2c00014a87f048630660eb6f89
-Music Choice,p3p://focus169.org:47555/64682d3700017fbaf0488e0c4d515f97
-Music Choice - Rap 2K HD,p3p://focus169.org:47555/64682d42000bb44ff048bba17fdc1687
-Music Choice - Hip-Hop R,p3p://focus169.org:47555/64682d4f000c56e6f048ee933d4966de
-Music Choice - ALTERNATIVE,p3p://focus169.org:47555/64682d6200079767f04937936ac935be
-MoviePlex FHD,p3p://focus169.org:47555/64682d6e000ead8df049684444cc6e25
-FUSION,p3p://focus169.org:47555/64682d86000d9dd7f049c5be62a544dc
-INVESTMENT PITCH,p3p://focus169.org:47555/64682d920000784af049f14136c47100
-CCX,p3p://focus169.org:47555/64682d9d0007d19ef04a1e1b33280293 
