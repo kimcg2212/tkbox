@@ -294,6 +294,7 @@ CH8综合,http://43.251.226.89:8080/play/916.m3u8
 한국 kbs,#genre#
 parse=1 
 ua=Mozilla/5.0（Windows NT 10.0；Win64；x64）AppleWebKit/537.36（KHTML，如 Gecko）Chrome/108.0.0.0 Safari/537.36 KBSI,https://vod.kbs.co.kr/embed_live.html?ch_code=11 
+KBS1,https://vod.kbs.co.kr/embed_live.html?ch_code=11 
 KBS2,https://vod.kbs.co.kr/embed_live.html?ch_code=12 
 KBSworld,https://vod.kbs.co.kr/embed_live.html?ch_code=14 
 KBSnews,https://vod.kbs.co.kr/embed_live.html?ch_code=81 
@@ -361,8 +362,6 @@ GLOBAL FASHION,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/global
 INFAST,https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8ESPN
 国外体育,#genre#
-ESPN1,http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlh,
-ESPN2,http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXF
 ESPNEWS,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136160.ts
 ESPNU,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 ESPN Deportes,http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30063/index.m3u8
