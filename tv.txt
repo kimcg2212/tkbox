@@ -488,8 +488,7 @@ MGM+ Drive-In,http://hardcoremedia.xyz/rabdsbmz/3731346838/130059
 ScreenPix,http://hardcoremedia.xyz/rabdsbmz/3731346838/130052
 ScreenPix Action,http://hardcoremedia.xyz/rabdsbmz/3731346838/130051
 ScreenPix Voices,http://hardcoremedia.xyz/rabdsbmz/3731346838/130053
-#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="精品纯享",ScreenPix Westerns
-http://hardcoremedia.xyz/rabdsbmz/3731346838/130054
+ScreenPix Westerns,http://hardcoremedia.xyz/rabdsbmz/3731346838/130054
 MoviePlex,http://hardcoremedia.xyz/rabdsbmz/3731346838/130058
 IndiePlex,http://hardcoremedia.xyz/rabdsbmz/3731346838/130057
 RetroPlex,http://hardcoremedia.xyz/rabdsbmz/3731346838/130014
@@ -517,8 +516,7 @@ Hallmark Channel,http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 Hallmark Family,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130118.ts
 Hallmark Mystery,http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
 Lifetime,http://1tv41.icu:8080/live/Y06DNq/295733/46714.rtmp
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/500px-LMN_logo_2019.svg.png" group-title="影视剧场",LMN
-http://23.237.104.106:8080/USA_LMN/index.m3u8
+LMN,http://23.237.104.106:8080/USA_LMN/index.m3u8
 Syfy,http://23.237.104.106:8080/USA_SYFY/index.m3u8
 Comet TV,https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 MeTV,http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
