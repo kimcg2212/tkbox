@@ -345,30 +345,6 @@ ebs2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 스포티비,http://211.170.95.22/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P
-体育频道,#genre#
-CTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-五星体育,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-足球高清,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000CCTV5,,http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
-CCTV5+,http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
-超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-足球3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
-BMAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
-FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 国外频道,#genre#
 cnn NOW,http://cord-cutter.net:8080/bn80NG/909467/9296
 NBC News NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
@@ -390,6 +366,7 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 GLOBAL FASHION,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 INFAST,https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8ESPN
+国外体育,#genre#
 ESPN1,http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlh,
 ESPN2,http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXF
 ESPNEWS,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136160.ts
@@ -479,3 +456,99 @@ Premier Sports 1 UK,https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.
 Premier Sports 2 UK,https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts
 EuroSport 1 UK,http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/147040
 EuroSport 2 UK,http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/147041
+国外精品,#genre#
+HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
+HBO Hits,http://23.237.104.106:8080/USA_HBO2/index.m3u8
+HBO Drama,http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
+HBO Comedy,http://1tv41.icu:8080/live/Y06DNq/295733/17773.rtmp
+HBO Movies,http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/195447
+Showtime1,http://1tv41.icu:8080/live/Y06DNq/295733/46214.rtmp
+Showtime 2,http://hardcoremedia.xyz/rabdsbmz/3731346838/130019
+Showtime Extreme,http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
+Showtime Next,http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
+SHO x BET,http://hardcoremedia.xyz/rabdsbmz/3731346838/130016
+Showtime Women,http://206.212.244.71:8080/live/Jamesmcmillan@att.net/Jamesmcmillan@2023/17778.m3u8
+Showtime Family Zone,http://1tv41.icu:8080/Y06DNq/295733/13481
+Showtime Showcase,http://hardcoremedia.xyz/rabdsbmz/3731346838/129998
+Starz,http://hardcoremedia.xyz/rabdsbmz/3731346838/130004
+Starz Edge,http://hardcoremedia.xyz/rabdsbmz/3731346838/130007
+Starz in Black,http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
+Starz Comedy,http://hardcoremedia.xyz/rabdsbmz/3731346838/130006
+Starz Cinema,http://fastream.xyz:8080/998742589tv1/58520km/206
+Starz Kids & Family,http://hardcoremedia.xyz/rabdsbmz/3731346838/130018
+Starz Encore,http://hardcoremedia.xyz/rabdsbmz/3731346838/130060
+Starz Encore Action,http://hardcoremedia.xyz/rabdsbmz/3731346838/130009
+Starz Encore Classic,http://hardcoremedia.xyz/rabdsbmz/3731346838/130010
+Starz Encore Black,http://hardcoremedia.xyz/rabdsbmz/3731346838/130062
+Starz Encore Family,http://hardcoremedia.xyz/rabdsbmz/3731346838/130011
+Starz Encore Suspense,http://hardcoremedia.xyz/rabdsbmz/3731346838/130012
+Starz Encore Westerns,http://hardcoremedia.xyz/rabdsbmz/3731346838/13038
+Cinemax,http://1tv41.icu:8080/live/Y06DNq/295733/13380.rtmp
+Cinemax Hits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+Cinemax Action,http://1tv41.icu:8080/Y06DNq/295733/21013
+Cinemax Classics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+MGM+,http://hardcoremedia.xyz/rabdsbmz/3731346838/129987
+MGM+ Hits,http://1tv41.icu:8080/live/Y06DNq/295733/12744.rtmp
+MGM+ Marquee,http://1tv41.icu:8080/live/Y06DNq/295733/12730.rtmp
+MGM+ Drive-In,http://hardcoremedia.xyz/rabdsbmz/3731346838/130059
+ScreenPix,http://hardcoremedia.xyz/rabdsbmz/3731346838/130052
+ScreenPix Action,http://hardcoremedia.xyz/rabdsbmz/3731346838/130051
+ScreenPix Voices,http://hardcoremedia.xyz/rabdsbmz/3731346838/130053
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="精品纯享",ScreenPix Westerns
+http://hardcoremedia.xyz/rabdsbmz/3731346838/130054
+MoviePlex,http://hardcoremedia.xyz/rabdsbmz/3731346838/130058
+IndiePlex,http://hardcoremedia.xyz/rabdsbmz/3731346838/130057
+RetroPlex,http://hardcoremedia.xyz/rabdsbmz/3731346838/130014
+Sky Cinema Premiere UK,http://hardcoremedia.xyz/rabdsbmz/3731346838/10776
+Sky Cinema Select UK,http://hardcoremedia.xyz/rabdsbmz/3731346838/10778
+Sky Cinema Hits UK,http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/158320
+Sky Cinema Greats UK,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293901
+Sky Cinema Family UK,http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/1838
+Sky Cinema Action UK,http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/35254
+Sky Cinema Comedy UK,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/266709
+Sky Cinema Thriller UK,http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/158329
+Sky Cinema Drama UK,http://1tv41.icu:8080/Y06DNq/295733/35251
+Sky Cinema Sci-Fi & Horror UK,http://1tv41.icu:8080/Y06DNq/295733/35248
+Sky Cinema Animation UK,http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/158309
+Crave 1 CA,http://1tv41.icu:8080/Y06DNq/295733/57309
+Crave 2 CA,http://1tv41.icu:8080/Y06DNq/295733/57310
+Crave 3 CA,http://1tv41.icu:8080/Y06DNq/295733/57322
+Crave 4 CA,http://1tv41.icu:8080/Y06DNq/295733/57311
+国外影视,#genre#
+FX,http://23.237.104.106:8080/USA_FX/index.m3u8
+FXM,http://1tv41.icu:8080/live/Y06DNq/295733/10260.rtmp
+FXX,http://nocable.cc:8080/30550113/30550113/46699
+TCM,https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+Hallmark Channel,http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+Hallmark Family,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/130118.ts
+Hallmark Mystery,http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
+Lifetime,http://1tv41.icu:8080/live/Y06DNq/295733/46714.rtmp
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/500px-LMN_logo_2019.svg.png" group-title="影视剧场",LMN
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+Syfy,http://23.237.104.106:8080/USA_SYFY/index.m3u8
+Comet TV,https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+MeTV,http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
+Cozi TV,http://mytvstream.net:8080/live/30550113/30550113/11868.m3u8
+TV Land,http://mytvstream.net:8080/live/30550113/30550113/46696.m3u8
+Sony Movie Channel,http://cord-cutter.net:8080/Y3DvY8/934867/2214
+Ion,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
+AMC,http://cord-cutter.net:8080/Y3DvY8/934867/18925
+Paramount Network,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+Sundance TV,http://1tv41.icu:8080/live/Y06DNq/295733/46712.rtmp
+IFC,http://23.237.104.106:8080/USA_IFC/index.m3u8
+Freeform,http://1tv41.icu:8080/live/Y06DNq/295733/13370.rtmp
+Pop,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129943.ts
+GET,http://1tv41.icu:8080/live/Y06DNq/295733/18366.rtmp
+Bounce,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+Grit,http://1tv41.icu:8080/live/Y06DNq/295733/20861.rtmp
+INSP,http://mytvstream.net:8080/live/30550113/30550113/16262.m3u8
+TV One,http://1tv41.icu:8080/live/Y06DNq/295733/20868.rtmp
+BBC America,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+Antenna TV,http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129826.ts
+Sky Atlantic UK,http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/2455
+Sky Witness UK,http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/2456
+Sky Comedy UK,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14926
+Sky Sci-Fi UK,http://live.tv-link.link:8000/PBrGJXzyRT/sLZjVfHqWc/158497
+CTV Drama Channel CA,http://1tv41.icu:8080/live/Y06DNq/295733/57254.rtmp
+CTV Comedy Channel CA,http://1tv41.icu:8080/live/Y06DNq/295733/57408.rtmp
+CTV Sci-Fi Channel CA,http://1tv41.icu:8080/live/Y06DNq/295733/57464.rtmp
