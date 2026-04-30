@@ -304,10 +304,14 @@ KBSlife,https://vod.kbs.co.kr/embed_live.html?ch_code=N93
 KBSstory,https://vod.kbs.co.kr/embed_live.html?ch_code =N94 
 KBSkids,https://vod.kbs.co.kr/embed_live.html#ch_code=N96 
 한국,#genre#
+KBS1,http://43.137.43.57/get_channel.php?channel=kbs1
+KBS2,http://43.137.43.57/get_channel.php?channel=kbs2
+sbs,http://43.137.43.57/get_channel.php?channel=sbs
 sbs,http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 sbs,http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 sbs,http://123.140.197.22/stream/1/play.m3u8
 sbs,p3p://focus169.org:47555/641a15bb00049a59bf3e9df0020d319e
+mbc,http://43.137.43.57/get_channel.php?channel=mbc
 mbc,p3p://focus169.org:47555/641a15dd00040304bf3f229a0cc75cb1
 mbc,http://www.hwado.net/webtv/catv/503_CFEA7803.phpmbc,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 mbc,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1360221955.m3u8
@@ -317,6 +321,7 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선,https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_53_8022E63C.m3u8
 티비조선,https://play.ogtv2.com/live/live1012.m3u8
 티비조선2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
+jtbc,https://sogne-live.tving.com/jtbc/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc2MTcxNDQsInN1YiI6Ii9qdGJjLyoiLCJ2eHIiOjc1MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.EzGDBAF-2hHXmwMhpVz1B4ut8VAjtIvvk2c54Q1IEGo&ads.asn=17858&ads.channel_code=C01582&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001784634&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 jtbc,https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 tvN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 ybtv1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
@@ -326,8 +331,9 @@ ytn,http://210.92.207.38:40001
 ytn,https://jmp2.uk/sam-KRBD2400001XD.m3u8
 ytn,https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/f98618df-7ff0-4ff9-9078-8a0069f99407/0.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
-MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MjAxNTY0M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=EnQQNy8j~ART-CL6B8CgaDcDLN9dFqMxvQMe6H9sJX29pqbyklmlEOI-lY81qlWRTxmEJC4k~06OyP0JWqsKzMpOlc4hGtsG6WwV0PH8TUVsRke6IrxNZra7vHkpcIZ-D7dKcla-eMrJ~Pa6fDzxEWRbdNtMhDkC2benEi5NHrs_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+MBN,https://sogne-live.tving.com/mbn/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc2MTcyNzgsInN1YiI6Ii9tYm4vKiIsInZ4ciI6NzUwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJMRyBVcGx1cyIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0Ni4wLjAuMCJ9.sCIAEQj_8MOUfRnRipqfFYbjmvk111kyMq1F9D3RJsU&ads.asn=17858&ads.channel_code=C00708&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000086680&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 ABN뉴스,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+연합뉴스,https://sogne-live.tving.com/yonhap/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc2MTc1ODEsInN1YiI6Ii95b25oYXAvKiIsInZ4ciI6NzUwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJMRyBVcGx1cyIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0Ni4wLjAuMCJ9.c-3f6LRKN1ZVf1uU1YybytoMBLgkNQeyro8yZa49K4c&ads.asn=17858&ads.channel_code=C01723&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000078558&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 연합뉴스,https://noh-slb-samsung-fastcdn.uplus.co.kr/yna.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=yna.stream
 tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
 tvN story,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?한국경제TV,http://cdnmlive.wowtv.co.kr/wowmo/livestream/chunklist_w43658333.m3u8
