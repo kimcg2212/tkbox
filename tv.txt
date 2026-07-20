@@ -199,12 +199,10 @@ MNET,https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/01
 채널A Plus,https://tving-live-o2-xcdn.tving.com/o2/v1/019ddc65ee901eb80e7925af014fce/019ddc830bd11eb80e7925af014fd2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE1NzU0MjEsInBhdGgiOiIvbzIifQ.p0EwLO1KtNbOCYBDjrOuawxvDD0hq7Z4SMNFJGGZlQo
 国外频道,#genre#
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-United Sports,http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8?token=SkQuhAXZxgBan1
+sony max,http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8?token=SkQuhAXZxgBan1
 PTV Sports,http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-TF 1,https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 Somoy TV,http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 T Sports,http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-BTV Sports,http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 Craze TV,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 Channel 1 Sports,https://cdn-tt.pages.dev/ch1.m3u8
 FOX SOCCER PLUS,http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
@@ -266,66 +264,6 @@ ANTENNA TV,http://40.160.24.52/ANTENNA_TV/index.m3u8
 ABC,http://40.160.24.52/ABC/index.m3u8
 ACTIONMAX,http://40.160.24.52/ACTIONMAX/index.m3u8
 ACCU WEATHER,http://40.160.24.52/AccuWeather/index.m3u8
-VIPSerialHD,http://15.204.53.12/VIPSerialHD/playlist.m3u8
-VIPPremiereHD,http://15.204.53.12/VIPPremiereHD/playlist.m3u8
-VIPMegahitHD,http://15.204.53.12/VIPMegahitHD/playlist.m3u8
-VIPComedyHD,http://15.204.53.12/VIPComedyHD/playlist.m3u8
-ViasatSport,http://15.204.53.12/ViasatSport/playlist.m3u8
-ViasatNature,http://15.204.53.12/ViasatNature/playlist.m3u8
-Usadba,http://15.204.53.12/Usadba/playlist.m3u8
-UFCHD,http://15.204.53.12/UFCHD/playlist.m3u8
-TVCentr,http://15.204.53.12/TVCentr/playlist.m3u8
-TV1000Action,http://15.204.53.12/TV1000Action/playlist.m3u8
-TV1000,http://15.204.53.12/TV1000/playlist.m3u8
-TNTHD,http://15.204.53.12/TNTHD/playlist.m3u8
-UTV,http://15.204.53.12/UTV/playlist.m3u8
-TLC,http://15.204.53.12/TLC/playlist.m3u8
-Tiji,http://15.204.53.12/Tiji/playlist.m3u8
-Super,http://15.204.53.12/Super/playlist.m3u8
-stslove,http://15.204.53.12/stslove/playlist.m3u8
-Spas,http://15.204.53.12/Spas/playlist.m3u8
-ShansonTV,http://15.204.53.12/ShansonTV/playlist.m3u8
-RUTV,http://15.204.53.12/RUTV/playlist.m3u8
-RossiyaK,http://15.204.53.12/RossiyaK/playlist.m3u8
-Rossiya24,http://15.204.53.12/Rossiya24/playlist.m3u8
-RodnoeKino,http://15.204.53.12/RodnoeKino/playlist.m3u8
-RBK,http://15.204.53.12/RBK/playlist.m3u8
-psihologia21,http://15.204.53.12/psihologia21/playlist.m3u8
-PremialnoeHD,http://15.204.53.12/PremialnoeHD/playlist.m3u8
-PerviyHD,http://15.204.53.12/PerviyHD/playlist.m3u8
-Ozbekiston,http://15.204.53.12/Ozbekiston/playlist.m3u8
-OTR,http://15.204.53.12/OTR/playlist.m3u8
-NST,http://15.204.53.12/NST/playlist.m3u8
-Nauka20,http://15.204.53.12/Nauka20/playlist.m3u8
-NatGeoWildHD,http://15.204.53.12/NatGeoWildHD/playlist.m3u8
-Nickelodeon,http://15.204.53.12/Nickelodeon/playlist.m3u8
-MuzTV,http://15.204.53.12/MuzTV/playlist.m3u8
-MultHD,http://15.204.53.12/MultHD/playlist.m3u8
-MujskoeKino,http://15.204.53.12/MujskoeKino/playlist.m3u8
-MoyaPlanetaHD,http://15.204.53.12/MoyaPlanetaHD/playlist.m3u8
-Mosfilm,http://15.204.53.12/Mosfilm/playlist.m3u8
-Mir,http://15.204.53.12/Mir/playlist.m3u8
-M1,http://15.204.53.12/M1/playlist.m3u8
-M1,http://15.204.53.12/M1/playlist.m3u8
-KuhnyaTV,http://15.204.53.12/KuhnyaTV/playlist.m3u8
-kinouhd,http://15.204.53.12/kinouhd/playlist.m3u8
-KinoTV,http://15.204.53.12/KinoTV/playlist.m3u8
-Kinosvidanie,http://15.204.53.12/Kinosvidanie/playlist.m3u8
-KinoSemya,http://15.204.53.12/KinoSemya/playlist.m3u8
-Kinopokaz,http://15.204.53.12/Kinopokaz/playlist.m3u8
-Kinomiks,http://15.204.53.12/Kinomiks/playlist.m3u8
-KinoHit,http://15.204.53.12/KinoHit/playlist.m3u8
-KHLHD,http://15.204.53.12/KHLHD/playlist.m3u8
-KazakhTV,http://15.204.53.12/KazakhTV/playlist.m3u8
-insightuhd,http://15.204.53.12/insightuhd/playlist.m3u8
-NasheNovoeKino,http://15.204.53.12/NasheNovoeKino/playlist.m3u8
-Kinokomediya,http://15.204.53.12/Kinokomediya/playlist.m3u8
-ictv,http://15.204.53.12/ictv/playlist.m3u8
-History,http://15.204.53.12/History/playlist.m3u8
-Gulli,http://15.204.53.12/Gulli/playlist.m3u8
-Fox,http://15.204.53.12/Fox/playlist.m3u8
-DoramaHD,http://15.204.53.12/DoramaHD/playlist.m3u8
-DomKino,http://15.204.53.12/DomKino/playlist.m3u8
 NBC News NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 LiveNOW from FOX,https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
 NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
