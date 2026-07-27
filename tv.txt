@@ -531,82 +531,6 @@ Stingray CMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsu
 Stingray Easy Listening,https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 KTLA,http://ky-tv.cc/live/brendan1/brendan1/517786.ts
 
-🇸🇬新加坡频道,#genre#
-KABC,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=548980
-KCBS,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=549636
-KCAL,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=760122
-KNBC,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=550382
-KTLA,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=469336
-KTTV,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=549875
-ACCU WEATHER,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=469342
-ALJAZEERA,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=281652
-BBC WORLD NEWS,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551984
-CBS NEWS 24/7,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551996
-CNN,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=552000
-CNBC,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551993
-FOX BUSINESS,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551968
-FOX NEWS,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551982
-FRANCE 24,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551983
-MSNBC,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=551986
-SKY NEWS,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=577229
-THE WEATHER CHANNEL,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=469343
-TRT WORLD,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=577212
-TVG,http://dragon1977.com:80/play/live.php?extension=ts&mac=00:1A:79:84:92:F0&stream=487634
-CBSN LOS ANGELES,http://ky-tv.cc/live/brendan1/brendan1/399827.ts
-CBS NEWS 24/7,http://ky-tv.cc/live/brendan1/brendan1/517979.ts
-KABC,http://ky-tv.cc/live/brendan1/brendan1/517452.ts
-KABC,http://bgdc.live:25461/rodneyb5777/5777/215925
-KABC,http://tkosportz.live:25461/kimmyinny@gmail.com/5852813668/215925
-KCAL,http://line.smootvone.vip/play/live.php?extension=ts&mac=A0:BB:3E:00:03:3d&stream=986800
-KCAL,http://ky-tv.cc/live/brendan1/brendan1/517581.ts
-KCAL,http://ky-tv.cc/live/brendan1/brendan1/648417.ts
-KCBS,http://ky-tv.cc/live/brendan1/brendan1/517519.ts
-KCBS,http://ky-tv.cc/live/brendan1/brendan1/648418.ts
-KTTV,http://ky-tv.cc/live/brendan1/brendan1/517267.ts
-KTTV,http://ky-tv.cc/live/brendan1/brendan1/648521.ts
-KTTV,http://bgdc.live:25461/rodneyb5777/5777/215728
-KNBC,http://ky-tv.cc/live/brendan1/brendan1/517814.ts
-KNBC,http://ky-tv.cc/live/brendan1/brendan1/648649.ts
-
-🇲🇾马来西亚频道,#genre#
-Aljazeera,https://jmp2.uk/stvp-GB2300005ML
-Bloomberg Originals,https://jmp2.uk/stvp-USAJ30000041W
-Bloomberg TV+,https://jmp2.uk/stvp-USAJ3400011A8
-CBC News,https://jmp2.uk/stvp-CABC2300009KD
-Class CNBC,https://jmp2.uk/stvp-IT2700002ZN
-CNN,https://jmp2.uk/stvp-ATBD800001VA
-CNN Headlines,https://jmp2.uk/stvp-DEBD19000012M
-CNN News18,https://jmp2.uk/stvp-INBD1300009QZ
-CTV News,https://jmp2.uk/stvp-CA1400004AE
-Euronews EN DIRECT,https://jmp2.uk/stvp-FR2600004SS
-Euronews LIVE,https://jmp2.uk/stvp-DE2600003TR
-FanDuel TV Extra,https://jmp2.uk/stvp-US1400012RF
-NBC LX Home,https://jmp2.uk/stvp-USBB40000028E
-Rai News 24,https://jmp2.uk/stvp-IT3200004WU
-Sky News International,https://jmp2.uk/stvp-CH34000014Q
-SPIEGEL TV,https://jmp2.uk/stvp-DEAK0500441A
-Talk,https://jmp2.uk/stvp-GB1200006IV
-Tech & Co,https://jmp2.uk/stvp-FRBD4100010ZZ
-The Weather Network,https://jmp2.uk/stvp-CABC23000223U
-TV5 Monde Info,https://jmp2.uk/stvp-IT18000033C
-
-🇬🇧英国频道,#genre#
-ABC NEWS LIVE,http://ky-tv.cc/live/brendan1/brendan1/648323.ts
-ACCU WEATHER,http://ky-tv.cc/live/brendan1/brendan1/175785.ts
-ALJAZEERA,http://ky-tv.cc/live/brendan1/brendan1/499315.ts
-BBC WORLD NEWS,http://ky-tv.cc/live/brendan1/brendan1/1847083.ts
-BLOOMBERG,http://ky-tv.cc/live/brendan1/brendan1/1852103.ts
-CNN,http://ky-tv.cc/live/brendan1/brendan1/1846753.ts
-CNBC,http://ky-tv.cc/live/brendan1/brendan1/943540.ts
-FOX BUSINESS,http://ky-tv.cc/live/brendan1/brendan1/2209769.ts
-FOX NEWS,http://ky-tv.cc/live/brendan1/brendan1/648545.ts
-FOX WEATHER,http://ky-tv.cc/live/brendan1/brendan1/2567237.ts
-FRANCE 24,http://ky-tv.cc/live/brendan1/brendan1/189950.ts
-MSNBC,http://ky-tv.cc/live/brendan1/brendan1/228579.ts
-RTE NEWS,http://ky-tv.cc/live/brendan1/brendan1/189995.ts
-SKY NEWS,http://ky-tv.cc/live/brendan1/brendan1/1383051.ts
-THE WEATHER CHANNEL,http://ky-tv.cc/live/brendan1/brendan1/175945.ts
-
 🇯🇵日本频道,#genre#
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
@@ -621,7 +545,6 @@ Tokyo MX2,https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mod
 BS NTV,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
 BS Asahi,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
 BS TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
-BS 10,https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 BS 11,https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 BS 12,https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
 NHK BS4K,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
