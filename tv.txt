@@ -443,6 +443,15 @@ BLOOMBERG,http://40.160.24.52/BLOOMBERG/index.m3u8
 CHEDDAR NEWS,http://40.160.24.52/CHEDDAR_NEWS/index.m3u8
 FX,http://40.160.24.52/FX/index.m3u8
 FLIX,http://40.160.24.52/FLIX/index.m3u8
+HBO,http://15.204.246.24:8080/HBOHD/index.m3u8
+HBO2,http://15.204.246.24:8080/HBO2HD/index.m3u8
+HBOPlus,http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+HBOFamily,http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+WarnerChannel,http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
+Disney,http://15.204.246.24:8080/DisneyHD/index.m3u8
+Cinecanal,http://15.204.246.24:8080/CinecanalHD/index.m3u8
+sonyMovies,http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+SonyHD,http://15.204.246.24:8080/SonyHD/index.m3u8
 ACTIONMAX,http://40.160.24.52/ACTIONMAX/index.m3u8
 CINEMAX EAST,http://40.160.24.52/CINEMAX_EAST/index.m3u8
 CINEMAX WEST,http://40.160.24.52/CINEMAX_WEST/index.m3u8
