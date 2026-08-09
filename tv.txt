@@ -395,7 +395,7 @@ SPOTV2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2#.m3u8
 SPOTV Prime,https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
 SPOTV Prime2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2#.m3u8
 SPOTV Prime2,https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
-SPOTV PRIME+,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime#.m3u8
+SPOTV Prime+,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime#.m3u8
 SPOTV Prime+,https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
 BilliardsTV,https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
 Skysports F1,https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=Br5URhDulDNVzAtwJhUHgA&e=2072611046&scheme=https
