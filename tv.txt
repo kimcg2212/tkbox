@@ -360,7 +360,7 @@ mbc,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w260947833.m3u8
 티비조선,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 jtbc,https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7
 jtbc,https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
-채널A,https://tving-live-o2-ktcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MzA0ODE2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=DzZgC0ZDACtGmXeVnSKuv2iag4PhrSD5LHLN4Mt29rC8BIAlyDRWLsmV06tyMwZDtKxxGf65jAxJRLS6yV6L21DwJnWUva6-xJDTcw1EfJKFiJvQqkg5HwM1Q1bMg5ybMfhNiVzYtr22ntos2dEPKOlt0ySJof2X9O2YMGEZchJwjBJdyInKAY-0oJJHkxumyzNmvP1mQ6OALRn5GpEIcJnlCVfcjycqz4NIwZjW3jdZz~UMaGKavda3xFWNuqVwAMzaOTc9L5i~MRUim0Zu2g37bqkdhQJevPCs6xd0BF7yuLDkgPT3RVHiND2UOJu8IoXYRMxA6g9aRt0l8DwpYw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+채널A,https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODc0NTM3NzcsInBhdGgiOiIvbzIifQ._XVty2R8ldK0zerplQtmjlZO62rT-hzP9bsq89Q4EZo
 tvN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 ybtv1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 ybtv2,https://srs.iyb983.cn/video/ybtv2/index.m3u8
@@ -372,8 +372,7 @@ YTN2,https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 연합뉴스,https://noh-slb-samsung-fastcdn.uplus.co.kr/yna.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=yna.stream
 연합뉴스,https://live-th10.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=eaRByMvJw0UctghzvXsaA1xwMxFVZnO9G2f232VS&secret=6c2a394fc34ce9f0d1b6bc1b12e072b1&time=1772753846
-mbn,https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
-tvN story,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+mbn,https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8cebaab8153d78653848a0124b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODc0NTM3NjAsInBhdGgiOiIvbzIifQ.J2fg_RyqBNQ0Llmxw1d5VWV-wdGePY4WxVKlYOS3tug
 OCN Movies,https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 CJ ENM Movie,https://jmp2.uk/stvp-KRBC32000191N
 PLAYY,https://jmp2.uk/stvp-KR12000017G
