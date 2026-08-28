@@ -372,7 +372,7 @@ YTN2,https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 연합뉴스,https://noh-slb-samsung-fastcdn.uplus.co.kr/yna.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=yna.stream
 연합뉴스,https://live-th10.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=eaRByMvJw0UctghzvXsaA1xwMxFVZnO9G2f232VS&secret=6c2a394fc34ce9f0d1b6bc1b12e072b1&time=1772753846
-mbn,https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8cebaab8153d78653848a0124b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODc0NTM3NjAsInBhdGgiOiIvbzIifQ.J2fg_RyqBNQ0Llmxw1d5VWV-wdGePY4WxVKlYOS3tug
+mbn,https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Nzk1OTY1NX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=s9T-banADTi3hWR6J2DRNon-OUqL~0KMSa87y0gKwozxYV9tL0h4dP73KKp1fjgJKWQKrZwi63MTo5FL5mQIONIEGG0iw2FH8P4o6J5B4sUX~RwP-3DMVwKe2-OBLb7veQ6f6nyTvdxJVzYz45KPbN3lRLT-IWzmXUoaqQ-NuNQ_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 OCN Movies,https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 CJ ENM Movie,https://jmp2.uk/stvp-KRBC32000191N
 PLAYY,https://jmp2.uk/stvp-KR12000017G
@@ -425,14 +425,11 @@ ebs2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 ebse,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 国外频道,#genre#
-ABC,http://40.160.24.52/ABC/index.m3u8
+ABC,http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-FOX,http://40.160.24.52/FOX/index.m3u8
-FOX NEWS,http://40.160.24.52/FOX_NEWS/index.m3u8
-FOX BUSINESS,http://40.160.24.52/FOX_BUSINESS/index.m3u8
-BBC WORLD,http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
-ABC,http://40.160.24.52/ABC/index.m3u8
-BBC AMERICA,http://40.160.24.52/BBC_AMERICA/index.m3u8
+FOX,http://stream.cammonitorplus.net/1752/index.m3u8
+FOX NEWS,http://45.190.28.50/FOX_NEWS/index.m3u8
+FOX BUSINESS,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 NBC News NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC News International,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8
