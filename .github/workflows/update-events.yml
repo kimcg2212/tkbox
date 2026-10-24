@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */3 * * *"   # 每 3 小时更新一次(UTC),可自行修改
   workflow_dispatch:         # 允许在 Actions 页面手动运行
-  push:
-    paths:
-      - "update_events.py"
 
 permissions:
   contents: write
@@ -15,18 +12,26 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      # 不使用任何第三方 Action(仓库要求 Action 必须固定 SHA),直接用 git 拉取仓库
+      - name: Checkout repository
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" repo
 
       - name: Convert events.m3u8 and update tv.txt
-        run: python update_events.py
+        working-directory: repo
+        run: python3 update_events.py
 
-      - name: Commit changes
+      - name: Commit and push changes
+        working-directory: repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add tv.txt
-          git diff --cached --quiet || (git commit -m "Auto update 国外体育 events" && git push)
+          if git diff --cached --quiet; then
+            echo "tv.txt 无变化,不提交。"
+          else
+            git commit -m "Auto update 国外体育 events"
+            git push
+          fi
