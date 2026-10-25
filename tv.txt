@@ -345,6 +345,7 @@ KBSkids,https://vod.kbs.co.kr/embed_live.html#ch_code=N96
 한국,#genre#
 KBS1,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
 KBS1,http://koreatv.dothome.co.kr/kbs1.php
+KBS1,tvbus://4rDTwcfcrJgaaGCwRNivAxYpmqms86jkRpns2dSq9T7BM848p8
 KBS2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 KBS2,http://koreatv.dothome.co.kr/kbs2.php
 sbs,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
