@@ -371,14 +371,15 @@ tvn,https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 ybtv1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 ybtv2,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 연변위성,https://srs.iyb983.cn/video/CYS/index.m3u8
-ytn,http://210.92.207.38:40001
+YTN,https://backup.760515.xyz/playlist/YTN-playlist.m3u8
+YTN,http://210.92.207.38:40001
+YTN2,https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
 YTN2,https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
 연합뉴스,https://jmp2.uk/stvp-KRBD1400001ED
 mbn,https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream
-m-net,https://tving-live-o2-skcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyOTU5NDkyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=R--85BHCCOizFq5Fsk2Mu1IoteD-gmCjSyrJAd2PcuH-Zi4huE0EuqN0K8wFUyzzY8ejems2ik9Ie6-y44F11p9JvsYcb4HvLoL1u3Hv9RQbzZIeADsQlCXGpTf8BzOtnP1icoXt-eqGPo0V96cVIM9IUxnwi5kBuQoIVrb8aX63n0f2I7pOFIYM~BZhd64ZlnMVzkjAhP2VPLRL5KhFvkuiA~Vz6IC28roj5gppmDPkkrotE3IvbJGKu-xa5akO0s5zsOfqsXyMeujDtrSQTDQC6M7mCdKvG5puobWV0rv8U8Y6gfG5pW9VGekJ85xnETfJkTyP9QXm5ljjML1aKg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+m-net,https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
 CJ ENM Movie,https://jmp2.uk/stvp-KRBC32000191N
 PLAYY,https://jmp2.uk/stvp-KR12000017G
-tvN SPORTS,https://live-th10.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=wvxGUVKUC8ecPNnlMMafXfMuPSCWW35YiGMxLKpv&secret=d9f6c7f86d334a9e721268b15d04f870&time=1765891767
 PGA Tour,https://jmp2.uk/stvp-KRBD3100007WB
 스크린골프,https://jmp2.uk/stvp-KR44000010Y
 tvN SHOW,https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93FgzI7OGAdeeXCXGw4BXFPzQo&secret=a9025939f2d1e981d2020031a966729e&time=1765893046
