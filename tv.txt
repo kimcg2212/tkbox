@@ -402,6 +402,8 @@ ebs키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 国外频道,#genre#
 ABC,http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+rt news,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 FOX,http://stream.cammonitorplus.net/1752/index.m3u8
 FOX NEWS,http://45.190.28.50/FOX_NEWS/index.m3u8
 FOX BUSINESS,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
